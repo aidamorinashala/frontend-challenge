@@ -6,6 +6,7 @@ import Image from 'next/image';
 import { StarRating } from '@/components/Rating/StarRating';
 import { useViewMode } from '@/hooks/useViewMode';
 import { ViewModeToggle } from '../Toggle/ViewModeToggle';
+import { CategoryLabel } from '../CategoryLabel';
 
 export function ProductGrid() {
   const { viewMode, toggleViewMode } = useViewMode('grid');
@@ -53,9 +54,7 @@ export function ProductGrid() {
             </div>
             <div className="flex-1">
               <h3 className="text-lg font-semibold mb-2">{product.name}</h3>
-              <span className="inline-block bg-blue-100 text-blue-600 text-sm px-3 py-1 mb-2 rounded-full">
-                {product.category}
-              </span>
+              <CategoryLabel category={product.category}/>
               <p className="text-gray-500 mb-2">{product.shortDescription}</p>
               <p className="text-gray-700 font-medium mb-2">${product.price}</p>
               <StarRating productRating={product.rating}/>
