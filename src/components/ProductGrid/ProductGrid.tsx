@@ -57,9 +57,9 @@ export function ProductGrid() {
               <Image
                 src={product.image}
                 alt={product.name}
-                layout="fill"
-                objectFit="cover"
+                fill={true}
                 className="rounded-md"
+                sizes="(max-width: 640px) 100vw, (max-width: 768px) 50vw, 33vw"
               />
             </div>
 
