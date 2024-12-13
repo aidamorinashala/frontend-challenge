@@ -1,5 +1,15 @@
-import { ProductGrid } from '@/components/ProductGrid/ProductGrid'
+'use client';
+
+import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
+import { useState } from 'react';
+import { ProductGrid } from '@/components/ProductGrid/ProductGrid';
 
 export default function Challenge1() {
-  return <ProductGrid />
+  const [queryClient] = useState(() => new QueryClient());
+
+  return (
+    <QueryClientProvider client={queryClient}>
+      <ProductGrid />
+    </QueryClientProvider>
+  );
 }
