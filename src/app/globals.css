@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: var(--font-title);
+  letter-spacing: -0.02em;
+  position: relative;
+}
+
+h1:before, h2:before, h3:before, h4:before, h5:before, h6:before {
+  content: '';
+  @apply absolute -bottom-2 left-0 h-1 w-8 rounded-full;
+}
+
+h1:before {
+  @apply bg-green-500;
+}
+
+h2:before {
+  @apply bg-blurple/75;
+}

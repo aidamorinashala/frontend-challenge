@@ -1,0 +1,5004 @@
+{
+  "products": [
+    {
+      "id": "9d1bcdd6-ea7e-4a2f-922e-b1375b7a39cd",
+      "name": "Electronic Granite Mouse",
+      "price": 273,
+      "shortDescription": "Our golden-inspired Bacon brings a taste of luxury to your all lifestyle",
+      "image": "https://picsum.photos/seed/9d1bcdd6-ea7e-4a2f-922e-b1375b7a39cd/800/800",
+      "category": "Garden",
+      "stock": 74,
+      "rating": 1
+    },
+    {
+      "id": "042ab037-c866-4044-82bb-0aa1b5b4ce73",
+      "name": "Sleek Metal Bike",
+      "price": 265,
+      "shortDescription": "Ergonomic Bacon made with Soft for all-day joyful support",
+      "image": "https://picsum.photos/seed/042ab037-c866-4044-82bb-0aa1b5b4ce73/800/800",
+      "category": "Kids",
+      "stock": 94,
+      "rating": 1
+    },
+    {
+      "id": "64d56bdf-fb10-4214-97c9-a199f122dce9",
+      "name": "Oriental Metal Bacon",
+      "price": 366,
+      "shortDescription": "Savor the fresh essence in our Keyboard, designed for reasonable culinary adventures",
+      "image": "https://picsum.photos/seed/64d56bdf-fb10-4214-97c9-a199f122dce9/800/800",
+      "category": "Automotive",
+      "stock": 79,
+      "rating": 4
+    },
+    {
+      "id": "268d3b86-43d9-4bf0-aaf9-cec5b7e6fe4e",
+      "name": "Licensed Granite Mouse",
+      "price": 650,
+      "shortDescription": "Stylish Towels designed to make you stand out with both looks",
+      "image": "https://picsum.photos/seed/268d3b86-43d9-4bf0-aaf9-cec5b7e6fe4e/800/800",
+      "category": "Games",
+      "stock": 38,
+      "rating": 5
+    },
+    {
+      "id": "aa4f5237-8bf5-4957-acf1-37d6893817db",
+      "name": "Refined Wooden Gloves",
+      "price": 245,
+      "shortDescription": "Featuring Mercury-enhanced technology, our Ball offers unparalleled watery performance",
+      "image": "https://picsum.photos/seed/aa4f5237-8bf5-4957-acf1-37d6893817db/800/800",
+      "category": "Outdoors",
+      "stock": 12,
+      "rating": 2
+    },
+    {
+      "id": "28309f9b-2f11-4562-a78a-230b9478d3f1",
+      "name": "Licensed Bronze Keyboard",
+      "price": 770,
+      "shortDescription": "Our fresh-inspired Shirt brings a taste of luxury to your posh lifestyle",
+      "image": "https://picsum.photos/seed/28309f9b-2f11-4562-a78a-230b9478d3f1/800/800",
+      "category": "Computers",
+      "stock": 2,
+      "rating": 4
+    },
+    {
+      "id": "cdbd2578-6961-487b-b067-48dc08a902ee",
+      "name": "Electronic Plastic Chicken",
+      "price": 551,
+      "shortDescription": "Introducing the New Zealand-inspired Hat, blending cloudy style with local craftsmanship",
+      "image": "https://picsum.photos/seed/cdbd2578-6961-487b-b067-48dc08a902ee/800/800",
+      "category": "Games",
+      "stock": 77,
+      "rating": 5
+    },
+    {
+      "id": "735cfa1c-7dff-40f8-b222-5045e31e4e17",
+      "name": "Sleek Frozen Chicken",
+      "price": 557,
+      "shortDescription": "Introducing the Syrian Arab Republic-inspired Sausages, blending jubilant style with local craftsmanship",
+      "image": "https://picsum.photos/seed/735cfa1c-7dff-40f8-b222-5045e31e4e17/800/800",
+      "category": "Toys",
+      "stock": 17,
+      "rating": 1
+    },
+    {
+      "id": "1d5cbe49-4059-4b35-ba8a-aff906853dc7",
+      "name": "Ergonomic Concrete Ball",
+      "price": 781,
+      "shortDescription": "Our moist-inspired Pants brings a taste of luxury to your unsteady lifestyle",
+      "image": "https://picsum.photos/seed/1d5cbe49-4059-4b35-ba8a-aff906853dc7/800/800",
+      "category": "Music",
+      "stock": 27,
+      "rating": 5
+    },
+    {
+      "id": "fa14951d-42ba-4777-9b4d-961b4b6f7031",
+      "name": "Ergonomic Soft Keyboard",
+      "price": 822,
+      "shortDescription": "Sanford - Effertz's most advanced Gloves technology increases humiliating capabilities",
+      "image": "https://picsum.photos/seed/fa14951d-42ba-4777-9b4d-961b4b6f7031/800/800",
+      "category": "Automotive",
+      "stock": 100,
+      "rating": 5
+    },
+    {
+      "id": "74528598-b41b-4681-af48-da4a4922c46f",
+      "name": "Licensed Soft Salad",
+      "price": 103,
+      "shortDescription": "The Louie Pants is the latest in a series of uncomfortable products from Abbott - Crooks",
+      "image": "https://picsum.photos/seed/74528598-b41b-4681-af48-da4a4922c46f/800/800",
+      "category": "Beauty",
+      "stock": 51,
+      "rating": 1
+    },
+    {
+      "id": "7d97e4c2-ebcb-4e23-862a-454e46992bd2",
+      "name": "Unbranded Concrete Ball",
+      "price": 167,
+      "shortDescription": "Savor the crispy essence in our Shirt, designed for responsible culinary adventures",
+      "image": "https://picsum.photos/seed/7d97e4c2-ebcb-4e23-862a-454e46992bd2/800/800",
+      "category": "Grocery",
+      "stock": 98,
+      "rating": 4
+    },
+    {
+      "id": "23b31d65-9a9e-4f09-bb70-a7d4015eac17",
+      "name": "Awesome Metal Shoes",
+      "price": 690,
+      "shortDescription": "The ivory Fish combines Palau aesthetics with Fluorine-based durability",
+      "image": "https://picsum.photos/seed/23b31d65-9a9e-4f09-bb70-a7d4015eac17/800/800",
+      "category": "Music",
+      "stock": 96,
+      "rating": 3
+    },
+    {
+      "id": "f9b02087-f6b8-484c-a533-9b88e5e8c90a",
+      "name": "Intelligent Steel Pizza",
+      "price": 705,
+      "shortDescription": "Professional-grade Cheese perfect for troubled training and recreational use",
+      "image": "https://picsum.photos/seed/f9b02087-f6b8-484c-a533-9b88e5e8c90a/800/800",
+      "category": "Automotive",
+      "stock": 56,
+      "rating": 1
+    },
+    {
+      "id": "f2e924c6-6c2b-4b7f-b653-3d21d1dce66d",
+      "name": "Gorgeous Concrete Computer",
+      "price": 539,
+      "shortDescription": "The sleek and prudent Pizza comes with pink LED lighting for smart functionality",
+      "image": "https://picsum.photos/seed/f2e924c6-6c2b-4b7f-b653-3d21d1dce66d/800/800",
+      "category": "Automotive",
+      "stock": 75,
+      "rating": 1
+    },
+    {
+      "id": "d2fb356a-6224-4d9c-815b-273875c180ce",
+      "name": "Incredible Fresh Sausages",
+      "price": 243,
+      "shortDescription": "Introducing the Trinidad and Tobago-inspired Keyboard, blending biodegradable style with local craftsmanship",
+      "image": "https://picsum.photos/seed/d2fb356a-6224-4d9c-815b-273875c180ce/800/800",
+      "category": "Jewelry",
+      "stock": 84,
+      "rating": 5
+    },
+    {
+      "id": "ac5a2011-3586-4260-a992-cbace2584ab6",
+      "name": "Incredible Rubber Keyboard",
+      "price": 398,
+      "shortDescription": "Discover the gaseous new Ball with an exciting mix of Fresh ingredients",
+      "image": "https://picsum.photos/seed/ac5a2011-3586-4260-a992-cbace2584ab6/800/800",
+      "category": "Industrial",
+      "stock": 95,
+      "rating": 4
+    },
+    {
+      "id": "9b229ae5-ad76-4564-941d-b6a62b09de47",
+      "name": "Oriental Metal Salad",
+      "price": 125,
+      "shortDescription": "Oriental Gloves designed with Frozen for poor performance",
+      "image": "https://picsum.photos/seed/9b229ae5-ad76-4564-941d-b6a62b09de47/800/800",
+      "category": "Grocery",
+      "stock": 76,
+      "rating": 1
+    },
+    {
+      "id": "c2cf8448-d6a2-4547-8245-fdde02e8fab9",
+      "name": "Handmade Granite Mouse",
+      "price": 158,
+      "shortDescription": "The sleek and serpentine Keyboard comes with teal LED lighting for smart functionality",
+      "image": "https://picsum.photos/seed/c2cf8448-d6a2-4547-8245-fdde02e8fab9/800/800",
+      "category": "Shoes",
+      "stock": 23,
+      "rating": 1
+    },
+    {
+      "id": "62765771-ea2f-44e7-ad3c-127ba79b79ac",
+      "name": "Generic Steel Chair",
+      "price": 608,
+      "shortDescription": "Innovative Salad featuring polished technology and Concrete construction",
+      "image": "https://picsum.photos/seed/62765771-ea2f-44e7-ad3c-127ba79b79ac/800/800",
+      "category": "Industrial",
+      "stock": 99,
+      "rating": 1
+    },
+    {
+      "id": "3c051cff-aa7d-4187-881f-3b4b04fd1742",
+      "name": "Licensed Metal Computer",
+      "price": 509,
+      "shortDescription": "Our bee-friendly Bike ensures illiterate comfort for your pets",
+      "image": "https://picsum.photos/seed/3c051cff-aa7d-4187-881f-3b4b04fd1742/800/800",
+      "category": "Garden",
+      "stock": 13,
+      "rating": 3
+    },
+    {
+      "id": "6b8417d5-7192-4e91-b94b-c8741e423d57",
+      "name": "Rustic Plastic Bike",
+      "price": 313,
+      "shortDescription": "The gold Chair combines Somalia aesthetics with Hydrogen-based durability",
+      "image": "https://picsum.photos/seed/6b8417d5-7192-4e91-b94b-c8741e423d57/800/800",
+      "category": "Tools",
+      "stock": 15,
+      "rating": 3
+    },
+    {
+      "id": "f2cc6f44-ea28-4a5b-ab35-901bdb8a1970",
+      "name": "Luxurious Granite Bike",
+      "price": 554,
+      "shortDescription": "Savor the tender essence in our Bacon, designed for pleasant culinary adventures",
+      "image": "https://picsum.photos/seed/f2cc6f44-ea28-4a5b-ab35-901bdb8a1970/800/800",
+      "category": "Baby",
+      "stock": 22,
+      "rating": 2
+    },
+    {
+      "id": "c930cfa7-bf00-4ffe-b2db-37274672fede",
+      "name": "Luxurious Steel Ball",
+      "price": 122,
+      "shortDescription": "Thompson Inc's most advanced Keyboard technology increases gruesome capabilities",
+      "image": "https://picsum.photos/seed/c930cfa7-bf00-4ffe-b2db-37274672fede/800/800",
+      "category": "Music",
+      "stock": 38,
+      "rating": 3
+    },
+    {
+      "id": "2838fcf6-1d6f-4ed9-bd4e-9203047612ba",
+      "name": "Fantastic Granite Shirt",
+      "price": 445,
+      "shortDescription": "Introducing the Bhutan-inspired Keyboard, blending first style with local craftsmanship",
+      "image": "https://picsum.photos/seed/2838fcf6-1d6f-4ed9-bd4e-9203047612ba/800/800",
+      "category": "Kids",
+      "stock": 30,
+      "rating": 2
+    },
+    {
+      "id": "61ef61af-b040-4739-a278-57a2f6c91068",
+      "name": "Small Granite Keyboard",
+      "price": 467,
+      "shortDescription": "Our salty-inspired Table brings a taste of luxury to your unique lifestyle",
+      "image": "https://picsum.photos/seed/61ef61af-b040-4739-a278-57a2f6c91068/800/800",
+      "category": "Computers",
+      "stock": 9,
+      "rating": 4
+    },
+    {
+      "id": "b2344dbc-671c-4571-8f75-03e9c7d1cebe",
+      "name": "Rustic Bronze Salad",
+      "price": 251,
+      "shortDescription": "Experience the tan brilliance of our Bacon, perfect for trusty environments",
+      "image": "https://picsum.photos/seed/b2344dbc-671c-4571-8f75-03e9c7d1cebe/800/800",
+      "category": "Grocery",
+      "stock": 73,
+      "rating": 3
+    },
+    {
+      "id": "126c3e48-6071-4846-be53-5099bd06ad79",
+      "name": "Oriental Bronze Tuna",
+      "price": 851,
+      "shortDescription": "Experience the violet brilliance of our Chair, perfect for unwritten environments",
+      "image": "https://picsum.photos/seed/126c3e48-6071-4846-be53-5099bd06ad79/800/800",
+      "category": "Home",
+      "stock": 88,
+      "rating": 3
+    },
+    {
+      "id": "36ccccae-4a6a-4fcd-bf87-4712b76aa253",
+      "name": "Bespoke Concrete Ball",
+      "price": 188,
+      "shortDescription": "The sleek and incomparable Table comes with salmon LED lighting for smart functionality",
+      "image": "https://picsum.photos/seed/36ccccae-4a6a-4fcd-bf87-4712b76aa253/800/800",
+      "category": "Clothing",
+      "stock": 12,
+      "rating": 2
+    },
+    {
+      "id": "842b76ca-47e9-43b6-8aae-489d819c31cd",
+      "name": "Modern Plastic Bike",
+      "price": 902,
+      "shortDescription": "Professional-grade Shirt perfect for mealy training and recreational use",
+      "image": "https://picsum.photos/seed/842b76ca-47e9-43b6-8aae-489d819c31cd/800/800",
+      "category": "Tools",
+      "stock": 88,
+      "rating": 2
+    },
+    {
+      "id": "0905e187-6b84-409f-a2d3-da225de97604",
+      "name": "Rustic Rubber Fish",
+      "price": 400,
+      "shortDescription": "The Shea Chicken is the latest in a series of frivolous products from Kovacek, Mitchell and Ferry",
+      "image": "https://picsum.photos/seed/0905e187-6b84-409f-a2d3-da225de97604/800/800",
+      "category": "Tools",
+      "stock": 79,
+      "rating": 1
+    },
+    {
+      "id": "c48a3df8-79fd-43f8-b737-a1b952c5ab62",
+      "name": "Bespoke Bronze Tuna",
+      "price": 781,
+      "shortDescription": "Innovative Computer featuring smug technology and Plastic construction",
+      "image": "https://picsum.photos/seed/c48a3df8-79fd-43f8-b737-a1b952c5ab62/800/800",
+      "category": "Industrial",
+      "stock": 15,
+      "rating": 1
+    },
+    {
+      "id": "d086dc51-8147-4ed4-b62a-5788f12da0ce",
+      "name": "Sleek Plastic Bike",
+      "price": 910,
+      "shortDescription": "Discover the bear-like agility of our Car, perfect for digital users",
+      "image": "https://picsum.photos/seed/d086dc51-8147-4ed4-b62a-5788f12da0ce/800/800",
+      "category": "Beauty",
+      "stock": 89,
+      "rating": 3
+    },
+    {
+      "id": "9d6a0369-852c-43f7-b39e-6a549f81fefa",
+      "name": "Intelligent Cotton Mouse",
+      "price": 384,
+      "shortDescription": "Professional-grade Hat perfect for phony training and recreational use",
+      "image": "https://picsum.photos/seed/9d6a0369-852c-43f7-b39e-6a549f81fefa/800/800",
+      "category": "Electronics",
+      "stock": 12,
+      "rating": 5
+    },
+    {
+      "id": "52a81606-022a-4781-a9a0-f6f22aa74e7d",
+      "name": "Incredible Bronze Keyboard",
+      "price": 337,
+      "shortDescription": "Introducing the Micronesia-inspired Mouse, blending bleak style with local craftsmanship",
+      "image": "https://picsum.photos/seed/52a81606-022a-4781-a9a0-f6f22aa74e7d/800/800",
+      "category": "Electronics",
+      "stock": 44,
+      "rating": 3
+    },
+    {
+      "id": "3d53b897-5f80-46ce-821c-c6ec6100156e",
+      "name": "Unbranded Frozen Sausages",
+      "price": 863,
+      "shortDescription": "Featuring Bismuth-enhanced technology, our Bacon offers unparalleled major performance",
+      "image": "https://picsum.photos/seed/3d53b897-5f80-46ce-821c-c6ec6100156e/800/800",
+      "category": "Sports",
+      "stock": 27,
+      "rating": 1
+    },
+    {
+      "id": "14815069-2782-4ccf-a3f6-c5951fcf2f2a",
+      "name": "Unbranded Wooden Gloves",
+      "price": 805,
+      "shortDescription": "Experience the teal brilliance of our Bike, perfect for unwelcome environments",
+      "image": "https://picsum.photos/seed/14815069-2782-4ccf-a3f6-c5951fcf2f2a/800/800",
+      "category": "Movies",
+      "stock": 68,
+      "rating": 5
+    },
+    {
+      "id": "224342cf-cbf6-4a23-bddc-84f6d29f6657",
+      "name": "Intelligent Rubber Car",
+      "price": 366,
+      "shortDescription": "The sleek and wordy Table comes with grey LED lighting for smart functionality",
+      "image": "https://picsum.photos/seed/224342cf-cbf6-4a23-bddc-84f6d29f6657/800/800",
+      "category": "Tools",
+      "stock": 28,
+      "rating": 3
+    },
+    {
+      "id": "293af327-24d5-4ee6-ae21-984bf78b4f51",
+      "name": "Recycled Plastic Sausages",
+      "price": 434,
+      "shortDescription": "Our crispy-inspired Cheese brings a taste of luxury to your puny lifestyle",
+      "image": "https://picsum.photos/seed/293af327-24d5-4ee6-ae21-984bf78b4f51/800/800",
+      "category": "Electronics",
+      "stock": 58,
+      "rating": 1
+    },
+    {
+      "id": "86476c6e-b782-4ded-a92d-22839a3b9729",
+      "name": "Ergonomic Concrete Chair",
+      "price": 550,
+      "shortDescription": "Professional-grade Bacon perfect for palatable training and recreational use",
+      "image": "https://picsum.photos/seed/86476c6e-b782-4ded-a92d-22839a3b9729/800/800",
+      "category": "Home",
+      "stock": 68,
+      "rating": 4
+    },
+    {
+      "id": "2d95ec4b-8f81-4cbb-a2df-f659babb6dc5",
+      "name": "Licensed Metal Cheese",
+      "price": 917,
+      "shortDescription": "Rolfson - Davis's most advanced Car technology increases energetic capabilities",
+      "image": "https://picsum.photos/seed/2d95ec4b-8f81-4cbb-a2df-f659babb6dc5/800/800",
+      "category": "Garden",
+      "stock": 23,
+      "rating": 5
+    },
+    {
+      "id": "44b5a655-f567-4836-9c36-e7c0a28a29e4",
+      "name": "Tasty Fresh Shirt",
+      "price": 666,
+      "shortDescription": "Discover the flamingo-like agility of our Hat, perfect for dead users",
+      "image": "https://picsum.photos/seed/44b5a655-f567-4836-9c36-e7c0a28a29e4/800/800",
+      "category": "Grocery",
+      "stock": 55,
+      "rating": 4
+    },
+    {
+      "id": "3bc03ce3-9b9a-4703-8940-deb39e7e4bed",
+      "name": "Oriental Concrete Computer",
+      "price": 486,
+      "shortDescription": "Innovative Salad featuring brisk technology and Metal construction",
+      "image": "https://picsum.photos/seed/3bc03ce3-9b9a-4703-8940-deb39e7e4bed/800/800",
+      "category": "Sports",
+      "stock": 83,
+      "rating": 4
+    },
+    {
+      "id": "e9153f7d-7cec-41e2-a009-398a2554fe99",
+      "name": "Sleek Wooden Car",
+      "price": 642,
+      "shortDescription": "Professional-grade Hat perfect for curly training and recreational use",
+      "image": "https://picsum.photos/seed/e9153f7d-7cec-41e2-a009-398a2554fe99/800/800",
+      "category": "Clothing",
+      "stock": 23,
+      "rating": 3
+    },
+    {
+      "id": "d547eea2-8ba4-4152-be2a-4bab0018e426",
+      "name": "Handcrafted Plastic Pizza",
+      "price": 694,
+      "shortDescription": "New Bacon model with 6 GB RAM, 84 GB storage, and familiar features",
+      "image": "https://picsum.photos/seed/d547eea2-8ba4-4152-be2a-4bab0018e426/800/800",
+      "category": "Clothing",
+      "stock": 100,
+      "rating": 1
+    },
+    {
+      "id": "e24da997-ebd5-431c-bfcb-cfe45a59583e",
+      "name": "Recycled Steel Pizza",
+      "price": 899,
+      "shortDescription": "Innovative Gloves featuring agile technology and Rubber construction",
+      "image": "https://picsum.photos/seed/e24da997-ebd5-431c-bfcb-cfe45a59583e/800/800",
+      "category": "Health",
+      "stock": 69,
+      "rating": 4
+    },
+    {
+      "id": "8c5be70d-606e-4040-9d94-2fdc79a4bf2f",
+      "name": "Electronic Fresh Towels",
+      "price": 938,
+      "shortDescription": "The sleek and ripe Sausages comes with plum LED lighting for smart functionality",
+      "image": "https://picsum.photos/seed/8c5be70d-606e-4040-9d94-2fdc79a4bf2f/800/800",
+      "category": "Health",
+      "stock": 24,
+      "rating": 3
+    },
+    {
+      "id": "322b1610-89ab-4c33-8c4e-e0155c57d4ae",
+      "name": "Incredible Bronze Hat",
+      "price": 160,
+      "shortDescription": "Ergonomic Shoes made with Concrete for all-day proper support",
+      "image": "https://picsum.photos/seed/322b1610-89ab-4c33-8c4e-e0155c57d4ae/800/800",
+      "category": "Outdoors",
+      "stock": 93,
+      "rating": 1
+    },
+    {
+      "id": "59fa9285-cea1-41ba-9cab-745a684c5e06",
+      "name": "Licensed Fresh Mouse",
+      "price": 785,
+      "shortDescription": "Refined Chicken designed with Rubber for squeaky performance",
+      "image": "https://picsum.photos/seed/59fa9285-cea1-41ba-9cab-745a684c5e06/800/800",
+      "category": "Electronics",
+      "stock": 94,
+      "rating": 4
+    },
+    {
+      "id": "02abc9b5-07a5-4dd5-b0af-e3a92f9e759b",
+      "name": "Fantastic Cotton Towels",
+      "price": 392,
+      "shortDescription": "Stylish Table designed to make you stand out with pitiful looks",
+      "image": "https://picsum.photos/seed/02abc9b5-07a5-4dd5-b0af-e3a92f9e759b/800/800",
+      "category": "Music",
+      "stock": 37,
+      "rating": 4
+    },
+    {
+      "id": "1794da1d-ee1f-421c-80b0-6603712b370f",
+      "name": "Electronic Plastic Chair",
+      "price": 813,
+      "shortDescription": "Our juicy-inspired Chicken brings a taste of luxury to your first lifestyle",
+      "image": "https://picsum.photos/seed/1794da1d-ee1f-421c-80b0-6603712b370f/800/800",
+      "category": "Beauty",
+      "stock": 15,
+      "rating": 1
+    },
+    {
+      "id": "517679d9-64e3-4b56-aec9-486b2815192a",
+      "name": "Gorgeous Fresh Pizza",
+      "price": 418,
+      "shortDescription": "Professional-grade Chair perfect for cruel training and recreational use",
+      "image": "https://picsum.photos/seed/517679d9-64e3-4b56-aec9-486b2815192a/800/800",
+      "category": "Movies",
+      "stock": 3,
+      "rating": 4
+    },
+    {
+      "id": "ebb63fef-0154-4967-908b-d72e1b95dbab",
+      "name": "Elegant Wooden Pizza",
+      "price": 844,
+      "shortDescription": "Innovative Gloves featuring bogus technology and Fresh construction",
+      "image": "https://picsum.photos/seed/ebb63fef-0154-4967-908b-d72e1b95dbab/800/800",
+      "category": "Home",
+      "stock": 29,
+      "rating": 1
+    },
+    {
+      "id": "12cb2286-6d22-4838-b454-c8d967f909a9",
+      "name": "Luxurious Concrete Salad",
+      "price": 1000,
+      "shortDescription": "Bailey - Barton's most advanced Bacon technology increases annual capabilities",
+      "image": "https://picsum.photos/seed/12cb2286-6d22-4838-b454-c8d967f909a9/800/800",
+      "category": "Automotive",
+      "stock": 68,
+      "rating": 1
+    },
+    {
+      "id": "383769bd-fbda-48a6-9b81-892ebb32e404",
+      "name": "Refined Metal Cheese",
+      "price": 190,
+      "shortDescription": "Oberbrunner Inc's most advanced Mouse technology increases wasteful capabilities",
+      "image": "https://picsum.photos/seed/383769bd-fbda-48a6-9b81-892ebb32e404/800/800",
+      "category": "Games",
+      "stock": 53,
+      "rating": 1
+    },
+    {
+      "id": "eb5a9dfa-e2e9-458e-90f7-c30fe79e11a8",
+      "name": "Bespoke Steel Car",
+      "price": 647,
+      "shortDescription": "Experience the cyan brilliance of our Pants, perfect for second environments",
+      "image": "https://picsum.photos/seed/eb5a9dfa-e2e9-458e-90f7-c30fe79e11a8/800/800",
+      "category": "Music",
+      "stock": 52,
+      "rating": 2
+    },
+    {
+      "id": "94a152c3-4cd4-48ff-8b1d-229ba4f553a1",
+      "name": "Electronic Frozen Cheese",
+      "price": 796,
+      "shortDescription": "Our tiger-friendly Bike ensures shoddy comfort for your pets",
+      "image": "https://picsum.photos/seed/94a152c3-4cd4-48ff-8b1d-229ba4f553a1/800/800",
+      "category": "Automotive",
+      "stock": 41,
+      "rating": 4
+    },
+    {
+      "id": "43683f9e-a33f-4915-b4c9-c727099e7107",
+      "name": "Incredible Rubber Salad",
+      "price": 981,
+      "shortDescription": "The indigo Towels combines Sao Tome and Principe aesthetics with Lutetium-based durability",
+      "image": "https://picsum.photos/seed/43683f9e-a33f-4915-b4c9-c727099e7107/800/800",
+      "category": "Tools",
+      "stock": 76,
+      "rating": 3
+    },
+    {
+      "id": "fd6aa45d-d790-4bcf-a339-95d1320a19b9",
+      "name": "Licensed Plastic Chips",
+      "price": 740,
+      "shortDescription": "Experience the ivory brilliance of our Pants, perfect for extroverted environments",
+      "image": "https://picsum.photos/seed/fd6aa45d-d790-4bcf-a339-95d1320a19b9/800/800",
+      "category": "Outdoors",
+      "stock": 77,
+      "rating": 5
+    },
+    {
+      "id": "86c0426c-9ce6-435b-9d2a-0827d79592b5",
+      "name": "Handcrafted Concrete Bike",
+      "price": 665,
+      "shortDescription": "Experience the lavender brilliance of our Sausages, perfect for boring environments",
+      "image": "https://picsum.photos/seed/86c0426c-9ce6-435b-9d2a-0827d79592b5/800/800",
+      "category": "Automotive",
+      "stock": 86,
+      "rating": 4
+    },
+    {
+      "id": "b70a9b50-adbf-45b2-b0fe-bfde52dc2528",
+      "name": "Handmade Wooden Soap",
+      "price": 868,
+      "shortDescription": "Innovative Fish featuring acclaimed technology and Fresh construction",
+      "image": "https://picsum.photos/seed/b70a9b50-adbf-45b2-b0fe-bfde52dc2528/800/800",
+      "category": "Health",
+      "stock": 43,
+      "rating": 2
+    },
+    {
+      "id": "dde1a676-40c4-4813-b9ea-75a4ba072e1d",
+      "name": "Fantastic Wooden Ball",
+      "price": 145,
+      "shortDescription": "The sleek and front Gloves comes with violet LED lighting for smart functionality",
+      "image": "https://picsum.photos/seed/dde1a676-40c4-4813-b9ea-75a4ba072e1d/800/800",
+      "category": "Garden",
+      "stock": 72,
+      "rating": 5
+    },
+    {
+      "id": "bfdd2092-0c1b-4786-aed3-2267b8e468d6",
+      "name": "Bespoke Bronze Towels",
+      "price": 491,
+      "shortDescription": "Introducing the Kenya-inspired Chips, blending nifty style with local craftsmanship",
+      "image": "https://picsum.photos/seed/bfdd2092-0c1b-4786-aed3-2267b8e468d6/800/800",
+      "category": "Outdoors",
+      "stock": 12,
+      "rating": 1
+    },
+    {
+      "id": "e6e65ceb-5044-44bc-8e57-ccce3a9c542f",
+      "name": "Elegant Rubber Sausages",
+      "price": 484,
+      "shortDescription": "Discover the average new Shoes with an exciting mix of Granite ingredients",
+      "image": "https://picsum.photos/seed/e6e65ceb-5044-44bc-8e57-ccce3a9c542f/800/800",
+      "category": "Home",
+      "stock": 65,
+      "rating": 3
+    },
+    {
+      "id": "6e27d4ad-044e-45f9-81ed-05cee1669e35",
+      "name": "Ergonomic Fresh Computer",
+      "price": 694,
+      "shortDescription": "New Gloves model with 36 GB RAM, 210 GB storage, and wealthy features",
+      "image": "https://picsum.photos/seed/6e27d4ad-044e-45f9-81ed-05cee1669e35/800/800",
+      "category": "Movies",
+      "stock": 62,
+      "rating": 2
+    },
+    {
+      "id": "4d6194e1-890f-42ea-8f61-d41e8970b55b",
+      "name": "Refined Frozen Fish",
+      "price": 277,
+      "shortDescription": "Experience the tan brilliance of our Salad, perfect for brave environments",
+      "image": "https://picsum.photos/seed/4d6194e1-890f-42ea-8f61-d41e8970b55b/800/800",
+      "category": "Books",
+      "stock": 57,
+      "rating": 4
+    },
+    {
+      "id": "de2b07f2-3843-449d-8bd4-64fbef78a3c8",
+      "name": "Gorgeous Frozen Cheese",
+      "price": 485,
+      "shortDescription": "Savor the tangy essence in our Sausages, designed for flimsy culinary adventures",
+      "image": "https://picsum.photos/seed/de2b07f2-3843-449d-8bd4-64fbef78a3c8/800/800",
+      "category": "Outdoors",
+      "stock": 78,
+      "rating": 5
+    },
+    {
+      "id": "8d7615d8-9506-4f71-92f4-ee8dbacc2231",
+      "name": "Tasty Bronze Soap",
+      "price": 240,
+      "shortDescription": "Discover the aware new Towels with an exciting mix of Concrete ingredients",
+      "image": "https://picsum.photos/seed/8d7615d8-9506-4f71-92f4-ee8dbacc2231/800/800",
+      "category": "Tools",
+      "stock": 13,
+      "rating": 5
+    },
+    {
+      "id": "cf1cc3cb-5273-459d-a0e1-8a3bab330055",
+      "name": "Handmade Rubber Fish",
+      "price": 160,
+      "shortDescription": "Lynch, Abernathy and Schamberger's most advanced Pizza technology increases runny capabilities",
+      "image": "https://picsum.photos/seed/cf1cc3cb-5273-459d-a0e1-8a3bab330055/800/800",
+      "category": "Computers",
+      "stock": 56,
+      "rating": 5
+    },
+    {
+      "id": "b3235cea-8cef-44d4-a9fe-a26df8ca0ae9",
+      "name": "Handmade Cotton Hat",
+      "price": 426,
+      "shortDescription": "Featuring Hassium-enhanced technology, our Keyboard offers unparalleled black-and-white performance",
+      "image": "https://picsum.photos/seed/b3235cea-8cef-44d4-a9fe-a26df8ca0ae9/800/800",
+      "category": "Sports",
+      "stock": 96,
+      "rating": 2
+    },
+    {
+      "id": "414fd3dd-392c-48f6-93be-12c61094656f",
+      "name": "Gorgeous Granite Mouse",
+      "price": 475,
+      "shortDescription": "The sleek and upbeat Tuna comes with lime LED lighting for smart functionality",
+      "image": "https://picsum.photos/seed/414fd3dd-392c-48f6-93be-12c61094656f/800/800",
+      "category": "Jewelry",
+      "stock": 25,
+      "rating": 3
+    },
+    {
+      "id": "32fb6943-a518-4e0d-80ed-d45d335d0ae9",
+      "name": "Ergonomic Soft Bike",
+      "price": 323,
+      "shortDescription": "Discover the horse-like agility of our Table, perfect for questionable users",
+      "image": "https://picsum.photos/seed/32fb6943-a518-4e0d-80ed-d45d335d0ae9/800/800",
+      "category": "Movies",
+      "stock": 33,
+      "rating": 5
+    },
+    {
+      "id": "09c31081-9504-4f4e-8b3a-8e73df0a64a1",
+      "name": "Unbranded Granite Salad",
+      "price": 475,
+      "shortDescription": "Will, Tillman and Brekke's most advanced Mouse technology increases winding capabilities",
+      "image": "https://picsum.photos/seed/09c31081-9504-4f4e-8b3a-8e73df0a64a1/800/800",
+      "category": "Clothing",
+      "stock": 27,
+      "rating": 1
+    },
+    {
+      "id": "574ea140-33d3-40c2-b019-30616746ca5a",
+      "name": "Luxurious Metal Gloves",
+      "price": 591,
+      "shortDescription": "Our creamy-inspired Car brings a taste of luxury to your compassionate lifestyle",
+      "image": "https://picsum.photos/seed/574ea140-33d3-40c2-b019-30616746ca5a/800/800",
+      "category": "Kids",
+      "stock": 34,
+      "rating": 2
+    },
+    {
+      "id": "1ae6d2ad-f8d9-49ea-8867-64f91ad71cf1",
+      "name": "Tasty Granite Chicken",
+      "price": 546,
+      "shortDescription": "Discover the physical new Bike with an exciting mix of Metal ingredients",
+      "image": "https://picsum.photos/seed/1ae6d2ad-f8d9-49ea-8867-64f91ad71cf1/800/800",
+      "category": "Home",
+      "stock": 43,
+      "rating": 4
+    },
+    {
+      "id": "e6e5f78d-0480-44a8-a62f-b70f4dfd3ecb",
+      "name": "Recycled Concrete Bike",
+      "price": 878,
+      "shortDescription": "Experience the gold brilliance of our Chair, perfect for dapper environments",
+      "image": "https://picsum.photos/seed/e6e5f78d-0480-44a8-a62f-b70f4dfd3ecb/800/800",
+      "category": "Beauty",
+      "stock": 58,
+      "rating": 4
+    },
+    {
+      "id": "70887a48-9c68-455b-9c3e-4810ddc5f82d",
+      "name": "Gorgeous Frozen Tuna",
+      "price": 465,
+      "shortDescription": "The Fully-configurable dedicated system engine Bike offers reliable performance and glum design",
+      "image": "https://picsum.photos/seed/70887a48-9c68-455b-9c3e-4810ddc5f82d/800/800",
+      "category": "Baby",
+      "stock": 4,
+      "rating": 3
+    },
+    {
+      "id": "9cf22022-c0db-418b-ad27-4044f15bc1ef",
+      "name": "Sleek Bronze Towels",
+      "price": 426,
+      "shortDescription": "Stylish Mouse designed to make you stand out with grimy looks",
+      "image": "https://picsum.photos/seed/9cf22022-c0db-418b-ad27-4044f15bc1ef/800/800",
+      "category": "Tools",
+      "stock": 13,
+      "rating": 4
+    },
+    {
+      "id": "4766b3a9-7efb-46ac-b42e-df0d7f85f314",
+      "name": "Fantastic Steel Salad",
+      "price": 488,
+      "shortDescription": "Our bear-friendly Table ensures sandy comfort for your pets",
+      "image": "https://picsum.photos/seed/4766b3a9-7efb-46ac-b42e-df0d7f85f314/800/800",
+      "category": "Grocery",
+      "stock": 87,
+      "rating": 4
+    },
+    {
+      "id": "619186df-a57e-45a0-b550-d1af03fa2ed7",
+      "name": "Elegant Soft Chips",
+      "price": 413,
+      "shortDescription": "Innovative Keyboard featuring tall technology and Rubber construction",
+      "image": "https://picsum.photos/seed/619186df-a57e-45a0-b550-d1af03fa2ed7/800/800",
+      "category": "Automotive",
+      "stock": 45,
+      "rating": 1
+    },
+    {
+      "id": "2a3dbe07-3683-4adc-b978-3ef6276bdbb0",
+      "name": "Rustic Granite Car",
+      "price": 940,
+      "shortDescription": "Introducing the New Zealand-inspired Fish, blending wise style with local craftsmanship",
+      "image": "https://picsum.photos/seed/2a3dbe07-3683-4adc-b978-3ef6276bdbb0/800/800",
+      "category": "Kids",
+      "stock": 95,
+      "rating": 5
+    },
+    {
+      "id": "5dea0bdb-ab26-4ed2-9f45-5ee982f53cde",
+      "name": "Intelligent Wooden Chair",
+      "price": 833,
+      "shortDescription": "The Domenic Salad is the latest in a series of mad products from Nikolaus, Wilderman and Bartoletti",
+      "image": "https://picsum.photos/seed/5dea0bdb-ab26-4ed2-9f45-5ee982f53cde/800/800",
+      "category": "Industrial",
+      "stock": 90,
+      "rating": 4
+    },
+    {
+      "id": "cf3cd71f-bb12-4f24-be3f-eec4205e8076",
+      "name": "Gorgeous Fresh Hat",
+      "price": 317,
+      "shortDescription": "Stylish Chair designed to make you stand out with neighboring looks",
+      "image": "https://picsum.photos/seed/cf3cd71f-bb12-4f24-be3f-eec4205e8076/800/800",
+      "category": "Tools",
+      "stock": 61,
+      "rating": 1
+    },
+    {
+      "id": "89c7e4e1-5cec-4f5f-8f22-6c7c6ae84c34",
+      "name": "Awesome Concrete Salad",
+      "price": 782,
+      "shortDescription": "The Jerrold Pizza is the latest in a series of brilliant products from Legros Inc",
+      "image": "https://picsum.photos/seed/89c7e4e1-5cec-4f5f-8f22-6c7c6ae84c34/800/800",
+      "category": "Movies",
+      "stock": 75,
+      "rating": 5
+    },
+    {
+      "id": "a55570eb-a36c-48af-8893-b49d8e18d888",
+      "name": "Recycled Frozen Chicken",
+      "price": 597,
+      "shortDescription": "Ergonomic Soap made with Fresh for all-day frilly support",
+      "image": "https://picsum.photos/seed/a55570eb-a36c-48af-8893-b49d8e18d888/800/800",
+      "category": "Shoes",
+      "stock": 40,
+      "rating": 3
+    },
+    {
+      "id": "1a1c38d9-bae7-4a4f-b799-5bb35718bade",
+      "name": "Electronic Frozen Towels",
+      "price": 844,
+      "shortDescription": "New teal Hat with ergonomic design for nocturnal comfort",
+      "image": "https://picsum.photos/seed/1a1c38d9-bae7-4a4f-b799-5bb35718bade/800/800",
+      "category": "Industrial",
+      "stock": 38,
+      "rating": 4
+    },
+    {
+      "id": "b93f3228-e2b8-43c6-8bc1-eeae8895360f",
+      "name": "Generic Plastic Soap",
+      "price": 813,
+      "shortDescription": "Experience the ivory brilliance of our Chicken, perfect for french environments",
+      "image": "https://picsum.photos/seed/b93f3228-e2b8-43c6-8bc1-eeae8895360f/800/800",
+      "category": "Shoes",
+      "stock": 23,
+      "rating": 5
+    },
+    {
+      "id": "7aa6966f-7e8c-46d6-89fb-8d2694ccb814",
+      "name": "Unbranded Rubber Chair",
+      "price": 687,
+      "shortDescription": "Generic Chips designed with Fresh for enlightened performance",
+      "image": "https://picsum.photos/seed/7aa6966f-7e8c-46d6-89fb-8d2694ccb814/800/800",
+      "category": "Clothing",
+      "stock": 62,
+      "rating": 1
+    },
+    {
+      "id": "0edadfb5-02ed-4a07-ae08-6526dedcb6fe",
+      "name": "Tasty Plastic Cheese",
+      "price": 339,
+      "shortDescription": "Savor the smoky essence in our Shoes, designed for little culinary adventures",
+      "image": "https://picsum.photos/seed/0edadfb5-02ed-4a07-ae08-6526dedcb6fe/800/800",
+      "category": "Garden",
+      "stock": 71,
+      "rating": 5
+    },
+    {
+      "id": "f0ddd332-af6f-457e-8af1-d78f0394ed14",
+      "name": "Tasty Frozen Cheese",
+      "price": 760,
+      "shortDescription": "Innovative Shirt featuring cautious technology and Concrete construction",
+      "image": "https://picsum.photos/seed/f0ddd332-af6f-457e-8af1-d78f0394ed14/800/800",
+      "category": "Industrial",
+      "stock": 7,
+      "rating": 3
+    },
+    {
+      "id": "053886bf-35f8-4e6f-9d13-ed493979e738",
+      "name": "Sleek Soft Cheese",
+      "price": 703,
+      "shortDescription": "Electronic Pizza designed with Frozen for unwritten performance",
+      "image": "https://picsum.photos/seed/053886bf-35f8-4e6f-9d13-ed493979e738/800/800",
+      "category": "Garden",
+      "stock": 35,
+      "rating": 5
+    },
+    {
+      "id": "2389e921-fd7b-48b4-a289-868d6cce4533",
+      "name": "Ergonomic Steel Fish",
+      "price": 426,
+      "shortDescription": "Elegant Chair designed with Cotton for yearly performance",
+      "image": "https://picsum.photos/seed/2389e921-fd7b-48b4-a289-868d6cce4533/800/800",
+      "category": "Grocery",
+      "stock": 88,
+      "rating": 5
+    },
+    {
+      "id": "f21fa2eb-8cb5-43f3-b4bc-95cbca7c2339",
+      "name": "Sleek Concrete Chair",
+      "price": 115,
+      "shortDescription": "The sleek and tattered Computer comes with salmon LED lighting for smart functionality",
+      "image": "https://picsum.photos/seed/f21fa2eb-8cb5-43f3-b4bc-95cbca7c2339/800/800",
+      "category": "Jewelry",
+      "stock": 50,
+      "rating": 1
+    },
+    {
+      "id": "3ab1bf16-1aaa-4a19-891f-85fcff1b445a",
+      "name": "Luxurious Fresh Keyboard",
+      "price": 476,
+      "shortDescription": "Discover the political new Pants with an exciting mix of Bronze ingredients",
+      "image": "https://picsum.photos/seed/3ab1bf16-1aaa-4a19-891f-85fcff1b445a/800/800",
+      "category": "Industrial",
+      "stock": 2,
+      "rating": 2
+    },
+    {
+      "id": "d655470e-defc-4011-bec0-41468d82a2a4",
+      "name": "Incredible Concrete Chair",
+      "price": 318,
+      "shortDescription": "Innovative Ball featuring hoarse technology and Concrete construction",
+      "image": "https://picsum.photos/seed/d655470e-defc-4011-bec0-41468d82a2a4/800/800",
+      "category": "Music",
+      "stock": 95,
+      "rating": 4
+    },
+    {
+      "id": "9a8df23b-79b4-4a9c-9936-37c690fa0f80",
+      "name": "Awesome Granite Bike",
+      "price": 198,
+      "shortDescription": "Featuring Oxygen-enhanced technology, our Fish offers unparalleled impeccable performance",
+      "image": "https://picsum.photos/seed/9a8df23b-79b4-4a9c-9936-37c690fa0f80/800/800",
+      "category": "Sports",
+      "stock": 35,
+      "rating": 1
+    },
+    {
+      "id": "52772ad1-54e7-4189-accd-fbe30c6b898c",
+      "name": "Tasty Wooden Gloves",
+      "price": 770,
+      "shortDescription": "The azure Towels combines Brazil aesthetics with Lanthanum-based durability",
+      "image": "https://picsum.photos/seed/52772ad1-54e7-4189-accd-fbe30c6b898c/800/800",
+      "category": "Automotive",
+      "stock": 86,
+      "rating": 2
+    },
+    {
+      "id": "06ce61d1-b855-46f7-9bff-f335ea6cd4bd",
+      "name": "Small Wooden Hat",
+      "price": 969,
+      "shortDescription": "Abbott Inc's most advanced Table technology increases gentle capabilities",
+      "image": "https://picsum.photos/seed/06ce61d1-b855-46f7-9bff-f335ea6cd4bd/800/800",
+      "category": "Automotive",
+      "stock": 12,
+      "rating": 4
+    },
+    {
+      "id": "70e4543e-5ee3-4959-8248-0d5eceb613e9",
+      "name": "Small Soft Computer",
+      "price": 126,
+      "shortDescription": "The sleek and official Hat comes with red LED lighting for smart functionality",
+      "image": "https://picsum.photos/seed/70e4543e-5ee3-4959-8248-0d5eceb613e9/800/800",
+      "category": "Jewelry",
+      "stock": 34,
+      "rating": 2
+    },
+    {
+      "id": "ecaa6979-2b48-49ca-88a3-905e78b9c923",
+      "name": "Unbranded Fresh Pants",
+      "price": 772,
+      "shortDescription": "The Roxane Keyboard is the latest in a series of pointed products from Vandervort Group",
+      "image": "https://picsum.photos/seed/ecaa6979-2b48-49ca-88a3-905e78b9c923/800/800",
+      "category": "Home",
+      "stock": 4,
+      "rating": 2
+    },
+    {
+      "id": "10a10d74-8555-4cad-a7ff-509828f0dfad",
+      "name": "Modern Plastic Pizza",
+      "price": 699,
+      "shortDescription": "New Shirt model with 92 GB RAM, 356 GB storage, and complicated features",
+      "image": "https://picsum.photos/seed/10a10d74-8555-4cad-a7ff-509828f0dfad/800/800",
+      "category": "Tools",
+      "stock": 84,
+      "rating": 3
+    },
+    {
+      "id": "acbbfad7-7b14-4512-a7ed-6f15a0a05a7b",
+      "name": "Incredible Rubber Cheese",
+      "price": 718,
+      "shortDescription": "Ergonomic Pizza made with Metal for all-day corny support",
+      "image": "https://picsum.photos/seed/acbbfad7-7b14-4512-a7ed-6f15a0a05a7b/800/800",
+      "category": "Baby",
+      "stock": 4,
+      "rating": 3
+    },
+    {
+      "id": "05512f04-9b8c-4b2f-b314-94668ba2bd8b",
+      "name": "Ergonomic Fresh Mouse",
+      "price": 322,
+      "shortDescription": "Discover the dull new Table with an exciting mix of Granite ingredients",
+      "image": "https://picsum.photos/seed/05512f04-9b8c-4b2f-b314-94668ba2bd8b/800/800",
+      "category": "Shoes",
+      "stock": 61,
+      "rating": 5
+    },
+    {
+      "id": "36e6e5f1-0a60-4ede-8026-a2d4cd2ac23c",
+      "name": "Rustic Fresh Sausages",
+      "price": 491,
+      "shortDescription": "Stylish Keyboard designed to make you stand out with outlandish looks",
+      "image": "https://picsum.photos/seed/36e6e5f1-0a60-4ede-8026-a2d4cd2ac23c/800/800",
+      "category": "Jewelry",
+      "stock": 22,
+      "rating": 4
+    },
+    {
+      "id": "ce9932b0-1a07-4662-8a6a-ad129239889a",
+      "name": "Sleek Plastic Sausages",
+      "price": 614,
+      "shortDescription": "The Configurable data-driven archive Cheese offers reliable performance and shrill design",
+      "image": "https://picsum.photos/seed/ce9932b0-1a07-4662-8a6a-ad129239889a/800/800",
+      "category": "Electronics",
+      "stock": 41,
+      "rating": 2
+    },
+    {
+      "id": "2b048b9b-aaeb-43d3-aef4-c5aacc108089",
+      "name": "Handmade Soft Bike",
+      "price": 116,
+      "shortDescription": "Discover the giraffe-like agility of our Chicken, perfect for profitable users",
+      "image": "https://picsum.photos/seed/2b048b9b-aaeb-43d3-aef4-c5aacc108089/800/800",
+      "category": "Books",
+      "stock": 85,
+      "rating": 2
+    },
+    {
+      "id": "e7be1468-0fe7-4b2f-9225-14212e9de61d",
+      "name": "Fantastic Fresh Pizza",
+      "price": 819,
+      "shortDescription": "Savor the crispy essence in our Fish, designed for definitive culinary adventures",
+      "image": "https://picsum.photos/seed/e7be1468-0fe7-4b2f-9225-14212e9de61d/800/800",
+      "category": "Industrial",
+      "stock": 71,
+      "rating": 4
+    },
+    {
+      "id": "07e04e95-81c2-4e6d-999b-da7d5fa08753",
+      "name": "Ergonomic Wooden Sausages",
+      "price": 423,
+      "shortDescription": "Featuring Tungsten-enhanced technology, our Towels offers unparalleled brave performance",
+      "image": "https://picsum.photos/seed/07e04e95-81c2-4e6d-999b-da7d5fa08753/800/800",
+      "category": "Automotive",
+      "stock": 42,
+      "rating": 3
+    },
+    {
+      "id": "eda4e9c2-fec4-486a-b97f-4195529d8ea5",
+      "name": "Electronic Granite Hat",
+      "price": 323,
+      "shortDescription": "Stylish Pants designed to make you stand out with made-up looks",
+      "image": "https://picsum.photos/seed/eda4e9c2-fec4-486a-b97f-4195529d8ea5/800/800",
+      "category": "Games",
+      "stock": 44,
+      "rating": 2
+    },
+    {
+      "id": "d30b9623-1425-4e05-a59e-039a807c8682",
+      "name": "Sleek Steel Fish",
+      "price": 857,
+      "shortDescription": "The lime Salad combines Iraq aesthetics with Samarium-based durability",
+      "image": "https://picsum.photos/seed/d30b9623-1425-4e05-a59e-039a807c8682/800/800",
+      "category": "Sports",
+      "stock": 56,
+      "rating": 2
+    },
+    {
+      "id": "ae35aea8-ce59-499c-b927-f81200f776f9",
+      "name": "Sleek Bronze Chips",
+      "price": 445,
+      "shortDescription": "Discover the horse-like agility of our Hat, perfect for ample users",
+      "image": "https://picsum.photos/seed/ae35aea8-ce59-499c-b927-f81200f776f9/800/800",
+      "category": "Outdoors",
+      "stock": 68,
+      "rating": 3
+    },
+    {
+      "id": "9c239074-0847-4849-891b-8759a02eef7a",
+      "name": "Ergonomic Plastic Salad",
+      "price": 378,
+      "shortDescription": "Introducing the Malawi-inspired Hat, blending kaleidoscopic style with local craftsmanship",
+      "image": "https://picsum.photos/seed/9c239074-0847-4849-891b-8759a02eef7a/800/800",
+      "category": "Grocery",
+      "stock": 14,
+      "rating": 2
+    },
+    {
+      "id": "2ca5eeb9-d041-4d61-8d01-dd31b7efa667",
+      "name": "Fantastic Bronze Pizza",
+      "price": 738,
+      "shortDescription": "Innovative Chips featuring sick technology and Metal construction",
+      "image": "https://picsum.photos/seed/2ca5eeb9-d041-4d61-8d01-dd31b7efa667/800/800",
+      "category": "Industrial",
+      "stock": 61,
+      "rating": 4
+    },
+    {
+      "id": "97d3beb2-22ca-46a7-bf93-7a696cfff4eb",
+      "name": "Rustic Plastic Gloves",
+      "price": 589,
+      "shortDescription": "The fuchsia Bike combines Norfolk Island aesthetics with Silver-based durability",
+      "image": "https://picsum.photos/seed/97d3beb2-22ca-46a7-bf93-7a696cfff4eb/800/800",
+      "category": "Home",
+      "stock": 75,
+      "rating": 1
+    },
+    {
+      "id": "05e9f4ff-9e8b-4a3d-92b6-af4d2186fce2",
+      "name": "Gorgeous Granite Gloves",
+      "price": 209,
+      "shortDescription": "Stylish Hat designed to make you stand out with smug looks",
+      "image": "https://picsum.photos/seed/05e9f4ff-9e8b-4a3d-92b6-af4d2186fce2/800/800",
+      "category": "Beauty",
+      "stock": 67,
+      "rating": 5
+    },
+    {
+      "id": "5ec896d2-088f-4c58-b925-b49ba2a87eff",
+      "name": "Generic Soft Chicken",
+      "price": 727,
+      "shortDescription": "Lueilwitz - Feest's most advanced Table technology increases made-up capabilities",
+      "image": "https://picsum.photos/seed/5ec896d2-088f-4c58-b925-b49ba2a87eff/800/800",
+      "category": "Electronics",
+      "stock": 44,
+      "rating": 5
+    },
+    {
+      "id": "26944499-8246-4fde-986c-0413d853de42",
+      "name": "Ergonomic Steel Salad",
+      "price": 509,
+      "shortDescription": "The mint green Fish combines Trinidad and Tobago aesthetics with Nitrogen-based durability",
+      "image": "https://picsum.photos/seed/26944499-8246-4fde-986c-0413d853de42/800/800",
+      "category": "Clothing",
+      "stock": 58,
+      "rating": 5
+    },
+    {
+      "id": "c9b689d0-5a22-4b8e-a4ef-09aa7bcada47",
+      "name": "Handcrafted Concrete Chicken",
+      "price": 996,
+      "shortDescription": "New Cheese model with 95 GB RAM, 232 GB storage, and miserable features",
+      "image": "https://picsum.photos/seed/c9b689d0-5a22-4b8e-a4ef-09aa7bcada47/800/800",
+      "category": "Outdoors",
+      "stock": 46,
+      "rating": 4
+    },
+    {
+      "id": "838b4e3d-76a5-429e-8cb0-02a148595dc1",
+      "name": "Tasty Bronze Shoes",
+      "price": 549,
+      "shortDescription": "Our rhinoceros-friendly Pants ensures colorless comfort for your pets",
+      "image": "https://picsum.photos/seed/838b4e3d-76a5-429e-8cb0-02a148595dc1/800/800",
+      "category": "Sports",
+      "stock": 1,
+      "rating": 3
+    },
+    {
+      "id": "1593d9ab-875a-499b-aefe-2488b2458638",
+      "name": "Ergonomic Wooden Table",
+      "price": 953,
+      "shortDescription": "New violet Sausages with ergonomic design for best comfort",
+      "image": "https://picsum.photos/seed/1593d9ab-875a-499b-aefe-2488b2458638/800/800",
+      "category": "Home",
+      "stock": 95,
+      "rating": 4
+    },
+    {
+      "id": "f2469b48-86e6-42ae-9892-c5a58420bda9",
+      "name": "Handmade Granite Bike",
+      "price": 675,
+      "shortDescription": "The Cullen Soap is the latest in a series of tender products from Schmidt and Sons",
+      "image": "https://picsum.photos/seed/f2469b48-86e6-42ae-9892-c5a58420bda9/800/800",
+      "category": "Movies",
+      "stock": 76,
+      "rating": 2
+    },
+    {
+      "id": "aa6b6d6c-ad28-4cd2-adbb-cd332edc1f1d",
+      "name": "Awesome Frozen Salad",
+      "price": 404,
+      "shortDescription": "Ergonomic Sausages made with Cotton for all-day superficial support",
+      "image": "https://picsum.photos/seed/aa6b6d6c-ad28-4cd2-adbb-cd332edc1f1d/800/800",
+      "category": "Shoes",
+      "stock": 22,
+      "rating": 3
+    },
+    {
+      "id": "1bfd0439-c662-4f30-9a16-2edf9dc1c7b5",
+      "name": "Luxurious Metal Bacon",
+      "price": 663,
+      "shortDescription": "Elegant Shoes designed with Frozen for plump performance",
+      "image": "https://picsum.photos/seed/1bfd0439-c662-4f30-9a16-2edf9dc1c7b5/800/800",
+      "category": "Sports",
+      "stock": 91,
+      "rating": 2
+    },
+    {
+      "id": "a8fb12d8-dd64-4511-97d5-d08289f5b2ee",
+      "name": "Oriental Frozen Bacon",
+      "price": 619,
+      "shortDescription": "Savor the juicy essence in our Table, designed for vengeful culinary adventures",
+      "image": "https://picsum.photos/seed/a8fb12d8-dd64-4511-97d5-d08289f5b2ee/800/800",
+      "category": "Garden",
+      "stock": 12,
+      "rating": 2
+    },
+    {
+      "id": "f4f46574-6551-4066-8dd9-0e4738438d0d",
+      "name": "Recycled Granite Gloves",
+      "price": 624,
+      "shortDescription": "The sleek and spanish Bacon comes with fuchsia LED lighting for smart functionality",
+      "image": "https://picsum.photos/seed/f4f46574-6551-4066-8dd9-0e4738438d0d/800/800",
+      "category": "Toys",
+      "stock": 35,
+      "rating": 1
+    },
+    {
+      "id": "3655dfa5-9e8f-4e8b-a364-2eaa84dd9768",
+      "name": "Licensed Bronze Pants",
+      "price": 212,
+      "shortDescription": "New green Chips with ergonomic design for spirited comfort",
+      "image": "https://picsum.photos/seed/3655dfa5-9e8f-4e8b-a364-2eaa84dd9768/800/800",
+      "category": "Music",
+      "stock": 64,
+      "rating": 2
+    },
+    {
+      "id": "22352b35-b7a5-4945-b515-6fd076a23a1f",
+      "name": "Modern Cotton Chicken",
+      "price": 975,
+      "shortDescription": "Professional-grade Mouse perfect for hateful training and recreational use",
+      "image": "https://picsum.photos/seed/22352b35-b7a5-4945-b515-6fd076a23a1f/800/800",
+      "category": "Jewelry",
+      "stock": 64,
+      "rating": 4
+    },
+    {
+      "id": "200bfa18-089e-4aa5-a4d0-7293641d0ff6",
+      "name": "Electronic Cotton Bacon",
+      "price": 422,
+      "shortDescription": "Professional-grade Chicken perfect for taut training and recreational use",
+      "image": "https://picsum.photos/seed/200bfa18-089e-4aa5-a4d0-7293641d0ff6/800/800",
+      "category": "Outdoors",
+      "stock": 89,
+      "rating": 4
+    },
+    {
+      "id": "d8a2fa61-796e-459d-9e8e-330cd647a22d",
+      "name": "Recycled Rubber Mouse",
+      "price": 782,
+      "shortDescription": "The lime Hat combines Zimbabwe aesthetics with Silicon-based durability",
+      "image": "https://picsum.photos/seed/d8a2fa61-796e-459d-9e8e-330cd647a22d/800/800",
+      "category": "Tools",
+      "stock": 80,
+      "rating": 4
+    },
+    {
+      "id": "c0722869-05ef-4b63-aafe-bdb44eb55c9b",
+      "name": "Refined Bronze Bike",
+      "price": 707,
+      "shortDescription": "The fuchsia Ball combines Ethiopia aesthetics with Tennessine-based durability",
+      "image": "https://picsum.photos/seed/c0722869-05ef-4b63-aafe-bdb44eb55c9b/800/800",
+      "category": "Grocery",
+      "stock": 82,
+      "rating": 3
+    },
+    {
+      "id": "b150ae2c-8a6d-489d-9eec-eaa50705b24e",
+      "name": "Refined Frozen Table",
+      "price": 732,
+      "shortDescription": "The pink Chicken combines Eritrea aesthetics with Selenium-based durability",
+      "image": "https://picsum.photos/seed/b150ae2c-8a6d-489d-9eec-eaa50705b24e/800/800",
+      "category": "Outdoors",
+      "stock": 97,
+      "rating": 3
+    },
+    {
+      "id": "4771e971-0042-4108-bc90-cb5356838197",
+      "name": "Handcrafted Steel Sausages",
+      "price": 514,
+      "shortDescription": "Paucek, Becker and Mohr's most advanced Chips technology increases true capabilities",
+      "image": "https://picsum.photos/seed/4771e971-0042-4108-bc90-cb5356838197/800/800",
+      "category": "Baby",
+      "stock": 91,
+      "rating": 1
+    },
+    {
+      "id": "37a65ef9-7b2b-4ea1-86ca-5366dd3d16f4",
+      "name": "Electronic Granite Sausages",
+      "price": 616,
+      "shortDescription": "Innovative Chair featuring grave technology and Plastic construction",
+      "image": "https://picsum.photos/seed/37a65ef9-7b2b-4ea1-86ca-5366dd3d16f4/800/800",
+      "category": "Tools",
+      "stock": 23,
+      "rating": 3
+    },
+    {
+      "id": "7ba25af3-c320-42fa-8ec1-31a334a38202",
+      "name": "Handmade Concrete Towels",
+      "price": 404,
+      "shortDescription": "Stylish Shoes designed to make you stand out with sizzling looks",
+      "image": "https://picsum.photos/seed/7ba25af3-c320-42fa-8ec1-31a334a38202/800/800",
+      "category": "Health",
+      "stock": 93,
+      "rating": 3
+    },
+    {
+      "id": "483bc409-6779-4bc6-8e18-c79bccebbc1a",
+      "name": "Rustic Cotton Towels",
+      "price": 678,
+      "shortDescription": "The Phased real-time middleware Table offers reliable performance and lawful design",
+      "image": "https://picsum.photos/seed/483bc409-6779-4bc6-8e18-c79bccebbc1a/800/800",
+      "category": "Clothing",
+      "stock": 68,
+      "rating": 3
+    },
+    {
+      "id": "8639272b-9470-4504-abb4-05329def0f4d",
+      "name": "Practical Rubber Shirt",
+      "price": 166,
+      "shortDescription": "The purple Car combines Puerto Rico aesthetics with Plutonium-based durability",
+      "image": "https://picsum.photos/seed/8639272b-9470-4504-abb4-05329def0f4d/800/800",
+      "category": "Computers",
+      "stock": 94,
+      "rating": 4
+    },
+    {
+      "id": "a2b7ac68-d679-4fb9-a3e0-cc5f992e9acf",
+      "name": "Rustic Soft Mouse",
+      "price": 561,
+      "shortDescription": "The Multi-tiered 24 hour software Chips offers reliable performance and untidy design",
+      "image": "https://picsum.photos/seed/a2b7ac68-d679-4fb9-a3e0-cc5f992e9acf/800/800",
+      "category": "Music",
+      "stock": 15,
+      "rating": 5
+    },
+    {
+      "id": "55c9c811-539a-40e6-af4d-4b77ff4ff266",
+      "name": "Modern Granite Cheese",
+      "price": 506,
+      "shortDescription": "Bespoke Hat designed with Metal for first performance",
+      "image": "https://picsum.photos/seed/55c9c811-539a-40e6-af4d-4b77ff4ff266/800/800",
+      "category": "Outdoors",
+      "stock": 43,
+      "rating": 4
+    },
+    {
+      "id": "3fb5f6f8-e377-4a65-81be-b714c8c80e0f",
+      "name": "Electronic Granite Chicken",
+      "price": 186,
+      "shortDescription": "Collier, Rath and Steuber's most advanced Bacon technology increases gaseous capabilities",
+      "image": "https://picsum.photos/seed/3fb5f6f8-e377-4a65-81be-b714c8c80e0f/800/800",
+      "category": "Toys",
+      "stock": 1,
+      "rating": 5
+    },
+    {
+      "id": "0e52395a-ad0c-4084-903b-6a9553501c4e",
+      "name": "Licensed Cotton Tuna",
+      "price": 688,
+      "shortDescription": "Innovative Car featuring rusty technology and Plastic construction",
+      "image": "https://picsum.photos/seed/0e52395a-ad0c-4084-903b-6a9553501c4e/800/800",
+      "category": "Grocery",
+      "stock": 89,
+      "rating": 2
+    },
+    {
+      "id": "33672559-284a-4197-b05a-a9ed71863c13",
+      "name": "Gorgeous Rubber Bacon",
+      "price": 688,
+      "shortDescription": "Ergonomic Fish made with Cotton for all-day zesty support",
+      "image": "https://picsum.photos/seed/33672559-284a-4197-b05a-a9ed71863c13/800/800",
+      "category": "Garden",
+      "stock": 38,
+      "rating": 2
+    },
+    {
+      "id": "07aff3d4-75d0-419b-b30a-6992f8101378",
+      "name": "Sleek Concrete Hat",
+      "price": 686,
+      "shortDescription": "Discover the avaricious new Sausages with an exciting mix of Bronze ingredients",
+      "image": "https://picsum.photos/seed/07aff3d4-75d0-419b-b30a-6992f8101378/800/800",
+      "category": "Outdoors",
+      "stock": 71,
+      "rating": 2
+    },
+    {
+      "id": "6f5c3889-bc96-426d-a131-414e1bf4b3fd",
+      "name": "Elegant Metal Bike",
+      "price": 199,
+      "shortDescription": "Experience the salmon brilliance of our Computer, perfect for grimy environments",
+      "image": "https://picsum.photos/seed/6f5c3889-bc96-426d-a131-414e1bf4b3fd/800/800",
+      "category": "Health",
+      "stock": 47,
+      "rating": 4
+    },
+    {
+      "id": "45e4cb0c-e410-4d01-9762-8fb813b67859",
+      "name": "Handmade Metal Chicken",
+      "price": 393,
+      "shortDescription": "The Customizable zero administration moderator Chips offers reliable performance and unselfish design",
+      "image": "https://picsum.photos/seed/45e4cb0c-e410-4d01-9762-8fb813b67859/800/800",
+      "category": "Grocery",
+      "stock": 96,
+      "rating": 3
+    },
+    {
+      "id": "7bd90e44-d992-44fb-a190-383e91fa1a6e",
+      "name": "Luxurious Soft Ball",
+      "price": 401,
+      "shortDescription": "The Justina Bike is the latest in a series of sour products from Hauck, Legros and Cummerata",
+      "image": "https://picsum.photos/seed/7bd90e44-d992-44fb-a190-383e91fa1a6e/800/800",
+      "category": "Computers",
+      "stock": 15,
+      "rating": 3
+    },
+    {
+      "id": "91227d98-e83c-4f65-b483-46d55e95215a",
+      "name": "Ergonomic Frozen Shirt",
+      "price": 282,
+      "shortDescription": "Our rich-inspired Cheese brings a taste of luxury to your poor lifestyle",
+      "image": "https://picsum.photos/seed/91227d98-e83c-4f65-b483-46d55e95215a/800/800",
+      "category": "Shoes",
+      "stock": 27,
+      "rating": 2
+    },
+    {
+      "id": "5fb8cfc1-295a-4f75-83bb-3e662f27c7d8",
+      "name": "Small Rubber Keyboard",
+      "price": 705,
+      "shortDescription": "Ergonomic Car made with Wooden for all-day optimal support",
+      "image": "https://picsum.photos/seed/5fb8cfc1-295a-4f75-83bb-3e662f27c7d8/800/800",
+      "category": "Health",
+      "stock": 32,
+      "rating": 3
+    },
+    {
+      "id": "b151aeaf-8570-4766-b46b-e98503a02f66",
+      "name": "Incredible Fresh Shoes",
+      "price": 357,
+      "shortDescription": "Our fluffy-inspired Pants brings a taste of luxury to your spiteful lifestyle",
+      "image": "https://picsum.photos/seed/b151aeaf-8570-4766-b46b-e98503a02f66/800/800",
+      "category": "Music",
+      "stock": 13,
+      "rating": 4
+    },
+    {
+      "id": "58e34512-a63b-4255-82c8-675b607b9738",
+      "name": "Refined Granite Soap",
+      "price": 133,
+      "shortDescription": "Torp, Purdy and Ryan's most advanced Computer technology increases rotten capabilities",
+      "image": "https://picsum.photos/seed/58e34512-a63b-4255-82c8-675b607b9738/800/800",
+      "category": "Clothing",
+      "stock": 31,
+      "rating": 5
+    },
+    {
+      "id": "0d128a20-da9c-41bf-860f-cb31d892227e",
+      "name": "Licensed Bronze Cheese",
+      "price": 121,
+      "shortDescription": "The Compatible optimizing algorithm Pizza offers reliable performance and odd design",
+      "image": "https://picsum.photos/seed/0d128a20-da9c-41bf-860f-cb31d892227e/800/800",
+      "category": "Books",
+      "stock": 50,
+      "rating": 4
+    },
+    {
+      "id": "86de60f5-9674-482b-8d10-f60cc8ea049d",
+      "name": "Electronic Frozen Bacon",
+      "price": 758,
+      "shortDescription": "Discover the glaring new Towels with an exciting mix of Fresh ingredients",
+      "image": "https://picsum.photos/seed/86de60f5-9674-482b-8d10-f60cc8ea049d/800/800",
+      "category": "Clothing",
+      "stock": 31,
+      "rating": 3
+    },
+    {
+      "id": "7958c2a5-0e0e-40d5-941d-8f93bb753fb1",
+      "name": "Fantastic Fresh Table",
+      "price": 246,
+      "shortDescription": "The Lenora Ball is the latest in a series of tender products from Bechtelar, Vandervort and Schulist",
+      "image": "https://picsum.photos/seed/7958c2a5-0e0e-40d5-941d-8f93bb753fb1/800/800",
+      "category": "Kids",
+      "stock": 33,
+      "rating": 4
+    },
+    {
+      "id": "b6c98887-1589-45bf-9770-ee8995c1a400",
+      "name": "Rustic Fresh Shoes",
+      "price": 912,
+      "shortDescription": "Experience the ivory brilliance of our Sausages, perfect for pastel environments",
+      "image": "https://picsum.photos/seed/b6c98887-1589-45bf-9770-ee8995c1a400/800/800",
+      "category": "Jewelry",
+      "stock": 97,
+      "rating": 5
+    },
+    {
+      "id": "e904f039-038f-4367-82ff-3be2e20eef5a",
+      "name": "Refined Wooden Computer",
+      "price": 593,
+      "shortDescription": "The sleek and competent Salad comes with magenta LED lighting for smart functionality",
+      "image": "https://picsum.photos/seed/e904f039-038f-4367-82ff-3be2e20eef5a/800/800",
+      "category": "Music",
+      "stock": 64,
+      "rating": 2
+    },
+    {
+      "id": "374e7cee-259a-4871-ae57-befe6b6e1f40",
+      "name": "Generic Rubber Fish",
+      "price": 594,
+      "shortDescription": "Discover the dolphin-like agility of our Shirt, perfect for elegant users",
+      "image": "https://picsum.photos/seed/374e7cee-259a-4871-ae57-befe6b6e1f40/800/800",
+      "category": "Home",
+      "stock": 79,
+      "rating": 1
+    },
+    {
+      "id": "7a6d85ab-3404-48eb-986e-8db5ce340459",
+      "name": "Handmade Rubber Ball",
+      "price": 887,
+      "shortDescription": "New Salad model with 38 GB RAM, 18 GB storage, and thorough features",
+      "image": "https://picsum.photos/seed/7a6d85ab-3404-48eb-986e-8db5ce340459/800/800",
+      "category": "Industrial",
+      "stock": 24,
+      "rating": 2
+    },
+    {
+      "id": "70936a55-7329-4862-b59e-7b22e6b32133",
+      "name": "Practical Concrete Computer",
+      "price": 932,
+      "shortDescription": "The User-centric hybrid help-desk Car offers reliable performance and official design",
+      "image": "https://picsum.photos/seed/70936a55-7329-4862-b59e-7b22e6b32133/800/800",
+      "category": "Garden",
+      "stock": 94,
+      "rating": 5
+    },
+    {
+      "id": "188b965d-d16d-462d-90f0-c5136bf20f40",
+      "name": "Bespoke Plastic Cheese",
+      "price": 437,
+      "shortDescription": "Savor the spicy essence in our Cheese, designed for minty culinary adventures",
+      "image": "https://picsum.photos/seed/188b965d-d16d-462d-90f0-c5136bf20f40/800/800",
+      "category": "Grocery",
+      "stock": 52,
+      "rating": 3
+    },
+    {
+      "id": "3c4bcf38-9082-4503-9e69-f5c7cbe8b15a",
+      "name": "Electronic Metal Chicken",
+      "price": 307,
+      "shortDescription": "Experience the azure brilliance of our Car, perfect for fortunate environments",
+      "image": "https://picsum.photos/seed/3c4bcf38-9082-4503-9e69-f5c7cbe8b15a/800/800",
+      "category": "Grocery",
+      "stock": 2,
+      "rating": 2
+    },
+    {
+      "id": "f9147dde-14b1-4440-955b-03053a02541e",
+      "name": "Bespoke Wooden Gloves",
+      "price": 922,
+      "shortDescription": "The AI-driven zero trust frame Car offers reliable performance and slimy design",
+      "image": "https://picsum.photos/seed/f9147dde-14b1-4440-955b-03053a02541e/800/800",
+      "category": "Garden",
+      "stock": 67,
+      "rating": 5
+    },
+    {
+      "id": "b3d978ef-fde7-4603-a6d6-849be7d92c8f",
+      "name": "Practical Bronze Table",
+      "price": 818,
+      "shortDescription": "Discover the gecko-like agility of our Salad, perfect for authorized users",
+      "image": "https://picsum.photos/seed/b3d978ef-fde7-4603-a6d6-849be7d92c8f/800/800",
+      "category": "Jewelry",
+      "stock": 63,
+      "rating": 3
+    },
+    {
+      "id": "b9b1d0f0-628b-43d6-b826-cec203e94c9f",
+      "name": "Generic Fresh Sausages",
+      "price": 301,
+      "shortDescription": "The Smart incremental orchestration Chips offers reliable performance and accurate design",
+      "image": "https://picsum.photos/seed/b9b1d0f0-628b-43d6-b826-cec203e94c9f/800/800",
+      "category": "Games",
+      "stock": 35,
+      "rating": 3
+    },
+    {
+      "id": "f25effb9-1579-4205-bbf5-f08bc71338ba",
+      "name": "Rustic Fresh Bike",
+      "price": 563,
+      "shortDescription": "Professional-grade Shirt perfect for idealistic training and recreational use",
+      "image": "https://picsum.photos/seed/f25effb9-1579-4205-bbf5-f08bc71338ba/800/800",
+      "category": "Outdoors",
+      "stock": 39,
+      "rating": 3
+    },
+    {
+      "id": "095f98ee-d7f2-4b4f-9f2b-b0e1d440cfc4",
+      "name": "Refined Soft Tuna",
+      "price": 521,
+      "shortDescription": "Featuring Lutetium-enhanced technology, our Salad offers unparalleled dutiful performance",
+      "image": "https://picsum.photos/seed/095f98ee-d7f2-4b4f-9f2b-b0e1d440cfc4/800/800",
+      "category": "Tools",
+      "stock": 1,
+      "rating": 1
+    },
+    {
+      "id": "7f464ee2-b87d-4cf7-93ec-7c1ae9aca43d",
+      "name": "Bespoke Rubber Pizza",
+      "price": 747,
+      "shortDescription": "Our juicy-inspired Mouse brings a taste of luxury to your blind lifestyle",
+      "image": "https://picsum.photos/seed/7f464ee2-b87d-4cf7-93ec-7c1ae9aca43d/800/800",
+      "category": "Games",
+      "stock": 91,
+      "rating": 1
+    },
+    {
+      "id": "0587167f-9adc-4ac1-9c09-a20301062ae2",
+      "name": "Luxurious Granite Mouse",
+      "price": 562,
+      "shortDescription": "Experience the cyan brilliance of our Shirt, perfect for legal environments",
+      "image": "https://picsum.photos/seed/0587167f-9adc-4ac1-9c09-a20301062ae2/800/800",
+      "category": "Health",
+      "stock": 59,
+      "rating": 4
+    },
+    {
+      "id": "054af539-72a0-46a2-a4bf-22242ba508a4",
+      "name": "Practical Rubber Soap",
+      "price": 718,
+      "shortDescription": "Discover the dull new Chips with an exciting mix of Wooden ingredients",
+      "image": "https://picsum.photos/seed/054af539-72a0-46a2-a4bf-22242ba508a4/800/800",
+      "category": "Baby",
+      "stock": 10,
+      "rating": 2
+    },
+    {
+      "id": "eeea2f8b-3423-40b3-98ce-ff6c8900d4aa",
+      "name": "Electronic Granite Pizza",
+      "price": 899,
+      "shortDescription": "The Leland Mouse is the latest in a series of grimy products from O'Kon and Sons",
+      "image": "https://picsum.photos/seed/eeea2f8b-3423-40b3-98ce-ff6c8900d4aa/800/800",
+      "category": "Baby",
+      "stock": 23,
+      "rating": 1
+    },
+    {
+      "id": "5068c041-0814-48ea-bd52-09e3f8512cc3",
+      "name": "Recycled Rubber Pizza",
+      "price": 443,
+      "shortDescription": "The magenta Table combines Saint Kitts and Nevis aesthetics with Holmium-based durability",
+      "image": "https://picsum.photos/seed/5068c041-0814-48ea-bd52-09e3f8512cc3/800/800",
+      "category": "Music",
+      "stock": 68,
+      "rating": 2
+    },
+    {
+      "id": "395814b6-963d-44a9-87c9-fe0e5caee2f9",
+      "name": "Ergonomic Cotton Bacon",
+      "price": 543,
+      "shortDescription": "New Keyboard model with 36 GB RAM, 838 GB storage, and speedy features",
+      "image": "https://picsum.photos/seed/395814b6-963d-44a9-87c9-fe0e5caee2f9/800/800",
+      "category": "Clothing",
+      "stock": 26,
+      "rating": 4
+    },
+    {
+      "id": "8cc0133a-701d-46a9-82d4-053885285d96",
+      "name": "Modern Rubber Car",
+      "price": 885,
+      "shortDescription": "Our squirrel-friendly Hat ensures talkative comfort for your pets",
+      "image": "https://picsum.photos/seed/8cc0133a-701d-46a9-82d4-053885285d96/800/800",
+      "category": "Electronics",
+      "stock": 2,
+      "rating": 2
+    },
+    {
+      "id": "ab15da71-51dc-480f-ab77-2423148845d7",
+      "name": "Luxurious Granite Bacon",
+      "price": 881,
+      "shortDescription": "New tan Car with ergonomic design for petty comfort",
+      "image": "https://picsum.photos/seed/ab15da71-51dc-480f-ab77-2423148845d7/800/800",
+      "category": "Beauty",
+      "stock": 49,
+      "rating": 2
+    },
+    {
+      "id": "9bfcd73d-92f9-4707-9677-60726bfde146",
+      "name": "Intelligent Cotton Mouse",
+      "price": 620,
+      "shortDescription": "The sleek and damp Bacon comes with white LED lighting for smart functionality",
+      "image": "https://picsum.photos/seed/9bfcd73d-92f9-4707-9677-60726bfde146/800/800",
+      "category": "Industrial",
+      "stock": 48,
+      "rating": 1
+    },
+    {
+      "id": "820cf40b-e4d4-4977-8dd5-f3f6600b9849",
+      "name": "Fantastic Wooden Keyboard",
+      "price": 929,
+      "shortDescription": "The Vella Shoes is the latest in a series of roasted products from Spinka LLC",
+      "image": "https://picsum.photos/seed/820cf40b-e4d4-4977-8dd5-f3f6600b9849/800/800",
+      "category": "Shoes",
+      "stock": 97,
+      "rating": 2
+    },
+    {
+      "id": "f06ec1d6-e38f-4190-80e1-b73001e09ce8",
+      "name": "Small Granite Bike",
+      "price": 833,
+      "shortDescription": "The Operative logistical functionalities Fish offers reliable performance and silky design",
+      "image": "https://picsum.photos/seed/f06ec1d6-e38f-4190-80e1-b73001e09ce8/800/800",
+      "category": "Automotive",
+      "stock": 32,
+      "rating": 5
+    },
+    {
+      "id": "475aab50-9dc4-48c8-a6db-a3387546c556",
+      "name": "Licensed Metal Keyboard",
+      "price": 692,
+      "shortDescription": "Introducing the Lao People's Democratic Republic-inspired Cheese, blending fair style with local craftsmanship",
+      "image": "https://picsum.photos/seed/475aab50-9dc4-48c8-a6db-a3387546c556/800/800",
+      "category": "Tools",
+      "stock": 62,
+      "rating": 5
+    },
+    {
+      "id": "6d6c1171-5898-483c-8685-1fbee5105267",
+      "name": "Elegant Cotton Towels",
+      "price": 604,
+      "shortDescription": "The Helena Cheese is the latest in a series of comfortable products from King and Sons",
+      "image": "https://picsum.photos/seed/6d6c1171-5898-483c-8685-1fbee5105267/800/800",
+      "category": "Kids",
+      "stock": 19,
+      "rating": 3
+    },
+    {
+      "id": "19b99410-941a-4f92-b71e-d4b8a8f54d19",
+      "name": "Recycled Frozen Towels",
+      "price": 883,
+      "shortDescription": "The yellow Gloves combines Ghana aesthetics with Lead-based durability",
+      "image": "https://picsum.photos/seed/19b99410-941a-4f92-b71e-d4b8a8f54d19/800/800",
+      "category": "Industrial",
+      "stock": 25,
+      "rating": 5
+    },
+    {
+      "id": "1d6c8fe3-cf51-4b23-9893-d67243d2eba8",
+      "name": "Incredible Cotton Bike",
+      "price": 268,
+      "shortDescription": "New Towels model with 43 GB RAM, 18 GB storage, and tiny features",
+      "image": "https://picsum.photos/seed/1d6c8fe3-cf51-4b23-9893-d67243d2eba8/800/800",
+      "category": "Grocery",
+      "stock": 89,
+      "rating": 4
+    },
+    {
+      "id": "ffc1b254-840c-44de-929d-e3494766df63",
+      "name": "Unbranded Rubber Cheese",
+      "price": 761,
+      "shortDescription": "Stylish Mouse designed to make you stand out with extroverted looks",
+      "image": "https://picsum.photos/seed/ffc1b254-840c-44de-929d-e3494766df63/800/800",
+      "category": "Toys",
+      "stock": 95,
+      "rating": 2
+    },
+    {
+      "id": "99a50681-a3cf-47b1-b0f1-80e85c94f286",
+      "name": "Oriental Steel Shoes",
+      "price": 936,
+      "shortDescription": "The sleek and intelligent Chicken comes with white LED lighting for smart functionality",
+      "image": "https://picsum.photos/seed/99a50681-a3cf-47b1-b0f1-80e85c94f286/800/800",
+      "category": "Tools",
+      "stock": 80,
+      "rating": 1
+    },
+    {
+      "id": "d850f7c4-b220-4c59-9678-627a8639d1f2",
+      "name": "Ergonomic Rubber Tuna",
+      "price": 699,
+      "shortDescription": "Konopelski - Turcotte's most advanced Bacon technology increases enraged capabilities",
+      "image": "https://picsum.photos/seed/d850f7c4-b220-4c59-9678-627a8639d1f2/800/800",
+      "category": "Outdoors",
+      "stock": 93,
+      "rating": 4
+    },
+    {
+      "id": "43f3123b-5c09-4fd8-b9ec-1c048981ce44",
+      "name": "Incredible Granite Bike",
+      "price": 415,
+      "shortDescription": "The Optional incremental matrix Computer offers reliable performance and steep design",
+      "image": "https://picsum.photos/seed/43f3123b-5c09-4fd8-b9ec-1c048981ce44/800/800",
+      "category": "Games",
+      "stock": 59,
+      "rating": 3
+    },
+    {
+      "id": "8e1b3ac7-7ff8-4476-91f7-e799a42345da",
+      "name": "Gorgeous Fresh Shoes",
+      "price": 369,
+      "shortDescription": "Featuring Bohrium-enhanced technology, our Chair offers unparalleled those performance",
+      "image": "https://picsum.photos/seed/8e1b3ac7-7ff8-4476-91f7-e799a42345da/800/800",
+      "category": "Books",
+      "stock": 2,
+      "rating": 4
+    },
+    {
+      "id": "b74930ac-44b0-4c83-a180-da9669503aec",
+      "name": "Modern Steel Pizza",
+      "price": 909,
+      "shortDescription": "Refined Soap designed with Cotton for red performance",
+      "image": "https://picsum.photos/seed/b74930ac-44b0-4c83-a180-da9669503aec/800/800",
+      "category": "Outdoors",
+      "stock": 42,
+      "rating": 2
+    },
+    {
+      "id": "7742961c-04e5-406b-a842-6134a8e2ce87",
+      "name": "Gorgeous Plastic Tuna",
+      "price": 716,
+      "shortDescription": "New green Keyboard with ergonomic design for elastic comfort",
+      "image": "https://picsum.photos/seed/7742961c-04e5-406b-a842-6134a8e2ce87/800/800",
+      "category": "Electronics",
+      "stock": 83,
+      "rating": 2
+    },
+    {
+      "id": "634dbd6b-59b3-4344-bf12-2540d6c973d1",
+      "name": "Sleek Wooden Ball",
+      "price": 183,
+      "shortDescription": "Savor the spicy essence in our Gloves, designed for vain culinary adventures",
+      "image": "https://picsum.photos/seed/634dbd6b-59b3-4344-bf12-2540d6c973d1/800/800",
+      "category": "Kids",
+      "stock": 76,
+      "rating": 2
+    },
+    {
+      "id": "8251f1c6-a477-49c7-86d9-c9c8f9c4c46a",
+      "name": "Intelligent Rubber Sausages",
+      "price": 717,
+      "shortDescription": "The olive Chicken combines Zambia aesthetics with Livermorium-based durability",
+      "image": "https://picsum.photos/seed/8251f1c6-a477-49c7-86d9-c9c8f9c4c46a/800/800",
+      "category": "Garden",
+      "stock": 23,
+      "rating": 2
+    },
+    {
+      "id": "63941357-fa15-40cb-942d-910cf9afa36d",
+      "name": "Luxurious Frozen Pants",
+      "price": 723,
+      "shortDescription": "Handcrafted Chair designed with Concrete for elementary performance",
+      "image": "https://picsum.photos/seed/63941357-fa15-40cb-942d-910cf9afa36d/800/800",
+      "category": "Shoes",
+      "stock": 78,
+      "rating": 3
+    },
+    {
+      "id": "30f09763-512c-456b-b625-0b5f470cd7c5",
+      "name": "Elegant Metal Salad",
+      "price": 951,
+      "shortDescription": "The Alvis Shoes is the latest in a series of subtle products from Senger - Goyette",
+      "image": "https://picsum.photos/seed/30f09763-512c-456b-b625-0b5f470cd7c5/800/800",
+      "category": "Toys",
+      "stock": 75,
+      "rating": 3
+    },
+    {
+      "id": "03073373-ada7-4d91-9530-daf9a3354cee",
+      "name": "Incredible Frozen Fish",
+      "price": 972,
+      "shortDescription": "New cyan Chair with ergonomic design for untrue comfort",
+      "image": "https://picsum.photos/seed/03073373-ada7-4d91-9530-daf9a3354cee/800/800",
+      "category": "Sports",
+      "stock": 57,
+      "rating": 5
+    },
+    {
+      "id": "8b3494ce-b29f-458c-b017-186d234f1ce8",
+      "name": "Licensed Wooden Bike",
+      "price": 355,
+      "shortDescription": "New blue Chair with ergonomic design for lucky comfort",
+      "image": "https://picsum.photos/seed/8b3494ce-b29f-458c-b017-186d234f1ce8/800/800",
+      "category": "Jewelry",
+      "stock": 65,
+      "rating": 1
+    },
+    {
+      "id": "655f351f-61d4-4890-af27-5d5267bbc1ca",
+      "name": "Fantastic Bronze Soap",
+      "price": 680,
+      "shortDescription": "Ergonomic Ball made with Soft for all-day puny support",
+      "image": "https://picsum.photos/seed/655f351f-61d4-4890-af27-5d5267bbc1ca/800/800",
+      "category": "Outdoors",
+      "stock": 85,
+      "rating": 4
+    },
+    {
+      "id": "65bb0f8f-caf7-4527-878d-584b5175edd9",
+      "name": "Tasty Metal Keyboard",
+      "price": 667,
+      "shortDescription": "Experience the azure brilliance of our Car, perfect for bony environments",
+      "image": "https://picsum.photos/seed/65bb0f8f-caf7-4527-878d-584b5175edd9/800/800",
+      "category": "Tools",
+      "stock": 32,
+      "rating": 3
+    },
+    {
+      "id": "88ded64c-c09d-4ad7-a92e-93de2e40d483",
+      "name": "Fantastic Concrete Hat",
+      "price": 120,
+      "shortDescription": "Savor the savory essence in our Pizza, designed for worldly culinary adventures",
+      "image": "https://picsum.photos/seed/88ded64c-c09d-4ad7-a92e-93de2e40d483/800/800",
+      "category": "Movies",
+      "stock": 31,
+      "rating": 2
+    },
+    {
+      "id": "f75a76cd-6ed4-4a10-ab90-b2a8babf82b2",
+      "name": "Ergonomic Soft Shoes",
+      "price": 479,
+      "shortDescription": "Professional-grade Salad perfect for black training and recreational use",
+      "image": "https://picsum.photos/seed/f75a76cd-6ed4-4a10-ab90-b2a8babf82b2/800/800",
+      "category": "Toys",
+      "stock": 66,
+      "rating": 2
+    },
+    {
+      "id": "e1f85d22-6652-40c8-b25d-3ba01749a9c2",
+      "name": "Handmade Fresh Shirt",
+      "price": 330,
+      "shortDescription": "New salmon Pizza with ergonomic design for short-term comfort",
+      "image": "https://picsum.photos/seed/e1f85d22-6652-40c8-b25d-3ba01749a9c2/800/800",
+      "category": "Tools",
+      "stock": 67,
+      "rating": 4
+    },
+    {
+      "id": "21f54271-8fbe-431b-a7ef-abda101ba89b",
+      "name": "Gorgeous Wooden Bike",
+      "price": 459,
+      "shortDescription": "Discover the fish-like agility of our Pants, perfect for classic users",
+      "image": "https://picsum.photos/seed/21f54271-8fbe-431b-a7ef-abda101ba89b/800/800",
+      "category": "Beauty",
+      "stock": 16,
+      "rating": 2
+    },
+    {
+      "id": "24452914-121a-4461-8fec-780194a845dd",
+      "name": "Bespoke Metal Hat",
+      "price": 863,
+      "shortDescription": "The gold Computer combines Dominica aesthetics with Seaborgium-based durability",
+      "image": "https://picsum.photos/seed/24452914-121a-4461-8fec-780194a845dd/800/800",
+      "category": "Outdoors",
+      "stock": 80,
+      "rating": 4
+    },
+    {
+      "id": "5443808f-37d6-44ab-a774-c7afbaa3f2f8",
+      "name": "Electronic Frozen Chicken",
+      "price": 433,
+      "shortDescription": "Experience the pink brilliance of our Bacon, perfect for brisk environments",
+      "image": "https://picsum.photos/seed/5443808f-37d6-44ab-a774-c7afbaa3f2f8/800/800",
+      "category": "Outdoors",
+      "stock": 12,
+      "rating": 5
+    },
+    {
+      "id": "41b9cccf-4755-47ec-a504-9423287bd129",
+      "name": "Practical Frozen Bacon",
+      "price": 758,
+      "shortDescription": "The white Tuna combines Italy aesthetics with Seaborgium-based durability",
+      "image": "https://picsum.photos/seed/41b9cccf-4755-47ec-a504-9423287bd129/800/800",
+      "category": "Automotive",
+      "stock": 67,
+      "rating": 5
+    },
+    {
+      "id": "26bb5405-5233-40b2-8d13-fb102c44d2de",
+      "name": "Generic Concrete Chair",
+      "price": 290,
+      "shortDescription": "The Automated context-sensitive analyzer Shirt offers reliable performance and glossy design",
+      "image": "https://picsum.photos/seed/26bb5405-5233-40b2-8d13-fb102c44d2de/800/800",
+      "category": "Electronics",
+      "stock": 29,
+      "rating": 5
+    },
+    {
+      "id": "9116651c-9cf5-4d8f-a964-22724af64485",
+      "name": "Sleek Bronze Cheese",
+      "price": 393,
+      "shortDescription": "Experience the green brilliance of our Fish, perfect for shy environments",
+      "image": "https://picsum.photos/seed/9116651c-9cf5-4d8f-a964-22724af64485/800/800",
+      "category": "Automotive",
+      "stock": 54,
+      "rating": 4
+    },
+    {
+      "id": "1c56c099-9e2d-4dac-8fab-41b0d77d1b13",
+      "name": "Handcrafted Metal Gloves",
+      "price": 341,
+      "shortDescription": "Stylish Towels designed to make you stand out with actual looks",
+      "image": "https://picsum.photos/seed/1c56c099-9e2d-4dac-8fab-41b0d77d1b13/800/800",
+      "category": "Tools",
+      "stock": 90,
+      "rating": 2
+    },
+    {
+      "id": "41022f60-e4cb-4c31-9e12-4e12df400e5f",
+      "name": "Gorgeous Frozen Ball",
+      "price": 830,
+      "shortDescription": "Innovative Towels featuring confused technology and Granite construction",
+      "image": "https://picsum.photos/seed/41022f60-e4cb-4c31-9e12-4e12df400e5f/800/800",
+      "category": "Sports",
+      "stock": 81,
+      "rating": 1
+    },
+    {
+      "id": "ffaab8a6-b873-4b27-879a-352728cc8e89",
+      "name": "Awesome Wooden Table",
+      "price": 220,
+      "shortDescription": "Introducing the Rwanda-inspired Pizza, blending cavernous style with local craftsmanship",
+      "image": "https://picsum.photos/seed/ffaab8a6-b873-4b27-879a-352728cc8e89/800/800",
+      "category": "Health",
+      "stock": 41,
+      "rating": 2
+    },
+    {
+      "id": "95ee627b-216e-4d7c-96ae-c69a9980ca16",
+      "name": "Unbranded Rubber Towels",
+      "price": 360,
+      "shortDescription": "The Jody Towels is the latest in a series of rundown products from Jerde, Osinski and Cummings",
+      "image": "https://picsum.photos/seed/95ee627b-216e-4d7c-96ae-c69a9980ca16/800/800",
+      "category": "Music",
+      "stock": 58,
+      "rating": 4
+    },
+    {
+      "id": "940aa9d1-12f6-4e0f-9a6c-b86882607fb3",
+      "name": "Fantastic Granite Car",
+      "price": 293,
+      "shortDescription": "New olive Mouse with ergonomic design for gifted comfort",
+      "image": "https://picsum.photos/seed/940aa9d1-12f6-4e0f-9a6c-b86882607fb3/800/800",
+      "category": "Books",
+      "stock": 68,
+      "rating": 1
+    },
+    {
+      "id": "890b1f6d-8403-430e-bd6f-f89dcc50e246",
+      "name": "Oriental Frozen Pizza",
+      "price": 901,
+      "shortDescription": "The Woodrow Pants is the latest in a series of agile products from Hammes, Swift and Beer",
+      "image": "https://picsum.photos/seed/890b1f6d-8403-430e-bd6f-f89dcc50e246/800/800",
+      "category": "Toys",
+      "stock": 30,
+      "rating": 5
+    },
+    {
+      "id": "9eec27e4-e31a-46bd-8598-53f6bd198610",
+      "name": "Incredible Soft Keyboard",
+      "price": 677,
+      "shortDescription": "Professional-grade Salad perfect for flustered training and recreational use",
+      "image": "https://picsum.photos/seed/9eec27e4-e31a-46bd-8598-53f6bd198610/800/800",
+      "category": "Automotive",
+      "stock": 14,
+      "rating": 4
+    },
+    {
+      "id": "81429bc2-7554-441f-b671-77b1de5b41cc",
+      "name": "Small Concrete Bacon",
+      "price": 980,
+      "shortDescription": "Professional-grade Bacon perfect for warmhearted training and recreational use",
+      "image": "https://picsum.photos/seed/81429bc2-7554-441f-b671-77b1de5b41cc/800/800",
+      "category": "Baby",
+      "stock": 13,
+      "rating": 1
+    },
+    {
+      "id": "8933dcf6-49e6-4da2-a77c-0bcbb336adda",
+      "name": "Ergonomic Granite Fish",
+      "price": 834,
+      "shortDescription": "Our tangy-inspired Fish brings a taste of luxury to your defensive lifestyle",
+      "image": "https://picsum.photos/seed/8933dcf6-49e6-4da2-a77c-0bcbb336adda/800/800",
+      "category": "Outdoors",
+      "stock": 87,
+      "rating": 5
+    },
+    {
+      "id": "7fb46ff9-0899-4c9a-9705-809b0d2dc8f9",
+      "name": "Oriental Steel Hat",
+      "price": 696,
+      "shortDescription": "The Focused real-time standardization Shoes offers reliable performance and baggy design",
+      "image": "https://picsum.photos/seed/7fb46ff9-0899-4c9a-9705-809b0d2dc8f9/800/800",
+      "category": "Toys",
+      "stock": 10,
+      "rating": 4
+    },
+    {
+      "id": "c6b09078-6402-4adb-bcb8-7203e37e2f69",
+      "name": "Small Bronze Ball",
+      "price": 953,
+      "shortDescription": "The Berenice Cheese is the latest in a series of roasted products from Miller and Sons",
+      "image": "https://picsum.photos/seed/c6b09078-6402-4adb-bcb8-7203e37e2f69/800/800",
+      "category": "Health",
+      "stock": 88,
+      "rating": 5
+    },
+    {
+      "id": "2255bac8-a60b-4882-9f40-eb0e844534e5",
+      "name": "Handcrafted Steel Shirt",
+      "price": 971,
+      "shortDescription": "Our fresh-inspired Bacon brings a taste of luxury to your liquid lifestyle",
+      "image": "https://picsum.photos/seed/2255bac8-a60b-4882-9f40-eb0e844534e5/800/800",
+      "category": "Beauty",
+      "stock": 39,
+      "rating": 2
+    },
+    {
+      "id": "fcbd4d7d-9deb-49a5-af43-bfaa5fa1555f",
+      "name": "Modern Bronze Sausages",
+      "price": 862,
+      "shortDescription": "New plum Soap with ergonomic design for slight comfort",
+      "image": "https://picsum.photos/seed/fcbd4d7d-9deb-49a5-af43-bfaa5fa1555f/800/800",
+      "category": "Health",
+      "stock": 68,
+      "rating": 5
+    },
+    {
+      "id": "5dfe3b50-48ef-495a-9a85-80270800f291",
+      "name": "Sleek Frozen Fish",
+      "price": 349,
+      "shortDescription": "Stylish Chair designed to make you stand out with serene looks",
+      "image": "https://picsum.photos/seed/5dfe3b50-48ef-495a-9a85-80270800f291/800/800",
+      "category": "Games",
+      "stock": 29,
+      "rating": 2
+    },
+    {
+      "id": "338dc67a-d58e-4059-b810-ed23a7e8cbcc",
+      "name": "Oriental Frozen Pants",
+      "price": 832,
+      "shortDescription": "New Tuna model with 28 GB RAM, 96 GB storage, and upbeat features",
+      "image": "https://picsum.photos/seed/338dc67a-d58e-4059-b810-ed23a7e8cbcc/800/800",
+      "category": "Health",
+      "stock": 35,
+      "rating": 5
+    },
+    {
+      "id": "dc734e7f-e506-4eab-8be1-a8b8e34e63af",
+      "name": "Rustic Frozen Mouse",
+      "price": 145,
+      "shortDescription": "Tasty Shirt designed with Soft for colorful performance",
+      "image": "https://picsum.photos/seed/dc734e7f-e506-4eab-8be1-a8b8e34e63af/800/800",
+      "category": "Grocery",
+      "stock": 45,
+      "rating": 2
+    },
+    {
+      "id": "186c61be-2084-4635-8831-26d7b244873d",
+      "name": "Recycled Granite Salad",
+      "price": 483,
+      "shortDescription": "Ergonomic Cheese made with Cotton for all-day late support",
+      "image": "https://picsum.photos/seed/186c61be-2084-4635-8831-26d7b244873d/800/800",
+      "category": "Books",
+      "stock": 52,
+      "rating": 3
+    },
+    {
+      "id": "af8f9135-4db7-49a2-9a6e-d4dc26194993",
+      "name": "Intelligent Fresh Shirt",
+      "price": 332,
+      "shortDescription": "Stylish Chicken designed to make you stand out with glaring looks",
+      "image": "https://picsum.photos/seed/af8f9135-4db7-49a2-9a6e-d4dc26194993/800/800",
+      "category": "Automotive",
+      "stock": 47,
+      "rating": 4
+    },
+    {
+      "id": "08ac786a-e75c-494c-aa15-f389b5d2ec1f",
+      "name": "Licensed Metal Shoes",
+      "price": 473,
+      "shortDescription": "Savor the sweet essence in our Soap, designed for cluttered culinary adventures",
+      "image": "https://picsum.photos/seed/08ac786a-e75c-494c-aa15-f389b5d2ec1f/800/800",
+      "category": "Shoes",
+      "stock": 9,
+      "rating": 2
+    },
+    {
+      "id": "42a63939-43c9-4db2-bdfd-afca14504f0b",
+      "name": "Handcrafted Wooden Fish",
+      "price": 182,
+      "shortDescription": "The pink Bike combines Svalbard & Jan Mayen Islands aesthetics with Copper-based durability",
+      "image": "https://picsum.photos/seed/42a63939-43c9-4db2-bdfd-afca14504f0b/800/800",
+      "category": "Health",
+      "stock": 75,
+      "rating": 1
+    },
+    {
+      "id": "c90ac2bd-b70d-4785-9e43-1e53fa09c5df",
+      "name": "Modern Soft Bacon",
+      "price": 399,
+      "shortDescription": "Grimes LLC's most advanced Mouse technology increases vivacious capabilities",
+      "image": "https://picsum.photos/seed/c90ac2bd-b70d-4785-9e43-1e53fa09c5df/800/800",
+      "category": "Movies",
+      "stock": 42,
+      "rating": 5
+    },
+    {
+      "id": "6f528483-8e35-4931-8aa2-fb9261e5bd31",
+      "name": "Oriental Cotton Car",
+      "price": 749,
+      "shortDescription": "New gold Salad with ergonomic design for talkative comfort",
+      "image": "https://picsum.photos/seed/6f528483-8e35-4931-8aa2-fb9261e5bd31/800/800",
+      "category": "Health",
+      "stock": 69,
+      "rating": 1
+    },
+    {
+      "id": "5f0623c3-74ff-4ba5-b3d8-4b109bac7525",
+      "name": "Incredible Soft Pizza",
+      "price": 699,
+      "shortDescription": "Ergonomic Soap made with Concrete for all-day dense support",
+      "image": "https://picsum.photos/seed/5f0623c3-74ff-4ba5-b3d8-4b109bac7525/800/800",
+      "category": "Movies",
+      "stock": 92,
+      "rating": 1
+    },
+    {
+      "id": "8225c442-c676-4651-a176-f87c6785927b",
+      "name": "Refined Concrete Mouse",
+      "price": 154,
+      "shortDescription": "Ergonomic Ball made with Steel for all-day profitable support",
+      "image": "https://picsum.photos/seed/8225c442-c676-4651-a176-f87c6785927b/800/800",
+      "category": "Automotive",
+      "stock": 88,
+      "rating": 4
+    },
+    {
+      "id": "94509df8-eed7-45db-8c46-8850ceb599aa",
+      "name": "Fantastic Granite Chair",
+      "price": 145,
+      "shortDescription": "Discover the ostrich-like agility of our Tuna, perfect for cute users",
+      "image": "https://picsum.photos/seed/94509df8-eed7-45db-8c46-8850ceb599aa/800/800",
+      "category": "Books",
+      "stock": 12,
+      "rating": 3
+    },
+    {
+      "id": "5a3c9371-0a91-4269-afdb-a4e9320711fa",
+      "name": "Intelligent Fresh Keyboard",
+      "price": 699,
+      "shortDescription": "Our penguin-friendly Chicken ensures aching comfort for your pets",
+      "image": "https://picsum.photos/seed/5a3c9371-0a91-4269-afdb-a4e9320711fa/800/800",
+      "category": "Health",
+      "stock": 26,
+      "rating": 5
+    },
+    {
+      "id": "44a1b874-cca6-44cb-b0bf-0567edcd07a7",
+      "name": "Licensed Rubber Bike",
+      "price": 689,
+      "shortDescription": "The sleek and whimsical Table comes with white LED lighting for smart functionality",
+      "image": "https://picsum.photos/seed/44a1b874-cca6-44cb-b0bf-0567edcd07a7/800/800",
+      "category": "Electronics",
+      "stock": 45,
+      "rating": 1
+    },
+    {
+      "id": "11cd4b7b-ca55-4f45-bf38-6fc8e7419bd6",
+      "name": "Electronic Granite Pizza",
+      "price": 132,
+      "shortDescription": "Innovative Shoes featuring warped technology and Plastic construction",
+      "image": "https://picsum.photos/seed/11cd4b7b-ca55-4f45-bf38-6fc8e7419bd6/800/800",
+      "category": "Games",
+      "stock": 58,
+      "rating": 5
+    },
+    {
+      "id": "5b067bca-6988-493d-b312-81ede6264822",
+      "name": "Incredible Granite Car",
+      "price": 290,
+      "shortDescription": "Luxurious Towels designed with Plastic for fond performance",
+      "image": "https://picsum.photos/seed/5b067bca-6988-493d-b312-81ede6264822/800/800",
+      "category": "Sports",
+      "stock": 28,
+      "rating": 4
+    },
+    {
+      "id": "b452f7d4-da09-4a8d-b8f2-c754a728eee5",
+      "name": "Awesome Rubber Sausages",
+      "price": 770,
+      "shortDescription": "Discover the favorable new Salad with an exciting mix of Granite ingredients",
+      "image": "https://picsum.photos/seed/b452f7d4-da09-4a8d-b8f2-c754a728eee5/800/800",
+      "category": "Computers",
+      "stock": 6,
+      "rating": 3
+    },
+    {
+      "id": "12000091-9a9e-4f4e-b104-82f124369664",
+      "name": "Oriental Wooden Computer",
+      "price": 577,
+      "shortDescription": "Experience the red brilliance of our Table, perfect for delectable environments",
+      "image": "https://picsum.photos/seed/12000091-9a9e-4f4e-b104-82f124369664/800/800",
+      "category": "Beauty",
+      "stock": 76,
+      "rating": 1
+    },
+    {
+      "id": "7e0cc970-e07d-4484-a1c4-4d08dddd7f7d",
+      "name": "Oriental Bronze Chicken",
+      "price": 269,
+      "shortDescription": "Innovative Bacon featuring extra-large technology and Rubber construction",
+      "image": "https://picsum.photos/seed/7e0cc970-e07d-4484-a1c4-4d08dddd7f7d/800/800",
+      "category": "Beauty",
+      "stock": 51,
+      "rating": 1
+    },
+    {
+      "id": "508926a0-901e-419e-a3f2-61b3a402a677",
+      "name": "Gorgeous Plastic Chips",
+      "price": 917,
+      "shortDescription": "Innovative Bike featuring alive technology and Concrete construction",
+      "image": "https://picsum.photos/seed/508926a0-901e-419e-a3f2-61b3a402a677/800/800",
+      "category": "Toys",
+      "stock": 96,
+      "rating": 1
+    },
+    {
+      "id": "0262815c-3ad4-4c3f-89de-d6f120de296f",
+      "name": "Intelligent Steel Tuna",
+      "price": 743,
+      "shortDescription": "The Jess Mouse is the latest in a series of tinted products from Abbott - Berge",
+      "image": "https://picsum.photos/seed/0262815c-3ad4-4c3f-89de-d6f120de296f/800/800",
+      "category": "Shoes",
+      "stock": 46,
+      "rating": 4
+    },
+    {
+      "id": "03c299c9-b973-465c-ae66-628a3db87844",
+      "name": "Generic Fresh Cheese",
+      "price": 366,
+      "shortDescription": "The Grass-roots motivating frame Keyboard offers reliable performance and knowledgeable design",
+      "image": "https://picsum.photos/seed/03c299c9-b973-465c-ae66-628a3db87844/800/800",
+      "category": "Shoes",
+      "stock": 32,
+      "rating": 1
+    },
+    {
+      "id": "ec7ce8be-d793-4ea8-a274-b04ebc4c9a41",
+      "name": "Awesome Steel Ball",
+      "price": 483,
+      "shortDescription": "Innovative Tuna featuring unwilling technology and Plastic construction",
+      "image": "https://picsum.photos/seed/ec7ce8be-d793-4ea8-a274-b04ebc4c9a41/800/800",
+      "category": "Clothing",
+      "stock": 98,
+      "rating": 3
+    },
+    {
+      "id": "0902c336-3f4e-4093-960b-1dc099cf17b9",
+      "name": "Rustic Plastic Table",
+      "price": 498,
+      "shortDescription": "Featuring Lithium-enhanced technology, our Salad offers unparalleled exalted performance",
+      "image": "https://picsum.photos/seed/0902c336-3f4e-4093-960b-1dc099cf17b9/800/800",
+      "category": "Toys",
+      "stock": 40,
+      "rating": 5
+    },
+    {
+      "id": "6c185550-0d8d-4dd7-ba1e-c0b8d81eacd3",
+      "name": "Awesome Fresh Chicken",
+      "price": 975,
+      "shortDescription": "The Customer-focused bottom-line attitude Fish offers reliable performance and outgoing design",
+      "image": "https://picsum.photos/seed/6c185550-0d8d-4dd7-ba1e-c0b8d81eacd3/800/800",
+      "category": "Home",
+      "stock": 2,
+      "rating": 2
+    },
+    {
+      "id": "4bb3b89f-a88e-41f4-bf41-9e5eeced4708",
+      "name": "Modern Metal Soap",
+      "price": 449,
+      "shortDescription": "Savor the spicy essence in our Chips, designed for merry culinary adventures",
+      "image": "https://picsum.photos/seed/4bb3b89f-a88e-41f4-bf41-9e5eeced4708/800/800",
+      "category": "Toys",
+      "stock": 11,
+      "rating": 3
+    },
+    {
+      "id": "324a6878-2540-4170-8647-843bc29a1ea5",
+      "name": "Tasty Rubber Keyboard",
+      "price": 297,
+      "shortDescription": "Koepp Group's most advanced Pants technology increases unhealthy capabilities",
+      "image": "https://picsum.photos/seed/324a6878-2540-4170-8647-843bc29a1ea5/800/800",
+      "category": "Industrial",
+      "stock": 62,
+      "rating": 3
+    },
+    {
+      "id": "5f883b4a-02ed-4021-9b52-33840cc47362",
+      "name": "Modern Plastic Sausages",
+      "price": 793,
+      "shortDescription": "The teal Computer combines Tuvalu aesthetics with Lead-based durability",
+      "image": "https://picsum.photos/seed/5f883b4a-02ed-4021-9b52-33840cc47362/800/800",
+      "category": "Books",
+      "stock": 78,
+      "rating": 2
+    },
+    {
+      "id": "40c9daf1-8f67-49a2-bfbe-5dcc528f89ca",
+      "name": "Refined Bronze Computer",
+      "price": 883,
+      "shortDescription": "Introducing the Virgin Islands, U.S.-inspired Computer, blending internal style with local craftsmanship",
+      "image": "https://picsum.photos/seed/40c9daf1-8f67-49a2-bfbe-5dcc528f89ca/800/800",
+      "category": "Industrial",
+      "stock": 36,
+      "rating": 1
+    },
+    {
+      "id": "26196e52-85ed-4e4f-a5c0-cc0dd3e29d82",
+      "name": "Ergonomic Wooden Tuna",
+      "price": 917,
+      "shortDescription": "New lavender Table with ergonomic design for calculating comfort",
+      "image": "https://picsum.photos/seed/26196e52-85ed-4e4f-a5c0-cc0dd3e29d82/800/800",
+      "category": "Grocery",
+      "stock": 55,
+      "rating": 3
+    },
+    {
+      "id": "37ac69b7-a1a8-4c04-9f7c-ddc1d1ed46bd",
+      "name": "Oriental Cotton Bacon",
+      "price": 140,
+      "shortDescription": "Our delicious-inspired Soap brings a taste of luxury to your angelic lifestyle",
+      "image": "https://picsum.photos/seed/37ac69b7-a1a8-4c04-9f7c-ddc1d1ed46bd/800/800",
+      "category": "Games",
+      "stock": 67,
+      "rating": 4
+    },
+    {
+      "id": "d9e8f4a4-fc5d-4482-b25c-ecf41c87d246",
+      "name": "Ergonomic Plastic Table",
+      "price": 354,
+      "shortDescription": "Reichert LLC's most advanced Computer technology increases medium capabilities",
+      "image": "https://picsum.photos/seed/d9e8f4a4-fc5d-4482-b25c-ecf41c87d246/800/800",
+      "category": "Grocery",
+      "stock": 94,
+      "rating": 5
+    },
+    {
+      "id": "3c309c99-89df-474f-aa07-21ca324f35e2",
+      "name": "Electronic Fresh Bacon",
+      "price": 735,
+      "shortDescription": "Our squirrel-friendly Chair ensures shiny comfort for your pets",
+      "image": "https://picsum.photos/seed/3c309c99-89df-474f-aa07-21ca324f35e2/800/800",
+      "category": "Automotive",
+      "stock": 44,
+      "rating": 4
+    },
+    {
+      "id": "e2d10328-bcdc-4985-865a-9e743bba1460",
+      "name": "Practical Fresh Mouse",
+      "price": 816,
+      "shortDescription": "Featuring Oxygen-enhanced technology, our Bike offers unparalleled whirlwind performance",
+      "image": "https://picsum.photos/seed/e2d10328-bcdc-4985-865a-9e743bba1460/800/800",
+      "category": "Baby",
+      "stock": 94,
+      "rating": 2
+    },
+    {
+      "id": "fc2f5cd5-06a4-4c10-a372-9d3392d3b5bd",
+      "name": "Generic Cotton Car",
+      "price": 398,
+      "shortDescription": "The sleek and imaginative Keyboard comes with orange LED lighting for smart functionality",
+      "image": "https://picsum.photos/seed/fc2f5cd5-06a4-4c10-a372-9d3392d3b5bd/800/800",
+      "category": "Automotive",
+      "stock": 54,
+      "rating": 1
+    },
+    {
+      "id": "3cc3b8fb-a3c1-4e66-aff1-ef83998742fe",
+      "name": "Practical Frozen Keyboard",
+      "price": 599,
+      "shortDescription": "Discover the pointed new Tuna with an exciting mix of Plastic ingredients",
+      "image": "https://picsum.photos/seed/3cc3b8fb-a3c1-4e66-aff1-ef83998742fe/800/800",
+      "category": "Toys",
+      "stock": 100,
+      "rating": 5
+    },
+    {
+      "id": "f2f039e4-ec47-49b6-96d0-35069ff2a548",
+      "name": "Tasty Rubber Gloves",
+      "price": 509,
+      "shortDescription": "Experience the purple brilliance of our Cheese, perfect for thin environments",
+      "image": "https://picsum.photos/seed/f2f039e4-ec47-49b6-96d0-35069ff2a548/800/800",
+      "category": "Beauty",
+      "stock": 13,
+      "rating": 4
+    },
+    {
+      "id": "e96eebfc-7df3-49c1-b36d-374f68e8243c",
+      "name": "Intelligent Soft Car",
+      "price": 884,
+      "shortDescription": "Stylish Hat designed to make you stand out with wasteful looks",
+      "image": "https://picsum.photos/seed/e96eebfc-7df3-49c1-b36d-374f68e8243c/800/800",
+      "category": "Automotive",
+      "stock": 83,
+      "rating": 1
+    },
+    {
+      "id": "a6f05b71-f51d-4c01-b437-8283baba5ce6",
+      "name": "Awesome Rubber Cheese",
+      "price": 373,
+      "shortDescription": "Discover the babyish new Gloves with an exciting mix of Soft ingredients",
+      "image": "https://picsum.photos/seed/a6f05b71-f51d-4c01-b437-8283baba5ce6/800/800",
+      "category": "Industrial",
+      "stock": 26,
+      "rating": 4
+    },
+    {
+      "id": "c7f6d13e-0b30-4db2-af0c-13cc8b13efad",
+      "name": "Luxurious Plastic Fish",
+      "price": 444,
+      "shortDescription": "The indigo Chips combines Gambia aesthetics with Xenon-based durability",
+      "image": "https://picsum.photos/seed/c7f6d13e-0b30-4db2-af0c-13cc8b13efad/800/800",
+      "category": "Music",
+      "stock": 63,
+      "rating": 3
+    },
+    {
+      "id": "1e478ccc-2caf-4236-b84a-0567ad1360a8",
+      "name": "Modern Plastic Gloves",
+      "price": 465,
+      "shortDescription": "Experience the plum brilliance of our Chair, perfect for fantastic environments",
+      "image": "https://picsum.photos/seed/1e478ccc-2caf-4236-b84a-0567ad1360a8/800/800",
+      "category": "Grocery",
+      "stock": 53,
+      "rating": 3
+    },
+    {
+      "id": "f72c3a3e-4f3d-4a57-82ca-722c45ced7c3",
+      "name": "Practical Bronze Mouse",
+      "price": 877,
+      "shortDescription": "Stylish Pants designed to make you stand out with tasty looks",
+      "image": "https://picsum.photos/seed/f72c3a3e-4f3d-4a57-82ca-722c45ced7c3/800/800",
+      "category": "Movies",
+      "stock": 100,
+      "rating": 4
+    },
+    {
+      "id": "bfa38b39-b6b1-4dba-bcc1-b49de995504d",
+      "name": "Refined Granite Keyboard",
+      "price": 599,
+      "shortDescription": "Stylish Pizza designed to make you stand out with wise looks",
+      "image": "https://picsum.photos/seed/bfa38b39-b6b1-4dba-bcc1-b49de995504d/800/800",
+      "category": "Garden",
+      "stock": 47,
+      "rating": 1
+    },
+    {
+      "id": "c0427c85-ef2b-40b4-9273-ad3f39ab41f2",
+      "name": "Intelligent Wooden Chicken",
+      "price": 770,
+      "shortDescription": "Featuring Cadmium-enhanced technology, our Gloves offers unparalleled majestic performance",
+      "image": "https://picsum.photos/seed/c0427c85-ef2b-40b4-9273-ad3f39ab41f2/800/800",
+      "category": "Toys",
+      "stock": 80,
+      "rating": 5
+    },
+    {
+      "id": "e4e7938e-7f32-495c-8d38-8daff9fd7d3f",
+      "name": "Elegant Steel Chair",
+      "price": 405,
+      "shortDescription": "Professional-grade Mouse perfect for muted training and recreational use",
+      "image": "https://picsum.photos/seed/e4e7938e-7f32-495c-8d38-8daff9fd7d3f/800/800",
+      "category": "Automotive",
+      "stock": 18,
+      "rating": 1
+    },
+    {
+      "id": "3f4d8377-136d-4dee-ad0f-0883a563e04b",
+      "name": "Rustic Wooden Soap",
+      "price": 351,
+      "shortDescription": "Innovative Computer featuring far technology and Metal construction",
+      "image": "https://picsum.photos/seed/3f4d8377-136d-4dee-ad0f-0883a563e04b/800/800",
+      "category": "Music",
+      "stock": 79,
+      "rating": 4
+    },
+    {
+      "id": "680abd60-cb7b-4b88-95f2-5b31dbfdf7e2",
+      "name": "Rustic Granite Ball",
+      "price": 400,
+      "shortDescription": "Ergonomic Bike made with Wooden for all-day trusting support",
+      "image": "https://picsum.photos/seed/680abd60-cb7b-4b88-95f2-5b31dbfdf7e2/800/800",
+      "category": "Sports",
+      "stock": 84,
+      "rating": 3
+    },
+    {
+      "id": "1096ab94-f4cb-4d1f-975e-177441fec357",
+      "name": "Awesome Bronze Pizza",
+      "price": 756,
+      "shortDescription": "Experience the teal brilliance of our Tuna, perfect for private environments",
+      "image": "https://picsum.photos/seed/1096ab94-f4cb-4d1f-975e-177441fec357/800/800",
+      "category": "Health",
+      "stock": 78,
+      "rating": 2
+    },
+    {
+      "id": "1bf03f84-8fd7-4438-a255-bdbd4d2c1bec",
+      "name": "Intelligent Granite Chair",
+      "price": 424,
+      "shortDescription": "Discover the peacock-like agility of our Shoes, perfect for peppery users",
+      "image": "https://picsum.photos/seed/1bf03f84-8fd7-4438-a255-bdbd4d2c1bec/800/800",
+      "category": "Shoes",
+      "stock": 87,
+      "rating": 1
+    },
+    {
+      "id": "218b6a2b-bad7-4fa8-a28c-a28b26fc6368",
+      "name": "Awesome Granite Computer",
+      "price": 947,
+      "shortDescription": "Our whale-friendly Fish ensures wide-eyed comfort for your pets",
+      "image": "https://picsum.photos/seed/218b6a2b-bad7-4fa8-a28c-a28b26fc6368/800/800",
+      "category": "Books",
+      "stock": 97,
+      "rating": 5
+    },
+    {
+      "id": "c9ac628e-2a59-42ba-80ff-aea2ebc3b2e2",
+      "name": "Ergonomic Steel Soap",
+      "price": 252,
+      "shortDescription": "The sleek and proud Car comes with turquoise LED lighting for smart functionality",
+      "image": "https://picsum.photos/seed/c9ac628e-2a59-42ba-80ff-aea2ebc3b2e2/800/800",
+      "category": "Movies",
+      "stock": 1,
+      "rating": 3
+    },
+    {
+      "id": "bd935a9c-776d-4493-9f62-02cd229f488a",
+      "name": "Modern Steel Cheese",
+      "price": 864,
+      "shortDescription": "Introducing the San Marino-inspired Shirt, blending delectable style with local craftsmanship",
+      "image": "https://picsum.photos/seed/bd935a9c-776d-4493-9f62-02cd229f488a/800/800",
+      "category": "Outdoors",
+      "stock": 60,
+      "rating": 1
+    },
+    {
+      "id": "cafd6f98-a501-47f7-8ca6-3b05b558fa92",
+      "name": "Modern Bronze Chicken",
+      "price": 602,
+      "shortDescription": "Ergonomic Pants made with Cotton for all-day helpless support",
+      "image": "https://picsum.photos/seed/cafd6f98-a501-47f7-8ca6-3b05b558fa92/800/800",
+      "category": "Automotive",
+      "stock": 2,
+      "rating": 3
+    },
+    {
+      "id": "d650d9b4-fea6-47a2-8692-1fc6e311cc9a",
+      "name": "Incredible Cotton Computer",
+      "price": 141,
+      "shortDescription": "Our giraffe-friendly Chicken ensures graceful comfort for your pets",
+      "image": "https://picsum.photos/seed/d650d9b4-fea6-47a2-8692-1fc6e311cc9a/800/800",
+      "category": "Home",
+      "stock": 60,
+      "rating": 3
+    },
+    {
+      "id": "930434c1-7211-4301-b41c-3fd4f1abe2b1",
+      "name": "Handmade Frozen Soap",
+      "price": 248,
+      "shortDescription": "The indigo Towels combines Democratic People's Republic of Korea aesthetics with Technetium-based durability",
+      "image": "https://picsum.photos/seed/930434c1-7211-4301-b41c-3fd4f1abe2b1/800/800",
+      "category": "Baby",
+      "stock": 44,
+      "rating": 5
+    },
+    {
+      "id": "2c3e1440-3688-4ad2-8728-3ff93793b8cf",
+      "name": "Modern Granite Mouse",
+      "price": 399,
+      "shortDescription": "Our butterfly-friendly Chips ensures abandoned comfort for your pets",
+      "image": "https://picsum.photos/seed/2c3e1440-3688-4ad2-8728-3ff93793b8cf/800/800",
+      "category": "Books",
+      "stock": 59,
+      "rating": 4
+    },
+    {
+      "id": "90a1c32f-1ee3-4d14-bbdf-d5c313ca31db",
+      "name": "Oriental Granite Shirt",
+      "price": 914,
+      "shortDescription": "Discover the dolphin-like agility of our Keyboard, perfect for helpless users",
+      "image": "https://picsum.photos/seed/90a1c32f-1ee3-4d14-bbdf-d5c313ca31db/800/800",
+      "category": "Sports",
+      "stock": 39,
+      "rating": 5
+    },
+    {
+      "id": "24c15e6b-4b9e-4577-bda3-555bd59a8ff1",
+      "name": "Gorgeous Cotton Hat",
+      "price": 151,
+      "shortDescription": "Introducing the Argentina-inspired Bacon, blending deficient style with local craftsmanship",
+      "image": "https://picsum.photos/seed/24c15e6b-4b9e-4577-bda3-555bd59a8ff1/800/800",
+      "category": "Industrial",
+      "stock": 79,
+      "rating": 4
+    },
+    {
+      "id": "e5936428-a7ce-474e-9484-e61dfbad5404",
+      "name": "Unbranded Rubber Fish",
+      "price": 387,
+      "shortDescription": "Experience the magenta brilliance of our Pants, perfect for greedy environments",
+      "image": "https://picsum.photos/seed/e5936428-a7ce-474e-9484-e61dfbad5404/800/800",
+      "category": "Beauty",
+      "stock": 50,
+      "rating": 5
+    },
+    {
+      "id": "b9a3ecd8-7eef-458b-9745-eb87bb82413a",
+      "name": "Modern Soft Hat",
+      "price": 325,
+      "shortDescription": "Introducing the Vanuatu-inspired Car, blending bulky style with local craftsmanship",
+      "image": "https://picsum.photos/seed/b9a3ecd8-7eef-458b-9745-eb87bb82413a/800/800",
+      "category": "Beauty",
+      "stock": 89,
+      "rating": 4
+    },
+    {
+      "id": "0ac092b6-b81f-4e39-ab47-4383924a6879",
+      "name": "Ergonomic Fresh Tuna",
+      "price": 127,
+      "shortDescription": "New Shirt model with 14 GB RAM, 314 GB storage, and cooperative features",
+      "image": "https://picsum.photos/seed/0ac092b6-b81f-4e39-ab47-4383924a6879/800/800",
+      "category": "Jewelry",
+      "stock": 12,
+      "rating": 2
+    },
+    {
+      "id": "c12dd7c4-a08e-438a-8e5e-6050d9d18236",
+      "name": "Refined Cotton Chips",
+      "price": 275,
+      "shortDescription": "Stylish Mouse designed to make you stand out with greedy looks",
+      "image": "https://picsum.photos/seed/c12dd7c4-a08e-438a-8e5e-6050d9d18236/800/800",
+      "category": "Clothing",
+      "stock": 41,
+      "rating": 1
+    },
+    {
+      "id": "f3d540f7-5cce-47de-a8f6-112098e235c1",
+      "name": "Electronic Frozen Shoes",
+      "price": 714,
+      "shortDescription": "Experience the orchid brilliance of our Tuna, perfect for intrepid environments",
+      "image": "https://picsum.photos/seed/f3d540f7-5cce-47de-a8f6-112098e235c1/800/800",
+      "category": "Music",
+      "stock": 73,
+      "rating": 1
+    },
+    {
+      "id": "ac4bebec-88e6-4d47-b4ba-bf1288e675a5",
+      "name": "Luxurious Steel Hat",
+      "price": 917,
+      "shortDescription": "The Mara Chair is the latest in a series of probable products from Ward - Hartmann",
+      "image": "https://picsum.photos/seed/ac4bebec-88e6-4d47-b4ba-bf1288e675a5/800/800",
+      "category": "Music",
+      "stock": 50,
+      "rating": 1
+    },
+    {
+      "id": "719aade4-5602-4405-af0f-77d23888d722",
+      "name": "Fantastic Rubber Gloves",
+      "price": 561,
+      "shortDescription": "Our golden-inspired Chips brings a taste of luxury to your determined lifestyle",
+      "image": "https://picsum.photos/seed/719aade4-5602-4405-af0f-77d23888d722/800/800",
+      "category": "Electronics",
+      "stock": 57,
+      "rating": 2
+    },
+    {
+      "id": "bf647de2-a475-4079-bf35-a90f143db78b",
+      "name": "Intelligent Metal Soap",
+      "price": 370,
+      "shortDescription": "Handcrafted Salad designed with Wooden for noted performance",
+      "image": "https://picsum.photos/seed/bf647de2-a475-4079-bf35-a90f143db78b/800/800",
+      "category": "Grocery",
+      "stock": 40,
+      "rating": 2
+    },
+    {
+      "id": "6b51c75c-1601-4bfe-88f7-bc7471082609",
+      "name": "Luxurious Frozen Table",
+      "price": 590,
+      "shortDescription": "Featuring Bromine-enhanced technology, our Pants offers unparalleled breakable performance",
+      "image": "https://picsum.photos/seed/6b51c75c-1601-4bfe-88f7-bc7471082609/800/800",
+      "category": "Jewelry",
+      "stock": 100,
+      "rating": 1
+    },
+    {
+      "id": "c889e0e0-9a01-4214-a0eb-9d63933cb20c",
+      "name": "Electronic Wooden Shirt",
+      "price": 686,
+      "shortDescription": "Our gorilla-friendly Fish ensures immediate comfort for your pets",
+      "image": "https://picsum.photos/seed/c889e0e0-9a01-4214-a0eb-9d63933cb20c/800/800",
+      "category": "Tools",
+      "stock": 53,
+      "rating": 3
+    },
+    {
+      "id": "82e063fb-8c41-486d-af94-f21079778f94",
+      "name": "Awesome Granite Tuna",
+      "price": 231,
+      "shortDescription": "Savor the crispy essence in our Sausages, designed for fantastic culinary adventures",
+      "image": "https://picsum.photos/seed/82e063fb-8c41-486d-af94-f21079778f94/800/800",
+      "category": "Music",
+      "stock": 53,
+      "rating": 2
+    },
+    {
+      "id": "d2581cc0-0ceb-45e9-a429-c317a4d1380c",
+      "name": "Tasty Cotton Pizza",
+      "price": 247,
+      "shortDescription": "Discover the political new Sausages with an exciting mix of Steel ingredients",
+      "image": "https://picsum.photos/seed/d2581cc0-0ceb-45e9-a429-c317a4d1380c/800/800",
+      "category": "Music",
+      "stock": 49,
+      "rating": 1
+    },
+    {
+      "id": "1fd0bc1b-d0c3-4161-b166-17dc4d49d098",
+      "name": "Small Fresh Shoes",
+      "price": 119,
+      "shortDescription": "Electronic Fish designed with Steel for pink performance",
+      "image": "https://picsum.photos/seed/1fd0bc1b-d0c3-4161-b166-17dc4d49d098/800/800",
+      "category": "Beauty",
+      "stock": 24,
+      "rating": 3
+    },
+    {
+      "id": "d59bc68c-4ff2-4eb4-9443-48941d54f804",
+      "name": "Incredible Metal Salad",
+      "price": 574,
+      "shortDescription": "The sleek and unused Table comes with white LED lighting for smart functionality",
+      "image": "https://picsum.photos/seed/d59bc68c-4ff2-4eb4-9443-48941d54f804/800/800",
+      "category": "Grocery",
+      "stock": 14,
+      "rating": 4
+    },
+    {
+      "id": "5f2692fe-9bc1-4a7d-a74a-b3abd8f9a374",
+      "name": "Rustic Wooden Towels",
+      "price": 676,
+      "shortDescription": "Our elephant-friendly Car ensures content comfort for your pets",
+      "image": "https://picsum.photos/seed/5f2692fe-9bc1-4a7d-a74a-b3abd8f9a374/800/800",
+      "category": "Toys",
+      "stock": 73,
+      "rating": 1
+    },
+    {
+      "id": "6ae81756-d0ff-454f-8a9e-3dc39551c450",
+      "name": "Unbranded Bronze Pants",
+      "price": 902,
+      "shortDescription": "Savor the tangy essence in our Bacon, designed for true culinary adventures",
+      "image": "https://picsum.photos/seed/6ae81756-d0ff-454f-8a9e-3dc39551c450/800/800",
+      "category": "Grocery",
+      "stock": 73,
+      "rating": 1
+    },
+    {
+      "id": "1bed9c70-c9dc-45b8-a87b-c0c97c20fd9e",
+      "name": "Oriental Steel Sausages",
+      "price": 813,
+      "shortDescription": "Introducing the El Salvador-inspired Fish, blending merry style with local craftsmanship",
+      "image": "https://picsum.photos/seed/1bed9c70-c9dc-45b8-a87b-c0c97c20fd9e/800/800",
+      "category": "Kids",
+      "stock": 65,
+      "rating": 5
+    },
+    {
+      "id": "2bc098f2-0e0d-489b-b979-be3e5ffeb57d",
+      "name": "Oriental Fresh Bike",
+      "price": 268,
+      "shortDescription": "Discover the crocodile-like agility of our Sausages, perfect for querulous users",
+      "image": "https://picsum.photos/seed/2bc098f2-0e0d-489b-b979-be3e5ffeb57d/800/800",
+      "category": "Music",
+      "stock": 67,
+      "rating": 4
+    },
+    {
+      "id": "f2543ab2-f68d-41f2-87ee-c24f73f87e50",
+      "name": "Small Concrete Chair",
+      "price": 326,
+      "shortDescription": "The Chadd Towels is the latest in a series of soupy products from Waters, Mayert and Nitzsche",
+      "image": "https://picsum.photos/seed/f2543ab2-f68d-41f2-87ee-c24f73f87e50/800/800",
+      "category": "Computers",
+      "stock": 30,
+      "rating": 3
+    },
+    {
+      "id": "20adfc65-5a7a-4a6c-aefe-536752d6e661",
+      "name": "Refined Frozen Chair",
+      "price": 395,
+      "shortDescription": "The sleek and querulous Salad comes with gold LED lighting for smart functionality",
+      "image": "https://picsum.photos/seed/20adfc65-5a7a-4a6c-aefe-536752d6e661/800/800",
+      "category": "Health",
+      "stock": 17,
+      "rating": 5
+    },
+    {
+      "id": "d00604f1-7762-4e4b-a9bf-21e4072319f4",
+      "name": "Ergonomic Frozen Sausages",
+      "price": 210,
+      "shortDescription": "Experience the indigo brilliance of our Chicken, perfect for unhealthy environments",
+      "image": "https://picsum.photos/seed/d00604f1-7762-4e4b-a9bf-21e4072319f4/800/800",
+      "category": "Kids",
+      "stock": 34,
+      "rating": 5
+    },
+    {
+      "id": "341f24bc-c254-4bc7-8e0d-97a5e5e88ba0",
+      "name": "Practical Bronze Chips",
+      "price": 859,
+      "shortDescription": "Discover the impolite new Soap with an exciting mix of Metal ingredients",
+      "image": "https://picsum.photos/seed/341f24bc-c254-4bc7-8e0d-97a5e5e88ba0/800/800",
+      "category": "Home",
+      "stock": 76,
+      "rating": 4
+    },
+    {
+      "id": "1a0fd33b-879d-4478-9c73-d28206520bd4",
+      "name": "Refined Metal Salad",
+      "price": 212,
+      "shortDescription": "Experience the white brilliance of our Ball, perfect for rusty environments",
+      "image": "https://picsum.photos/seed/1a0fd33b-879d-4478-9c73-d28206520bd4/800/800",
+      "category": "Tools",
+      "stock": 68,
+      "rating": 3
+    },
+    {
+      "id": "2fe2f0ce-25ad-443e-93d3-a593a44f2fb8",
+      "name": "Modern Granite Cheese",
+      "price": 216,
+      "shortDescription": "Featuring Molybdenum-enhanced technology, our Chips offers unparalleled sniveling performance",
+      "image": "https://picsum.photos/seed/2fe2f0ce-25ad-443e-93d3-a593a44f2fb8/800/800",
+      "category": "Home",
+      "stock": 98,
+      "rating": 5
+    },
+    {
+      "id": "2ef999ca-8587-4167-a935-33c3f2dfde0d",
+      "name": "Luxurious Fresh Soap",
+      "price": 110,
+      "shortDescription": "Ergonomic Towels made with Granite for all-day hefty support",
+      "image": "https://picsum.photos/seed/2ef999ca-8587-4167-a935-33c3f2dfde0d/800/800",
+      "category": "Sports",
+      "stock": 31,
+      "rating": 3
+    },
+    {
+      "id": "84405b96-beef-4a94-8391-c49ac89abdce",
+      "name": "Recycled Granite Pizza",
+      "price": 640,
+      "shortDescription": "New Mouse model with 17 GB RAM, 477 GB storage, and inconsequential features",
+      "image": "https://picsum.photos/seed/84405b96-beef-4a94-8391-c49ac89abdce/800/800",
+      "category": "Jewelry",
+      "stock": 13,
+      "rating": 3
+    },
+    {
+      "id": "ba300dc4-b318-4f93-a31f-c60089837395",
+      "name": "Licensed Steel Bacon",
+      "price": 116,
+      "shortDescription": "Professional-grade Towels perfect for reckless training and recreational use",
+      "image": "https://picsum.photos/seed/ba300dc4-b318-4f93-a31f-c60089837395/800/800",
+      "category": "Grocery",
+      "stock": 33,
+      "rating": 3
+    },
+    {
+      "id": "48d0f889-49ee-4671-89ed-9411f56b6c24",
+      "name": "Modern Soft Ball",
+      "price": 913,
+      "shortDescription": "The yellow Pizza combines Norway aesthetics with Moscovium-based durability",
+      "image": "https://picsum.photos/seed/48d0f889-49ee-4671-89ed-9411f56b6c24/800/800",
+      "category": "Industrial",
+      "stock": 86,
+      "rating": 2
+    },
+    {
+      "id": "02697c41-53e9-45f8-a0b5-38053be27a9a",
+      "name": "Tasty Concrete Car",
+      "price": 131,
+      "shortDescription": "New olive Fish with ergonomic design for political comfort",
+      "image": "https://picsum.photos/seed/02697c41-53e9-45f8-a0b5-38053be27a9a/800/800",
+      "category": "Automotive",
+      "stock": 25,
+      "rating": 1
+    },
+    {
+      "id": "7ab12296-eb75-48e5-95be-9f3eecb0118a",
+      "name": "Handcrafted Wooden Mouse",
+      "price": 224,
+      "shortDescription": "Our turtle-friendly Pizza ensures dull comfort for your pets",
+      "image": "https://picsum.photos/seed/7ab12296-eb75-48e5-95be-9f3eecb0118a/800/800",
+      "category": "Beauty",
+      "stock": 95,
+      "rating": 2
+    },
+    {
+      "id": "de43be79-9d8d-4b4d-a216-91037f9eae97",
+      "name": "Fantastic Concrete Ball",
+      "price": 492,
+      "shortDescription": "Rustic Fish designed with Wooden for sudden performance",
+      "image": "https://picsum.photos/seed/de43be79-9d8d-4b4d-a216-91037f9eae97/800/800",
+      "category": "Movies",
+      "stock": 75,
+      "rating": 2
+    },
+    {
+      "id": "3765988c-c7a5-43c5-9513-6fed7fde371f",
+      "name": "Fantastic Plastic Hat",
+      "price": 478,
+      "shortDescription": "Discover the tiger-like agility of our Tuna, perfect for poor users",
+      "image": "https://picsum.photos/seed/3765988c-c7a5-43c5-9513-6fed7fde371f/800/800",
+      "category": "Books",
+      "stock": 10,
+      "rating": 4
+    },
+    {
+      "id": "059ee757-bd4a-4ed5-8af0-cafee8b049e7",
+      "name": "Modern Frozen Chips",
+      "price": 117,
+      "shortDescription": "New red Bike with ergonomic design for mature comfort",
+      "image": "https://picsum.photos/seed/059ee757-bd4a-4ed5-8af0-cafee8b049e7/800/800",
+      "category": "Jewelry",
+      "stock": 68,
+      "rating": 2
+    },
+    {
+      "id": "eea37b7f-dfcd-4864-a806-637724215b60",
+      "name": "Licensed Wooden Soap",
+      "price": 296,
+      "shortDescription": "New Chicken model with 65 GB RAM, 157 GB storage, and determined features",
+      "image": "https://picsum.photos/seed/eea37b7f-dfcd-4864-a806-637724215b60/800/800",
+      "category": "Movies",
+      "stock": 16,
+      "rating": 2
+    },
+    {
+      "id": "a052f599-8a32-42f0-9b02-71551b8a7215",
+      "name": "Handcrafted Frozen Pizza",
+      "price": 576,
+      "shortDescription": "New Pants model with 92 GB RAM, 125 GB storage, and smug features",
+      "image": "https://picsum.photos/seed/a052f599-8a32-42f0-9b02-71551b8a7215/800/800",
+      "category": "Games",
+      "stock": 4,
+      "rating": 3
+    },
+    {
+      "id": "a0599b50-7d3a-4982-8975-8eb431afd082",
+      "name": "Ergonomic Plastic Computer",
+      "price": 741,
+      "shortDescription": "Our koala-friendly Pants ensures outlandish comfort for your pets",
+      "image": "https://picsum.photos/seed/a0599b50-7d3a-4982-8975-8eb431afd082/800/800",
+      "category": "Music",
+      "stock": 87,
+      "rating": 5
+    },
+    {
+      "id": "ce7ac03f-2345-47e5-b748-646595c25486",
+      "name": "Handmade Rubber Chicken",
+      "price": 523,
+      "shortDescription": "The magenta Sausages combines Eswatini aesthetics with Tellurium-based durability",
+      "image": "https://picsum.photos/seed/ce7ac03f-2345-47e5-b748-646595c25486/800/800",
+      "category": "Industrial",
+      "stock": 69,
+      "rating": 5
+    },
+    {
+      "id": "96a0ad4b-b0b1-4886-88c4-77360871a5fb",
+      "name": "Small Rubber Pants",
+      "price": 597,
+      "shortDescription": "Innovative Mouse featuring superb technology and Soft construction",
+      "image": "https://picsum.photos/seed/96a0ad4b-b0b1-4886-88c4-77360871a5fb/800/800",
+      "category": "Movies",
+      "stock": 39,
+      "rating": 1
+    },
+    {
+      "id": "ab02ea7e-2fd8-4cf6-abe7-d6e6d0354c0c",
+      "name": "Handmade Wooden Soap",
+      "price": 311,
+      "shortDescription": "Savor the delicious essence in our Fish, designed for zesty culinary adventures",
+      "image": "https://picsum.photos/seed/ab02ea7e-2fd8-4cf6-abe7-d6e6d0354c0c/800/800",
+      "category": "Toys",
+      "stock": 1,
+      "rating": 4
+    },
+    {
+      "id": "c8d905f4-58a9-42f8-9058-a18889126f53",
+      "name": "Ergonomic Frozen Salad",
+      "price": 216,
+      "shortDescription": "Introducing the Chad-inspired Towels, blending quixotic style with local craftsmanship",
+      "image": "https://picsum.photos/seed/c8d905f4-58a9-42f8-9058-a18889126f53/800/800",
+      "category": "Jewelry",
+      "stock": 8,
+      "rating": 1
+    },
+    {
+      "id": "7e2a9eca-bb3b-46ea-9102-0fc89dfc4d1a",
+      "name": "Gorgeous Metal Shoes",
+      "price": 477,
+      "shortDescription": "Savor the tender essence in our Pizza, designed for triangular culinary adventures",
+      "image": "https://picsum.photos/seed/7e2a9eca-bb3b-46ea-9102-0fc89dfc4d1a/800/800",
+      "category": "Clothing",
+      "stock": 59,
+      "rating": 2
+    },
+    {
+      "id": "8464bc64-b87a-4d8d-a56a-816d1f6b1cb0",
+      "name": "Fantastic Fresh Bike",
+      "price": 351,
+      "shortDescription": "The fuchsia Shoes combines Republic of Korea aesthetics with Vanadium-based durability",
+      "image": "https://picsum.photos/seed/8464bc64-b87a-4d8d-a56a-816d1f6b1cb0/800/800",
+      "category": "Baby",
+      "stock": 77,
+      "rating": 4
+    },
+    {
+      "id": "34ec0083-e32c-4158-9097-5cff16360931",
+      "name": "Tasty Metal Shirt",
+      "price": 683,
+      "shortDescription": "The salmon Chicken combines Norway aesthetics with Aluminium-based durability",
+      "image": "https://picsum.photos/seed/34ec0083-e32c-4158-9097-5cff16360931/800/800",
+      "category": "Grocery",
+      "stock": 79,
+      "rating": 5
+    },
+    {
+      "id": "31e7e849-f695-4ac0-b8e0-8c19fa914527",
+      "name": "Refined Rubber Towels",
+      "price": 656,
+      "shortDescription": "Stylish Shirt designed to make you stand out with awful looks",
+      "image": "https://picsum.photos/seed/31e7e849-f695-4ac0-b8e0-8c19fa914527/800/800",
+      "category": "Home",
+      "stock": 59,
+      "rating": 3
+    },
+    {
+      "id": "7c1de880-c72d-46fa-80aa-fe599eb34079",
+      "name": "Bespoke Concrete Soap",
+      "price": 527,
+      "shortDescription": "Savor the fresh essence in our Shirt, designed for lighthearted culinary adventures",
+      "image": "https://picsum.photos/seed/7c1de880-c72d-46fa-80aa-fe599eb34079/800/800",
+      "category": "Kids",
+      "stock": 1,
+      "rating": 2
+    },
+    {
+      "id": "4b8e0d67-210a-4860-9ae4-5f87cc4679c5",
+      "name": "Unbranded Cotton Ball",
+      "price": 469,
+      "shortDescription": "The Stand-alone actuating data-warehouse Ball offers reliable performance and royal design",
+      "image": "https://picsum.photos/seed/4b8e0d67-210a-4860-9ae4-5f87cc4679c5/800/800",
+      "category": "Home",
+      "stock": 71,
+      "rating": 3
+    },
+    {
+      "id": "fc6d360d-b93f-4115-b59e-4f9c7820e528",
+      "name": "Small Concrete Soap",
+      "price": 520,
+      "shortDescription": "Discover the giraffe-like agility of our Pants, perfect for expert users",
+      "image": "https://picsum.photos/seed/fc6d360d-b93f-4115-b59e-4f9c7820e528/800/800",
+      "category": "Kids",
+      "stock": 71,
+      "rating": 2
+    },
+    {
+      "id": "f36a16bb-00a5-45f2-8d79-7e697a35fd06",
+      "name": "Intelligent Plastic Ball",
+      "price": 904,
+      "shortDescription": "Discover the hamster-like agility of our Shoes, perfect for moral users",
+      "image": "https://picsum.photos/seed/f36a16bb-00a5-45f2-8d79-7e697a35fd06/800/800",
+      "category": "Toys",
+      "stock": 29,
+      "rating": 5
+    },
+    {
+      "id": "583f9a7f-3371-4e63-97f2-953f9a4c183c",
+      "name": "Oriental Cotton Sausages",
+      "price": 946,
+      "shortDescription": "New azure Mouse with ergonomic design for tidy comfort",
+      "image": "https://picsum.photos/seed/583f9a7f-3371-4e63-97f2-953f9a4c183c/800/800",
+      "category": "Kids",
+      "stock": 8,
+      "rating": 2
+    },
+    {
+      "id": "c807d6cf-5435-486e-9a60-8793fae3c226",
+      "name": "Tasty Granite Bacon",
+      "price": 703,
+      "shortDescription": "Discover the powerless new Ball with an exciting mix of Cotton ingredients",
+      "image": "https://picsum.photos/seed/c807d6cf-5435-486e-9a60-8793fae3c226/800/800",
+      "category": "Games",
+      "stock": 25,
+      "rating": 4
+    },
+    {
+      "id": "f33cecf8-e7d2-4b14-a2df-8e729405ad7c",
+      "name": "Modern Rubber Mouse",
+      "price": 520,
+      "shortDescription": "New pink Fish with ergonomic design for sinful comfort",
+      "image": "https://picsum.photos/seed/f33cecf8-e7d2-4b14-a2df-8e729405ad7c/800/800",
+      "category": "Garden",
+      "stock": 21,
+      "rating": 3
+    },
+    {
+      "id": "a78b2a0f-f7f4-45f9-89de-3f5c917545ac",
+      "name": "Refined Granite Tuna",
+      "price": 906,
+      "shortDescription": "Experience the teal brilliance of our Shirt, perfect for giving environments",
+      "image": "https://picsum.photos/seed/a78b2a0f-f7f4-45f9-89de-3f5c917545ac/800/800",
+      "category": "Outdoors",
+      "stock": 49,
+      "rating": 4
+    },
+    {
+      "id": "9201fde6-99d3-435e-b1b0-beb49b2756de",
+      "name": "Refined Plastic Chair",
+      "price": 213,
+      "shortDescription": "Experience the maroon brilliance of our Salad, perfect for eminent environments",
+      "image": "https://picsum.photos/seed/9201fde6-99d3-435e-b1b0-beb49b2756de/800/800",
+      "category": "Jewelry",
+      "stock": 13,
+      "rating": 4
+    },
+    {
+      "id": "8bb60026-c8fa-487a-902e-16c3e33395d2",
+      "name": "Incredible Granite Tuna",
+      "price": 246,
+      "shortDescription": "Savor the smoky essence in our Gloves, designed for aggravating culinary adventures",
+      "image": "https://picsum.photos/seed/8bb60026-c8fa-487a-902e-16c3e33395d2/800/800",
+      "category": "Jewelry",
+      "stock": 63,
+      "rating": 4
+    },
+    {
+      "id": "a299900a-7438-4264-a588-0e54efacb1a7",
+      "name": "Modern Rubber Cheese",
+      "price": 629,
+      "shortDescription": "The purple Chicken combines French Guiana aesthetics with Protactinium-based durability",
+      "image": "https://picsum.photos/seed/a299900a-7438-4264-a588-0e54efacb1a7/800/800",
+      "category": "Tools",
+      "stock": 21,
+      "rating": 2
+    },
+    {
+      "id": "1dc2a854-0334-44c1-bf3b-53312e871ff9",
+      "name": "Intelligent Cotton Car",
+      "price": 530,
+      "shortDescription": "Discover the gecko-like agility of our Bike, perfect for soulful users",
+      "image": "https://picsum.photos/seed/1dc2a854-0334-44c1-bf3b-53312e871ff9/800/800",
+      "category": "Outdoors",
+      "stock": 76,
+      "rating": 5
+    },
+    {
+      "id": "71c08705-04b3-4a37-9a41-251bae9748d2",
+      "name": "Elegant Fresh Bike",
+      "price": 678,
+      "shortDescription": "Professional-grade Car perfect for downright training and recreational use",
+      "image": "https://picsum.photos/seed/71c08705-04b3-4a37-9a41-251bae9748d2/800/800",
+      "category": "Kids",
+      "stock": 95,
+      "rating": 4
+    },
+    {
+      "id": "fa44b19a-af5f-4864-9de0-d816b4c10826",
+      "name": "Tasty Wooden Gloves",
+      "price": 215,
+      "shortDescription": "The sleek and straight Computer comes with olive LED lighting for smart functionality",
+      "image": "https://picsum.photos/seed/fa44b19a-af5f-4864-9de0-d816b4c10826/800/800",
+      "category": "Jewelry",
+      "stock": 63,
+      "rating": 3
+    },
+    {
+      "id": "6e04a8a6-02e5-4105-ad6a-e0dfe3d46002",
+      "name": "Electronic Wooden Pants",
+      "price": 209,
+      "shortDescription": "New indigo Shirt with ergonomic design for massive comfort",
+      "image": "https://picsum.photos/seed/6e04a8a6-02e5-4105-ad6a-e0dfe3d46002/800/800",
+      "category": "Shoes",
+      "stock": 25,
+      "rating": 2
+    },
+    {
+      "id": "79a7beb7-aaf1-4e19-b5f4-3818d9f5d4b3",
+      "name": "Licensed Granite Salad",
+      "price": 418,
+      "shortDescription": "New purple Shirt with ergonomic design for practical comfort",
+      "image": "https://picsum.photos/seed/79a7beb7-aaf1-4e19-b5f4-3818d9f5d4b3/800/800",
+      "category": "Automotive",
+      "stock": 84,
+      "rating": 1
+    },
+    {
+      "id": "cbdc4681-7313-4370-832d-dec04e53b2b8",
+      "name": "Recycled Rubber Bike",
+      "price": 500,
+      "shortDescription": "Featuring Bismuth-enhanced technology, our Cheese offers unparalleled glass performance",
+      "image": "https://picsum.photos/seed/cbdc4681-7313-4370-832d-dec04e53b2b8/800/800",
+      "category": "Music",
+      "stock": 34,
+      "rating": 4
+    },
+    {
+      "id": "061326bf-96b1-4d9a-86c3-3941d253c5f0",
+      "name": "Intelligent Rubber Cheese",
+      "price": 290,
+      "shortDescription": "Discover the firsthand new Ball with an exciting mix of Granite ingredients",
+      "image": "https://picsum.photos/seed/061326bf-96b1-4d9a-86c3-3941d253c5f0/800/800",
+      "category": "Outdoors",
+      "stock": 10,
+      "rating": 5
+    },
+    {
+      "id": "4397b4d0-7c15-4cc6-974e-e423cc3f981c",
+      "name": "Oriental Concrete Mouse",
+      "price": 582,
+      "shortDescription": "The Cody Computer is the latest in a series of discrete products from Cremin LLC",
+      "image": "https://picsum.photos/seed/4397b4d0-7c15-4cc6-974e-e423cc3f981c/800/800",
+      "category": "Kids",
+      "stock": 28,
+      "rating": 2
+    },
+    {
+      "id": "8210e7cd-b54b-4a67-ba49-446a755a41f2",
+      "name": "Small Plastic Chair",
+      "price": 302,
+      "shortDescription": "Professional-grade Hat perfect for nervous training and recreational use",
+      "image": "https://picsum.photos/seed/8210e7cd-b54b-4a67-ba49-446a755a41f2/800/800",
+      "category": "Clothing",
+      "stock": 98,
+      "rating": 2
+    },
+    {
+      "id": "0ebd28bf-5723-4a1f-b75e-d429ffa12e44",
+      "name": "Handmade Steel Fish",
+      "price": 605,
+      "shortDescription": "The fuchsia Fish combines Tuvalu aesthetics with Tungsten-based durability",
+      "image": "https://picsum.photos/seed/0ebd28bf-5723-4a1f-b75e-d429ffa12e44/800/800",
+      "category": "Health",
+      "stock": 73,
+      "rating": 5
+    },
+    {
+      "id": "f12d7ab3-e3dc-4346-81b4-19a06f6ec60b",
+      "name": "Incredible Rubber Pants",
+      "price": 374,
+      "shortDescription": "Savor the salty essence in our Cheese, designed for knowledgeable culinary adventures",
+      "image": "https://picsum.photos/seed/f12d7ab3-e3dc-4346-81b4-19a06f6ec60b/800/800",
+      "category": "Home",
+      "stock": 16,
+      "rating": 5
+    },
+    {
+      "id": "51d7837d-3512-4bef-94ea-6108a0864e41",
+      "name": "Sleek Soft Shoes",
+      "price": 563,
+      "shortDescription": "The sleek and any Pizza comes with lavender LED lighting for smart functionality",
+      "image": "https://picsum.photos/seed/51d7837d-3512-4bef-94ea-6108a0864e41/800/800",
+      "category": "Toys",
+      "stock": 34,
+      "rating": 5
+    },
+    {
+      "id": "1c7e1a05-0efb-439d-8bd7-794c92233aaf",
+      "name": "Bespoke Rubber Shirt",
+      "price": 918,
+      "shortDescription": "Ergonomic Sausages made with Granite for all-day functional support",
+      "image": "https://picsum.photos/seed/1c7e1a05-0efb-439d-8bd7-794c92233aaf/800/800",
+      "category": "Clothing",
+      "stock": 33,
+      "rating": 2
+    },
+    {
+      "id": "1649f6e9-814a-426e-8d56-4d2720689570",
+      "name": "Refined Concrete Ball",
+      "price": 778,
+      "shortDescription": "Discover the hefty new Salad with an exciting mix of Frozen ingredients",
+      "image": "https://picsum.photos/seed/1649f6e9-814a-426e-8d56-4d2720689570/800/800",
+      "category": "Electronics",
+      "stock": 19,
+      "rating": 4
+    },
+    {
+      "id": "738e8016-5404-43c8-942b-502c450c4853",
+      "name": "Refined Granite Tuna",
+      "price": 775,
+      "shortDescription": "Jerde - Bartell's most advanced Chicken technology increases staid capabilities",
+      "image": "https://picsum.photos/seed/738e8016-5404-43c8-942b-502c450c4853/800/800",
+      "category": "Games",
+      "stock": 75,
+      "rating": 5
+    },
+    {
+      "id": "2c604480-d01c-4e4f-ac3d-f098752c495a",
+      "name": "Oriental Concrete Sausages",
+      "price": 453,
+      "shortDescription": "New lime Chips with ergonomic design for well-lit comfort",
+      "image": "https://picsum.photos/seed/2c604480-d01c-4e4f-ac3d-f098752c495a/800/800",
+      "category": "Movies",
+      "stock": 46,
+      "rating": 1
+    },
+    {
+      "id": "694bf9c2-5f0b-4264-80e2-f587c091448f",
+      "name": "Ergonomic Wooden Salad",
+      "price": 937,
+      "shortDescription": "Featuring Hydrogen-enhanced technology, our Tuna offers unparalleled murky performance",
+      "image": "https://picsum.photos/seed/694bf9c2-5f0b-4264-80e2-f587c091448f/800/800",
+      "category": "Automotive",
+      "stock": 13,
+      "rating": 5
+    },
+    {
+      "id": "138c83f6-5912-4a1a-9bd1-b91a60635b10",
+      "name": "Sleek Frozen Soap",
+      "price": 343,
+      "shortDescription": "Featuring Seaborgium-enhanced technology, our Soap offers unparalleled mature performance",
+      "image": "https://picsum.photos/seed/138c83f6-5912-4a1a-9bd1-b91a60635b10/800/800",
+      "category": "Sports",
+      "stock": 67,
+      "rating": 4
+    },
+    {
+      "id": "9e8c27ea-6dcc-4875-a421-65eb83b46ff0",
+      "name": "Rustic Wooden Table",
+      "price": 780,
+      "shortDescription": "Discover the wobbly new Towels with an exciting mix of Steel ingredients",
+      "image": "https://picsum.photos/seed/9e8c27ea-6dcc-4875-a421-65eb83b46ff0/800/800",
+      "category": "Shoes",
+      "stock": 99,
+      "rating": 5
+    },
+    {
+      "id": "b71a3aa9-09c7-41a0-af8f-cf2c47ce5e6e",
+      "name": "Incredible Steel Bike",
+      "price": 697,
+      "shortDescription": "The Urban Towels is the latest in a series of ornery products from Vandervort - Corkery",
+      "image": "https://picsum.photos/seed/b71a3aa9-09c7-41a0-af8f-cf2c47ce5e6e/800/800",
+      "category": "Clothing",
+      "stock": 65,
+      "rating": 4
+    },
+    {
+      "id": "92d97571-d124-4f25-9e17-acc5ed6a3e93",
+      "name": "Elegant Concrete Bacon",
+      "price": 551,
+      "shortDescription": "Featuring Francium-enhanced technology, our Shoes offers unparalleled velvety performance",
+      "image": "https://picsum.photos/seed/92d97571-d124-4f25-9e17-acc5ed6a3e93/800/800",
+      "category": "Garden",
+      "stock": 29,
+      "rating": 2
+    },
+    {
+      "id": "0e9b7287-e4d6-4ec5-9224-ea2e2a2e87a9",
+      "name": "Small Soft Pants",
+      "price": 918,
+      "shortDescription": "Our zesty-inspired Keyboard brings a taste of luxury to your gorgeous lifestyle",
+      "image": "https://picsum.photos/seed/0e9b7287-e4d6-4ec5-9224-ea2e2a2e87a9/800/800",
+      "category": "Beauty",
+      "stock": 61,
+      "rating": 3
+    },
+    {
+      "id": "67beb161-48a8-4465-920c-1c901d24d7ab",
+      "name": "Luxurious Plastic Fish",
+      "price": 987,
+      "shortDescription": "Experience the yellow brilliance of our Car, perfect for imaginary environments",
+      "image": "https://picsum.photos/seed/67beb161-48a8-4465-920c-1c901d24d7ab/800/800",
+      "category": "Garden",
+      "stock": 8,
+      "rating": 5
+    },
+    {
+      "id": "2f0eb224-cb0f-402b-806d-b4df1d99466f",
+      "name": "Refined Steel Mouse",
+      "price": 443,
+      "shortDescription": "Professional-grade Towels perfect for frightened training and recreational use",
+      "image": "https://picsum.photos/seed/2f0eb224-cb0f-402b-806d-b4df1d99466f/800/800",
+      "category": "Books",
+      "stock": 78,
+      "rating": 5
+    },
+    {
+      "id": "06d1ead6-3485-4945-94a8-6fe5df49108a",
+      "name": "Generic Metal Pants",
+      "price": 314,
+      "shortDescription": "Ergonomic Mouse made with Steel for all-day well-lit support",
+      "image": "https://picsum.photos/seed/06d1ead6-3485-4945-94a8-6fe5df49108a/800/800",
+      "category": "Garden",
+      "stock": 52,
+      "rating": 1
+    },
+    {
+      "id": "3a299b63-0997-4806-96e2-105b652d7ed6",
+      "name": "Refined Steel Hat",
+      "price": 791,
+      "shortDescription": "Stylish Shoes designed to make you stand out with dearest looks",
+      "image": "https://picsum.photos/seed/3a299b63-0997-4806-96e2-105b652d7ed6/800/800",
+      "category": "Shoes",
+      "stock": 77,
+      "rating": 5
+    },
+    {
+      "id": "519d0043-4879-4a0f-8aaf-7b05f20bcc8c",
+      "name": "Luxurious Fresh Shoes",
+      "price": 585,
+      "shortDescription": "New Chips model with 88 GB RAM, 640 GB storage, and husky features",
+      "image": "https://picsum.photos/seed/519d0043-4879-4a0f-8aaf-7b05f20bcc8c/800/800",
+      "category": "Clothing",
+      "stock": 74,
+      "rating": 4
+    },
+    {
+      "id": "1c43839e-cda3-4bcd-a8c2-a336e2539812",
+      "name": "Recycled Bronze Chicken",
+      "price": 322,
+      "shortDescription": "Professional-grade Ball perfect for superior training and recreational use",
+      "image": "https://picsum.photos/seed/1c43839e-cda3-4bcd-a8c2-a336e2539812/800/800",
+      "category": "Books",
+      "stock": 72,
+      "rating": 2
+    },
+    {
+      "id": "4c8b16e7-a1f7-4079-95d6-8de57f12dad8",
+      "name": "Recycled Metal Tuna",
+      "price": 119,
+      "shortDescription": "Stylish Hat designed to make you stand out with blind looks",
+      "image": "https://picsum.photos/seed/4c8b16e7-a1f7-4079-95d6-8de57f12dad8/800/800",
+      "category": "Sports",
+      "stock": 20,
+      "rating": 5
+    },
+    {
+      "id": "e9244805-d07d-4880-a793-3cc5a93db9dc",
+      "name": "Incredible Concrete Bacon",
+      "price": 856,
+      "shortDescription": "The Compatible sustainable infrastructure Table offers reliable performance and admired design",
+      "image": "https://picsum.photos/seed/e9244805-d07d-4880-a793-3cc5a93db9dc/800/800",
+      "category": "Outdoors",
+      "stock": 69,
+      "rating": 4
+    },
+    {
+      "id": "cc1b8e42-9984-4c4f-8264-aaa990451faa",
+      "name": "Modern Bronze Gloves",
+      "price": 489,
+      "shortDescription": "The Angela Mouse is the latest in a series of odd products from Hilpert - Hirthe",
+      "image": "https://picsum.photos/seed/cc1b8e42-9984-4c4f-8264-aaa990451faa/800/800",
+      "category": "Health",
+      "stock": 10,
+      "rating": 5
+    },
+    {
+      "id": "609c680f-13e1-41d3-84d8-32c0c52e39e8",
+      "name": "Tasty Rubber Salad",
+      "price": 339,
+      "shortDescription": "New Shirt model with 45 GB RAM, 996 GB storage, and steep features",
+      "image": "https://picsum.photos/seed/609c680f-13e1-41d3-84d8-32c0c52e39e8/800/800",
+      "category": "Movies",
+      "stock": 55,
+      "rating": 4
+    },
+    {
+      "id": "35227c81-7a82-4e2b-a4db-f66526db229b",
+      "name": "Awesome Frozen Hat",
+      "price": 858,
+      "shortDescription": "New orchid Cheese with ergonomic design for smart comfort",
+      "image": "https://picsum.photos/seed/35227c81-7a82-4e2b-a4db-f66526db229b/800/800",
+      "category": "Games",
+      "stock": 4,
+      "rating": 3
+    },
+    {
+      "id": "7ad7f383-5bea-469b-832d-04ea4f2611cb",
+      "name": "Elegant Cotton Table",
+      "price": 258,
+      "shortDescription": "Professional-grade Pizza perfect for cute training and recreational use",
+      "image": "https://picsum.photos/seed/7ad7f383-5bea-469b-832d-04ea4f2611cb/800/800",
+      "category": "Sports",
+      "stock": 25,
+      "rating": 2
+    },
+    {
+      "id": "8c84a9f0-71d5-49e2-9443-ab7d5d8a755f",
+      "name": "Generic Rubber Sausages",
+      "price": 871,
+      "shortDescription": "New Chips model with 17 GB RAM, 574 GB storage, and thorny features",
+      "image": "https://picsum.photos/seed/8c84a9f0-71d5-49e2-9443-ab7d5d8a755f/800/800",
+      "category": "Grocery",
+      "stock": 96,
+      "rating": 2
+    },
+    {
+      "id": "f318943f-0f70-4bc7-a9f2-f5762d32e321",
+      "name": "Small Cotton Hat",
+      "price": 731,
+      "shortDescription": "Professional-grade Chair perfect for circular training and recreational use",
+      "image": "https://picsum.photos/seed/f318943f-0f70-4bc7-a9f2-f5762d32e321/800/800",
+      "category": "Home",
+      "stock": 99,
+      "rating": 2
+    },
+    {
+      "id": "313c2491-d66c-4d06-a8f8-4244b83dc84a",
+      "name": "Generic Fresh Keyboard",
+      "price": 494,
+      "shortDescription": "Stylish Chair designed to make you stand out with voluminous looks",
+      "image": "https://picsum.photos/seed/313c2491-d66c-4d06-a8f8-4244b83dc84a/800/800",
+      "category": "Computers",
+      "stock": 59,
+      "rating": 4
+    },
+    {
+      "id": "7df7192d-5143-4a3b-b507-569efedec832",
+      "name": "Tasty Wooden Bacon",
+      "price": 395,
+      "shortDescription": "Innovative Table featuring well-documented technology and Plastic construction",
+      "image": "https://picsum.photos/seed/7df7192d-5143-4a3b-b507-569efedec832/800/800",
+      "category": "Computers",
+      "stock": 40,
+      "rating": 3
+    },
+    {
+      "id": "685cfd0d-5343-4a4e-9bd1-1bda61cb5e68",
+      "name": "Handmade Plastic Pizza",
+      "price": 948,
+      "shortDescription": "Featuring Rutherfordium-enhanced technology, our Mouse offers unparalleled eminent performance",
+      "image": "https://picsum.photos/seed/685cfd0d-5343-4a4e-9bd1-1bda61cb5e68/800/800",
+      "category": "Books",
+      "stock": 5,
+      "rating": 5
+    },
+    {
+      "id": "d3a2a39c-47bf-4f12-9d55-fdcc39d8ae2c",
+      "name": "Unbranded Metal Fish",
+      "price": 853,
+      "shortDescription": "Stylish Tuna designed to make you stand out with dual looks",
+      "image": "https://picsum.photos/seed/d3a2a39c-47bf-4f12-9d55-fdcc39d8ae2c/800/800",
+      "category": "Industrial",
+      "stock": 52,
+      "rating": 1
+    },
+    {
+      "id": "05ee96b1-7132-48e9-a9d0-4893ea767914",
+      "name": "Fantastic Frozen Pizza",
+      "price": 300,
+      "shortDescription": "Our crispy-inspired Cheese brings a taste of luxury to your extroverted lifestyle",
+      "image": "https://picsum.photos/seed/05ee96b1-7132-48e9-a9d0-4893ea767914/800/800",
+      "category": "Outdoors",
+      "stock": 58,
+      "rating": 3
+    },
+    {
+      "id": "043a2afd-6a2c-4c44-8bd7-40b1480a083d",
+      "name": "Licensed Wooden Hat",
+      "price": 265,
+      "shortDescription": "Introducing the Morocco-inspired Chair, blending linear style with local craftsmanship",
+      "image": "https://picsum.photos/seed/043a2afd-6a2c-4c44-8bd7-40b1480a083d/800/800",
+      "category": "Garden",
+      "stock": 20,
+      "rating": 5
+    },
+    {
+      "id": "702a12a4-8af5-4d51-b771-c8e32b01ab11",
+      "name": "Rustic Fresh Gloves",
+      "price": 389,
+      "shortDescription": "Discover the fox-like agility of our Shoes, perfect for vivid users",
+      "image": "https://picsum.photos/seed/702a12a4-8af5-4d51-b771-c8e32b01ab11/800/800",
+      "category": "Toys",
+      "stock": 69,
+      "rating": 1
+    },
+    {
+      "id": "86036e4f-fc41-44a3-84aa-90cc40bc4ca7",
+      "name": "Oriental Soft Shoes",
+      "price": 312,
+      "shortDescription": "Experience the tan brilliance of our Soap, perfect for granular environments",
+      "image": "https://picsum.photos/seed/86036e4f-fc41-44a3-84aa-90cc40bc4ca7/800/800",
+      "category": "Shoes",
+      "stock": 22,
+      "rating": 4
+    },
+    {
+      "id": "3881131a-c107-41b3-a4b6-7ee74dfa2cc7",
+      "name": "Generic Fresh Pizza",
+      "price": 444,
+      "shortDescription": "Introducing the Turkey-inspired Sausages, blending useless style with local craftsmanship",
+      "image": "https://picsum.photos/seed/3881131a-c107-41b3-a4b6-7ee74dfa2cc7/800/800",
+      "category": "Baby",
+      "stock": 84,
+      "rating": 4
+    },
+    {
+      "id": "449ca618-2aa3-4cb6-85af-c7caf5475c94",
+      "name": "Tasty Concrete Salad",
+      "price": 724,
+      "shortDescription": "Stylish Shirt designed to make you stand out with rusty looks",
+      "image": "https://picsum.photos/seed/449ca618-2aa3-4cb6-85af-c7caf5475c94/800/800",
+      "category": "Industrial",
+      "stock": 98,
+      "rating": 5
+    },
+    {
+      "id": "e4f5c782-ac2c-4d15-a1e6-9f8e26aa6d80",
+      "name": "Modern Frozen Computer",
+      "price": 950,
+      "shortDescription": "Professional-grade Computer perfect for colossal training and recreational use",
+      "image": "https://picsum.photos/seed/e4f5c782-ac2c-4d15-a1e6-9f8e26aa6d80/800/800",
+      "category": "Sports",
+      "stock": 94,
+      "rating": 1
+    },
+    {
+      "id": "52c54380-3728-446b-8b5b-ea264afa75b5",
+      "name": "Ergonomic Soft Towels",
+      "price": 809,
+      "shortDescription": "Professional-grade Mouse perfect for delectable training and recreational use",
+      "image": "https://picsum.photos/seed/52c54380-3728-446b-8b5b-ea264afa75b5/800/800",
+      "category": "Beauty",
+      "stock": 41,
+      "rating": 1
+    },
+    {
+      "id": "db3fd267-e696-4055-8acd-8beaf5f60d4d",
+      "name": "Recycled Metal Chair",
+      "price": 205,
+      "shortDescription": "Ergonomic Shoes made with Metal for all-day sore support",
+      "image": "https://picsum.photos/seed/db3fd267-e696-4055-8acd-8beaf5f60d4d/800/800",
+      "category": "Home",
+      "stock": 35,
+      "rating": 2
+    },
+    {
+      "id": "561608ad-e24d-4e49-9581-aa0e1ed4dc5e",
+      "name": "Unbranded Metal Table",
+      "price": 767,
+      "shortDescription": "Introducing the Tokelau-inspired Fish, blending lanky style with local craftsmanship",
+      "image": "https://picsum.photos/seed/561608ad-e24d-4e49-9581-aa0e1ed4dc5e/800/800",
+      "category": "Books",
+      "stock": 63,
+      "rating": 5
+    },
+    {
+      "id": "1ed1f9f6-b671-4c0c-8afd-b9722a4834eb",
+      "name": "Small Plastic Salad",
+      "price": 232,
+      "shortDescription": "Innovative Sausages featuring familiar technology and Metal construction",
+      "image": "https://picsum.photos/seed/1ed1f9f6-b671-4c0c-8afd-b9722a4834eb/800/800",
+      "category": "Tools",
+      "stock": 11,
+      "rating": 1
+    },
+    {
+      "id": "932406e8-75d6-4bab-a685-b370ab8950e1",
+      "name": "Refined Fresh Pizza",
+      "price": 671,
+      "shortDescription": "Our bird-friendly Mouse ensures assured comfort for your pets",
+      "image": "https://picsum.photos/seed/932406e8-75d6-4bab-a685-b370ab8950e1/800/800",
+      "category": "Baby",
+      "stock": 47,
+      "rating": 4
+    },
+    {
+      "id": "a87f78a5-d7ac-4b2d-a0fa-514a7f58b73a",
+      "name": "Incredible Granite Chicken",
+      "price": 329,
+      "shortDescription": "Stylish Chips designed to make you stand out with dapper looks",
+      "image": "https://picsum.photos/seed/a87f78a5-d7ac-4b2d-a0fa-514a7f58b73a/800/800",
+      "category": "Music",
+      "stock": 77,
+      "rating": 3
+    },
+    {
+      "id": "b89c44aa-7acf-4778-89de-bbc10e736f10",
+      "name": "Bespoke Plastic Mouse",
+      "price": 108,
+      "shortDescription": "The Madaline Sausages is the latest in a series of unimportant products from Sporer - Tremblay",
+      "image": "https://picsum.photos/seed/b89c44aa-7acf-4778-89de-bbc10e736f10/800/800",
+      "category": "Shoes",
+      "stock": 17,
+      "rating": 4
+    },
+    {
+      "id": "b742db26-6709-41e0-b3fd-a8a621dc53c5",
+      "name": "Modern Metal Shirt",
+      "price": 744,
+      "shortDescription": "Stylish Chips designed to make you stand out with instructive looks",
+      "image": "https://picsum.photos/seed/b742db26-6709-41e0-b3fd-a8a621dc53c5/800/800",
+      "category": "Grocery",
+      "stock": 1,
+      "rating": 3
+    },
+    {
+      "id": "775bf861-08ad-4f38-af83-5571e92216fc",
+      "name": "Intelligent Frozen Sausages",
+      "price": 770,
+      "shortDescription": "The AI-driven zero defect knowledge base Ball offers reliable performance and plain design",
+      "image": "https://picsum.photos/seed/775bf861-08ad-4f38-af83-5571e92216fc/800/800",
+      "category": "Music",
+      "stock": 12,
+      "rating": 5
+    },
+    {
+      "id": "cdb1d8d0-148b-40b2-8a8b-bae808905a6c",
+      "name": "Generic Plastic Keyboard",
+      "price": 732,
+      "shortDescription": "New Hat model with 91 GB RAM, 362 GB storage, and hoarse features",
+      "image": "https://picsum.photos/seed/cdb1d8d0-148b-40b2-8a8b-bae808905a6c/800/800",
+      "category": "Jewelry",
+      "stock": 1,
+      "rating": 2
+    },
+    {
+      "id": "c59392ba-9960-4ee8-b2b3-de6a23f4d02e",
+      "name": "Elegant Metal Ball",
+      "price": 287,
+      "shortDescription": "Experience the yellow brilliance of our Towels, perfect for likable environments",
+      "image": "https://picsum.photos/seed/c59392ba-9960-4ee8-b2b3-de6a23f4d02e/800/800",
+      "category": "Automotive",
+      "stock": 24,
+      "rating": 4
+    },
+    {
+      "id": "d68cb0fa-2a26-4390-812e-e0babab679d0",
+      "name": "Licensed Cotton Pizza",
+      "price": 915,
+      "shortDescription": "New azure Car with ergonomic design for shrill comfort",
+      "image": "https://picsum.photos/seed/d68cb0fa-2a26-4390-812e-e0babab679d0/800/800",
+      "category": "Games",
+      "stock": 50,
+      "rating": 4
+    },
+    {
+      "id": "0be49afb-e78a-43a9-8fa0-b78fd20bae5f",
+      "name": "Recycled Wooden Fish",
+      "price": 973,
+      "shortDescription": "Savor the zesty essence in our Fish, designed for every culinary adventures",
+      "image": "https://picsum.photos/seed/0be49afb-e78a-43a9-8fa0-b78fd20bae5f/800/800",
+      "category": "Beauty",
+      "stock": 75,
+      "rating": 4
+    },
+    {
+      "id": "ed6f3e5b-0a24-453d-b9fd-fd63930c8a5d",
+      "name": "Intelligent Rubber Mouse",
+      "price": 402,
+      "shortDescription": "Discover the koala-like agility of our Salad, perfect for muddy users",
+      "image": "https://picsum.photos/seed/ed6f3e5b-0a24-453d-b9fd-fd63930c8a5d/800/800",
+      "category": "Baby",
+      "stock": 76,
+      "rating": 4
+    },
+    {
+      "id": "41dbf6de-144e-48dd-8593-5e7c072b8fd7",
+      "name": "Intelligent Concrete Gloves",
+      "price": 121,
+      "shortDescription": "Discover the squirrel-like agility of our Shoes, perfect for crazy users",
+      "image": "https://picsum.photos/seed/41dbf6de-144e-48dd-8593-5e7c072b8fd7/800/800",
+      "category": "Music",
+      "stock": 65,
+      "rating": 5
+    },
+    {
+      "id": "fb373b20-a292-4c21-8ec2-0b2569bc3aea",
+      "name": "Recycled Steel Pants",
+      "price": 291,
+      "shortDescription": "New silver Chair with ergonomic design for regular comfort",
+      "image": "https://picsum.photos/seed/fb373b20-a292-4c21-8ec2-0b2569bc3aea/800/800",
+      "category": "Music",
+      "stock": 3,
+      "rating": 1
+    },
+    {
+      "id": "e43d1a4c-e954-4742-920f-14007f6ba26b",
+      "name": "Oriental Bronze Fish",
+      "price": 723,
+      "shortDescription": "Electronic Table designed with Wooden for stained performance",
+      "image": "https://picsum.photos/seed/e43d1a4c-e954-4742-920f-14007f6ba26b/800/800",
+      "category": "Tools",
+      "stock": 68,
+      "rating": 2
+    },
+    {
+      "id": "708e9fd7-3bed-4c6c-b4e5-584eca9c9087",
+      "name": "Unbranded Metal Keyboard",
+      "price": 753,
+      "shortDescription": "The sleek and cooperative Fish comes with black LED lighting for smart functionality",
+      "image": "https://picsum.photos/seed/708e9fd7-3bed-4c6c-b4e5-584eca9c9087/800/800",
+      "category": "Clothing",
+      "stock": 28,
+      "rating": 4
+    },
+    {
+      "id": "21fd9ac4-1a27-4e60-b11d-6c2f751abf0c",
+      "name": "Gorgeous Granite Sausages",
+      "price": 346,
+      "shortDescription": "Discover the incomparable new Chicken with an exciting mix of Wooden ingredients",
+      "image": "https://picsum.photos/seed/21fd9ac4-1a27-4e60-b11d-6c2f751abf0c/800/800",
+      "category": "Clothing",
+      "stock": 99,
+      "rating": 3
+    },
+    {
+      "id": "913dfc2a-8a03-4d40-a5a6-09d9f976e357",
+      "name": "Ergonomic Fresh Car",
+      "price": 482,
+      "shortDescription": "Experience the turquoise brilliance of our Car, perfect for last environments",
+      "image": "https://picsum.photos/seed/913dfc2a-8a03-4d40-a5a6-09d9f976e357/800/800",
+      "category": "Tools",
+      "stock": 74,
+      "rating": 2
+    },
+    {
+      "id": "8584be6c-c3a7-4598-90b7-64cd68e5148b",
+      "name": "Awesome Concrete Tuna",
+      "price": 890,
+      "shortDescription": "Savor the moist essence in our Cheese, designed for prickly culinary adventures",
+      "image": "https://picsum.photos/seed/8584be6c-c3a7-4598-90b7-64cd68e5148b/800/800",
+      "category": "Grocery",
+      "stock": 18,
+      "rating": 3
+    },
+    {
+      "id": "7c3b578e-23d1-4796-bf4c-60d012c213e2",
+      "name": "Tasty Bronze Shirt",
+      "price": 748,
+      "shortDescription": "Featuring Hafnium-enhanced technology, our Shoes offers unparalleled bulky performance",
+      "image": "https://picsum.photos/seed/7c3b578e-23d1-4796-bf4c-60d012c213e2/800/800",
+      "category": "Beauty",
+      "stock": 22,
+      "rating": 5
+    },
+    {
+      "id": "2184025d-c1cb-4d5a-ad63-4174a9355d6c",
+      "name": "Tasty Granite Hat",
+      "price": 207,
+      "shortDescription": "Introducing the Jordan-inspired Hat, blending acclaimed style with local craftsmanship",
+      "image": "https://picsum.photos/seed/2184025d-c1cb-4d5a-ad63-4174a9355d6c/800/800",
+      "category": "Electronics",
+      "stock": 71,
+      "rating": 1
+    },
+    {
+      "id": "22909f7f-4b91-4c57-a8b7-18a711f3459c",
+      "name": "Practical Plastic Towels",
+      "price": 986,
+      "shortDescription": "Experience the plum brilliance of our Chips, perfect for mealy environments",
+      "image": "https://picsum.photos/seed/22909f7f-4b91-4c57-a8b7-18a711f3459c/800/800",
+      "category": "Kids",
+      "stock": 98,
+      "rating": 3
+    },
+    {
+      "id": "abdb529c-4f06-4627-95ab-d992e1e7373b",
+      "name": "Bespoke Granite Tuna",
+      "price": 260,
+      "shortDescription": "The Sharable reciprocal matrix Sausages offers reliable performance and artistic design",
+      "image": "https://picsum.photos/seed/abdb529c-4f06-4627-95ab-d992e1e7373b/800/800",
+      "category": "Clothing",
+      "stock": 62,
+      "rating": 5
+    },
+    {
+      "id": "f0a3a96b-2ba6-4b24-965a-f37c838296f5",
+      "name": "Rustic Granite Shirt",
+      "price": 787,
+      "shortDescription": "The Self-enabling immersive ability Pants offers reliable performance and nervous design",
+      "image": "https://picsum.photos/seed/f0a3a96b-2ba6-4b24-965a-f37c838296f5/800/800",
+      "category": "Sports",
+      "stock": 21,
+      "rating": 4
+    },
+    {
+      "id": "b47c5e77-c754-4f99-922e-987825ae37dc",
+      "name": "Rustic Soft Chips",
+      "price": 131,
+      "shortDescription": "Our monkey-friendly Soap ensures drab comfort for your pets",
+      "image": "https://picsum.photos/seed/b47c5e77-c754-4f99-922e-987825ae37dc/800/800",
+      "category": "Health",
+      "stock": 31,
+      "rating": 2
+    },
+    {
+      "id": "09dbd734-3bf1-4ebb-af6f-7dd335541408",
+      "name": "Licensed Bronze Salad",
+      "price": 821,
+      "shortDescription": "Koss and Sons's most advanced Bacon technology increases uncomfortable capabilities",
+      "image": "https://picsum.photos/seed/09dbd734-3bf1-4ebb-af6f-7dd335541408/800/800",
+      "category": "Music",
+      "stock": 25,
+      "rating": 2
+    },
+    {
+      "id": "7c4fcaad-26c5-4f51-975f-c88f9f5073d5",
+      "name": "Licensed Rubber Pizza",
+      "price": 146,
+      "shortDescription": "Breitenberg - Greenfelder's most advanced Bike technology increases last capabilities",
+      "image": "https://picsum.photos/seed/7c4fcaad-26c5-4f51-975f-c88f9f5073d5/800/800",
+      "category": "Industrial",
+      "stock": 99,
+      "rating": 2
+    },
+    {
+      "id": "71887b4b-235a-4be7-af68-9c4b9156ccf8",
+      "name": "Recycled Concrete Sausages",
+      "price": 639,
+      "shortDescription": "Experience the orchid brilliance of our Pants, perfect for weary environments",
+      "image": "https://picsum.photos/seed/71887b4b-235a-4be7-af68-9c4b9156ccf8/800/800",
+      "category": "Computers",
+      "stock": 41,
+      "rating": 1
+    },
+    {
+      "id": "e60de5d6-3d62-48a4-9585-b04e2d2fc191",
+      "name": "Practical Frozen Shirt",
+      "price": 910,
+      "shortDescription": "Featuring Xenon-enhanced technology, our Mouse offers unparalleled powerful performance",
+      "image": "https://picsum.photos/seed/e60de5d6-3d62-48a4-9585-b04e2d2fc191/800/800",
+      "category": "Electronics",
+      "stock": 75,
+      "rating": 3
+    },
+    {
+      "id": "027e383a-3f19-4e65-820e-780d8e9479bd",
+      "name": "Handcrafted Cotton Chicken",
+      "price": 298,
+      "shortDescription": "Featuring Lawrencium-enhanced technology, our Mouse offers unparalleled male performance",
+      "image": "https://picsum.photos/seed/027e383a-3f19-4e65-820e-780d8e9479bd/800/800",
+      "category": "Electronics",
+      "stock": 87,
+      "rating": 3
+    },
+    {
+      "id": "57492008-f39d-4a8c-8bdd-75454401d35f",
+      "name": "Modern Frozen Sausages",
+      "price": 569,
+      "shortDescription": "O'Conner, Towne and Schowalter's most advanced Tuna technology increases competent capabilities",
+      "image": "https://picsum.photos/seed/57492008-f39d-4a8c-8bdd-75454401d35f/800/800",
+      "category": "Home",
+      "stock": 20,
+      "rating": 4
+    },
+    {
+      "id": "223fbcd8-1afd-427a-814d-1dddc092d865",
+      "name": "Rustic Steel Keyboard",
+      "price": 373,
+      "shortDescription": "Innovative Sausages featuring rotten technology and Granite construction",
+      "image": "https://picsum.photos/seed/223fbcd8-1afd-427a-814d-1dddc092d865/800/800",
+      "category": "Jewelry",
+      "stock": 35,
+      "rating": 4
+    },
+    {
+      "id": "bd232253-0bdb-45fb-a492-05f5fa9ed051",
+      "name": "Fantastic Metal Keyboard",
+      "price": 929,
+      "shortDescription": "The pink Computer combines Western Sahara aesthetics with Aluminium-based durability",
+      "image": "https://picsum.photos/seed/bd232253-0bdb-45fb-a492-05f5fa9ed051/800/800",
+      "category": "Movies",
+      "stock": 18,
+      "rating": 1
+    },
+    {
+      "id": "2bd160c5-047e-457a-92f1-99f16aec9f8b",
+      "name": "Refined Plastic Soap",
+      "price": 474,
+      "shortDescription": "The Secured logistical capability Gloves offers reliable performance and sleepy design",
+      "image": "https://picsum.photos/seed/2bd160c5-047e-457a-92f1-99f16aec9f8b/800/800",
+      "category": "Automotive",
+      "stock": 72,
+      "rating": 2
+    },
+    {
+      "id": "3920f40a-18e1-4a4e-85ae-83ddd4cb3ba6",
+      "name": "Modern Bronze Bacon",
+      "price": 927,
+      "shortDescription": "Professional-grade Salad perfect for odd training and recreational use",
+      "image": "https://picsum.photos/seed/3920f40a-18e1-4a4e-85ae-83ddd4cb3ba6/800/800",
+      "category": "Computers",
+      "stock": 20,
+      "rating": 1
+    },
+    {
+      "id": "aaa57934-ffa5-4b59-a320-cd261d986f36",
+      "name": "Small Soft Gloves",
+      "price": 395,
+      "shortDescription": "Discover the tiger-like agility of our Computer, perfect for secondary users",
+      "image": "https://picsum.photos/seed/aaa57934-ffa5-4b59-a320-cd261d986f36/800/800",
+      "category": "Jewelry",
+      "stock": 40,
+      "rating": 5
+    },
+    {
+      "id": "76a73daf-3207-4907-955f-526e5616e2b2",
+      "name": "Luxurious Wooden Shoes",
+      "price": 588,
+      "shortDescription": "Discover the putrid new Salad with an exciting mix of Steel ingredients",
+      "image": "https://picsum.photos/seed/76a73daf-3207-4907-955f-526e5616e2b2/800/800",
+      "category": "Automotive",
+      "stock": 19,
+      "rating": 1
+    },
+    {
+      "id": "4838359d-f14d-4f04-8f9c-06611a431873",
+      "name": "Awesome Concrete Fish",
+      "price": 827,
+      "shortDescription": "New Car model with 8 GB RAM, 352 GB storage, and probable features",
+      "image": "https://picsum.photos/seed/4838359d-f14d-4f04-8f9c-06611a431873/800/800",
+      "category": "Computers",
+      "stock": 100,
+      "rating": 5
+    },
+    {
+      "id": "2727d1a7-dbba-4f61-aad6-8e270028e754",
+      "name": "Awesome Cotton Chips",
+      "price": 638,
+      "shortDescription": "Introducing the Macao-inspired Mouse, blending similar style with local craftsmanship",
+      "image": "https://picsum.photos/seed/2727d1a7-dbba-4f61-aad6-8e270028e754/800/800",
+      "category": "Grocery",
+      "stock": 96,
+      "rating": 4
+    },
+    {
+      "id": "0a1c10d8-79bd-47c2-8378-536d4eda1571",
+      "name": "Rustic Fresh Fish",
+      "price": 770,
+      "shortDescription": "Ergonomic Chair made with Fresh for all-day calculating support",
+      "image": "https://picsum.photos/seed/0a1c10d8-79bd-47c2-8378-536d4eda1571/800/800",
+      "category": "Toys",
+      "stock": 95,
+      "rating": 3
+    },
+    {
+      "id": "baa4099c-8100-47f1-8900-a18bbed289bd",
+      "name": "Rustic Rubber Fish",
+      "price": 784,
+      "shortDescription": "Discover the polar bear-like agility of our Gloves, perfect for fruitful users",
+      "image": "https://picsum.photos/seed/baa4099c-8100-47f1-8900-a18bbed289bd/800/800",
+      "category": "Tools",
+      "stock": 80,
+      "rating": 5
+    },
+    {
+      "id": "5513a722-8e5e-4dba-a785-a86af254bdc3",
+      "name": "Awesome Concrete Shirt",
+      "price": 975,
+      "shortDescription": "The Fredy Shoes is the latest in a series of fixed products from McGlynn, Moore and Effertz",
+      "image": "https://picsum.photos/seed/5513a722-8e5e-4dba-a785-a86af254bdc3/800/800",
+      "category": "Outdoors",
+      "stock": 76,
+      "rating": 3
+    },
+    {
+      "id": "088886ba-6c23-4ac9-a873-96311f89f85d",
+      "name": "Licensed Wooden Car",
+      "price": 516,
+      "shortDescription": "The turquoise Table combines Tanzania aesthetics with Platinum-based durability",
+      "image": "https://picsum.photos/seed/088886ba-6c23-4ac9-a873-96311f89f85d/800/800",
+      "category": "Tools",
+      "stock": 83,
+      "rating": 4
+    },
+    {
+      "id": "18cce298-73b5-4a6a-bed2-0f557ab11b7a",
+      "name": "Fantastic Concrete Bike",
+      "price": 853,
+      "shortDescription": "The Grass-roots national forecast Table offers reliable performance and hefty design",
+      "image": "https://picsum.photos/seed/18cce298-73b5-4a6a-bed2-0f557ab11b7a/800/800",
+      "category": "Home",
+      "stock": 8,
+      "rating": 5
+    },
+    {
+      "id": "2d96a8ee-3dbc-481b-9087-21ee0b7263da",
+      "name": "Unbranded Cotton Car",
+      "price": 502,
+      "shortDescription": "Licensed Pants designed with Fresh for boiling performance",
+      "image": "https://picsum.photos/seed/2d96a8ee-3dbc-481b-9087-21ee0b7263da/800/800",
+      "category": "Shoes",
+      "stock": 18,
+      "rating": 2
+    },
+    {
+      "id": "82083958-1de2-421b-925f-c797caaebe60",
+      "name": "Ergonomic Metal Chips",
+      "price": 326,
+      "shortDescription": "Our golden-inspired Towels brings a taste of luxury to your frail lifestyle",
+      "image": "https://picsum.photos/seed/82083958-1de2-421b-925f-c797caaebe60/800/800",
+      "category": "Music",
+      "stock": 96,
+      "rating": 1
+    },
+    {
+      "id": "69d92de6-585c-4b63-96f9-601307a04074",
+      "name": "Generic Plastic Cheese",
+      "price": 330,
+      "shortDescription": "The Compatible maximized generative AI Keyboard offers reliable performance and hefty design",
+      "image": "https://picsum.photos/seed/69d92de6-585c-4b63-96f9-601307a04074/800/800",
+      "category": "Health",
+      "stock": 87,
+      "rating": 2
+    },
+    {
+      "id": "1fbcbf87-e835-409d-b3d4-d084550a26fe",
+      "name": "Fantastic Granite Chicken",
+      "price": 139,
+      "shortDescription": "Rutherford, Rosenbaum and Dach's most advanced Tuna technology increases metallic capabilities",
+      "image": "https://picsum.photos/seed/1fbcbf87-e835-409d-b3d4-d084550a26fe/800/800",
+      "category": "Automotive",
+      "stock": 86,
+      "rating": 2
+    },
+    {
+      "id": "adce07b4-8ab7-4a3c-93b8-89555e16f11d",
+      "name": "Fantastic Rubber Chicken",
+      "price": 129,
+      "shortDescription": "The Programmable high-level data-warehouse Mouse offers reliable performance and worldly design",
+      "image": "https://picsum.photos/seed/adce07b4-8ab7-4a3c-93b8-89555e16f11d/800/800",
+      "category": "Outdoors",
+      "stock": 28,
+      "rating": 1
+    },
+    {
+      "id": "ac65e00a-8e3d-4d60-be0b-f663c96255a4",
+      "name": "Unbranded Concrete Mouse",
+      "price": 977,
+      "shortDescription": "Stylish Ball designed to make you stand out with winged looks",
+      "image": "https://picsum.photos/seed/ac65e00a-8e3d-4d60-be0b-f663c96255a4/800/800",
+      "category": "Health",
+      "stock": 81,
+      "rating": 5
+    },
+    {
+      "id": "02e62aca-b07e-4b8c-aee7-d673153a2c09",
+      "name": "Intelligent Fresh Sausages",
+      "price": 748,
+      "shortDescription": "Our fluffy-inspired Fish brings a taste of luxury to your free lifestyle",
+      "image": "https://picsum.photos/seed/02e62aca-b07e-4b8c-aee7-d673153a2c09/800/800",
+      "category": "Movies",
+      "stock": 15,
+      "rating": 3
+    },
+    {
+      "id": "505789ef-a32b-49c8-b5a5-f723d6537bc5",
+      "name": "Luxurious Metal Salad",
+      "price": 336,
+      "shortDescription": "Experience the teal brilliance of our Chair, perfect for scornful environments",
+      "image": "https://picsum.photos/seed/505789ef-a32b-49c8-b5a5-f723d6537bc5/800/800",
+      "category": "Clothing",
+      "stock": 83,
+      "rating": 5
+    },
+    {
+      "id": "b88b0f60-b909-41f1-93a5-d90e300b33d7",
+      "name": "Refined Steel Hat",
+      "price": 806,
+      "shortDescription": "Featuring Gallium-enhanced technology, our Cheese offers unparalleled tangible performance",
+      "image": "https://picsum.photos/seed/b88b0f60-b909-41f1-93a5-d90e300b33d7/800/800",
+      "category": "Movies",
+      "stock": 8,
+      "rating": 3
+    },
+    {
+      "id": "d077475a-e6bc-445a-affc-ef5aaef409ae",
+      "name": "Ergonomic Fresh Ball",
+      "price": 159,
+      "shortDescription": "Experience the white brilliance of our Salad, perfect for tattered environments",
+      "image": "https://picsum.photos/seed/d077475a-e6bc-445a-affc-ef5aaef409ae/800/800",
+      "category": "Games",
+      "stock": 37,
+      "rating": 3
+    },
+    {
+      "id": "d9520d22-f811-4c46-be0d-d14a3fd5dcaa",
+      "name": "Generic Concrete Gloves",
+      "price": 354,
+      "shortDescription": "The Remington Chair is the latest in a series of monthly products from O'Hara - Feeney",
+      "image": "https://picsum.photos/seed/d9520d22-f811-4c46-be0d-d14a3fd5dcaa/800/800",
+      "category": "Industrial",
+      "stock": 6,
+      "rating": 4
+    },
+    {
+      "id": "79732500-b3e1-4873-b378-e8385a7fcd97",
+      "name": "Bespoke Granite Keyboard",
+      "price": 638,
+      "shortDescription": "Recycled Fish designed with Concrete for prudent performance",
+      "image": "https://picsum.photos/seed/79732500-b3e1-4873-b378-e8385a7fcd97/800/800",
+      "category": "Toys",
+      "stock": 37,
+      "rating": 2
+    },
+    {
+      "id": "e8b820a6-8872-4906-ba65-0893a12b350d",
+      "name": "Licensed Granite Tuna",
+      "price": 211,
+      "shortDescription": "Discover the peacock-like agility of our Pizza, perfect for uneven users",
+      "image": "https://picsum.photos/seed/e8b820a6-8872-4906-ba65-0893a12b350d/800/800",
+      "category": "Industrial",
+      "stock": 54,
+      "rating": 1
+    },
+    {
+      "id": "c371705d-3579-41bd-93c2-ffffe69a6ab3",
+      "name": "Licensed Bronze Mouse",
+      "price": 204,
+      "shortDescription": "Stylish Cheese designed to make you stand out with ethical looks",
+      "image": "https://picsum.photos/seed/c371705d-3579-41bd-93c2-ffffe69a6ab3/800/800",
+      "category": "Electronics",
+      "stock": 26,
+      "rating": 4
+    },
+    {
+      "id": "fe3f7f86-bd94-4666-a278-7d1d54e773b0",
+      "name": "Small Concrete Chair",
+      "price": 366,
+      "shortDescription": "Professional-grade Towels perfect for overcooked training and recreational use",
+      "image": "https://picsum.photos/seed/fe3f7f86-bd94-4666-a278-7d1d54e773b0/800/800",
+      "category": "Baby",
+      "stock": 13,
+      "rating": 5
+    },
+    {
+      "id": "44f28c6e-406d-4e6b-9193-e8f96da0f500",
+      "name": "Elegant Frozen Salad",
+      "price": 172,
+      "shortDescription": "The Cross-platform local data-warehouse Shirt offers reliable performance and silver design",
+      "image": "https://picsum.photos/seed/44f28c6e-406d-4e6b-9193-e8f96da0f500/800/800",
+      "category": "Clothing",
+      "stock": 34,
+      "rating": 1
+    },
+    {
+      "id": "a532ce40-767d-4fbd-b1fa-d241b8bcf651",
+      "name": "Sleek Granite Chips",
+      "price": 475,
+      "shortDescription": "Savor the fluffy essence in our Gloves, designed for brave culinary adventures",
+      "image": "https://picsum.photos/seed/a532ce40-767d-4fbd-b1fa-d241b8bcf651/800/800",
+      "category": "Movies",
+      "stock": 60,
+      "rating": 5
+    },
+    {
+      "id": "b247d0b9-4c14-4c41-9f02-3c69b258ec6f",
+      "name": "Tasty Bronze Salad",
+      "price": 206,
+      "shortDescription": "The Reactive system-worthy approach Pants offers reliable performance and earnest design",
+      "image": "https://picsum.photos/seed/b247d0b9-4c14-4c41-9f02-3c69b258ec6f/800/800",
+      "category": "Music",
+      "stock": 50,
+      "rating": 2
+    },
+    {
+      "id": "aec475f1-79c5-40bd-bb9c-e5e4d6ea59c4",
+      "name": "Tasty Metal Mouse",
+      "price": 309,
+      "shortDescription": "Our eagle-friendly Fish ensures authentic comfort for your pets",
+      "image": "https://picsum.photos/seed/aec475f1-79c5-40bd-bb9c-e5e4d6ea59c4/800/800",
+      "category": "Grocery",
+      "stock": 79,
+      "rating": 4
+    },
+    {
+      "id": "30f58c49-54af-4f5c-a2a1-7db7e9fa48ed",
+      "name": "Refined Steel Chair",
+      "price": 116,
+      "shortDescription": "Professional-grade Mouse perfect for idolized training and recreational use",
+      "image": "https://picsum.photos/seed/30f58c49-54af-4f5c-a2a1-7db7e9fa48ed/800/800",
+      "category": "Games",
+      "stock": 24,
+      "rating": 5
+    },
+    {
+      "id": "01445abe-b3ac-4ce0-bdf2-4fd0158e2b9f",
+      "name": "Practical Cotton Computer",
+      "price": 144,
+      "shortDescription": "The magenta Sausages combines Ethiopia aesthetics with Krypton-based durability",
+      "image": "https://picsum.photos/seed/01445abe-b3ac-4ce0-bdf2-4fd0158e2b9f/800/800",
+      "category": "Automotive",
+      "stock": 64,
+      "rating": 3
+    },
+    {
+      "id": "b242c12d-ba9e-48b0-9e66-544532a3b02d",
+      "name": "Modern Concrete Salad",
+      "price": 695,
+      "shortDescription": "New ivory Chicken with ergonomic design for common comfort",
+      "image": "https://picsum.photos/seed/b242c12d-ba9e-48b0-9e66-544532a3b02d/800/800",
+      "category": "Clothing",
+      "stock": 87,
+      "rating": 5
+    },
+    {
+      "id": "31a0f9ee-9702-4c4b-8d3b-14caac93aea3",
+      "name": "Bespoke Steel Shoes",
+      "price": 823,
+      "shortDescription": "The sleek and hoarse Ball comes with orange LED lighting for smart functionality",
+      "image": "https://picsum.photos/seed/31a0f9ee-9702-4c4b-8d3b-14caac93aea3/800/800",
+      "category": "Electronics",
+      "stock": 90,
+      "rating": 2
+    },
+    {
+      "id": "961731f1-d762-43df-a3e2-d9bdd736c601",
+      "name": "Incredible Frozen Pants",
+      "price": 399,
+      "shortDescription": "Discover the cow-like agility of our Shirt, perfect for wealthy users",
+      "image": "https://picsum.photos/seed/961731f1-d762-43df-a3e2-d9bdd736c601/800/800",
+      "category": "Games",
+      "stock": 68,
+      "rating": 2
+    },
+    {
+      "id": "85b1110e-9bbe-4387-a89b-023956ce5d41",
+      "name": "Electronic Wooden Table",
+      "price": 237,
+      "shortDescription": "Ergonomic Sausages made with Metal for all-day free support",
+      "image": "https://picsum.photos/seed/85b1110e-9bbe-4387-a89b-023956ce5d41/800/800",
+      "category": "Shoes",
+      "stock": 78,
+      "rating": 1
+    },
+    {
+      "id": "46c966d8-d1bb-45cc-8e49-2bf6da442882",
+      "name": "Awesome Steel Towels",
+      "price": 388,
+      "shortDescription": "Stoltenberg Inc's most advanced Ball technology increases filthy capabilities",
+      "image": "https://picsum.photos/seed/46c966d8-d1bb-45cc-8e49-2bf6da442882/800/800",
+      "category": "Movies",
+      "stock": 81,
+      "rating": 4
+    },
+    {
+      "id": "76c0710f-f9cf-40e4-b698-ede15ae461dc",
+      "name": "Oriental Granite Salad",
+      "price": 376,
+      "shortDescription": "Stylish Salad designed to make you stand out with another looks",
+      "image": "https://picsum.photos/seed/76c0710f-f9cf-40e4-b698-ede15ae461dc/800/800",
+      "category": "Home",
+      "stock": 16,
+      "rating": 5
+    },
+    {
+      "id": "4b7fe190-2251-4617-b7a5-2db3c67c0d16",
+      "name": "Luxurious Plastic Chips",
+      "price": 567,
+      "shortDescription": "Experience the red brilliance of our Cheese, perfect for joyful environments",
+      "image": "https://picsum.photos/seed/4b7fe190-2251-4617-b7a5-2db3c67c0d16/800/800",
+      "category": "Games",
+      "stock": 73,
+      "rating": 2
+    },
+    {
+      "id": "618ea3ee-7a75-45f3-b012-36806fdf060b",
+      "name": "Luxurious Bronze Shirt",
+      "price": 709,
+      "shortDescription": "The Jacinto Bike is the latest in a series of oblong products from Boyer - Boehm",
+      "image": "https://picsum.photos/seed/618ea3ee-7a75-45f3-b012-36806fdf060b/800/800",
+      "category": "Computers",
+      "stock": 3,
+      "rating": 5
+    },
+    {
+      "id": "22dfd9e0-cc72-49f3-b57a-c4c52bd17780",
+      "name": "Rustic Steel Computer",
+      "price": 648,
+      "shortDescription": "New Bike model with 86 GB RAM, 227 GB storage, and pale features",
+      "image": "https://picsum.photos/seed/22dfd9e0-cc72-49f3-b57a-c4c52bd17780/800/800",
+      "category": "Home",
+      "stock": 33,
+      "rating": 5
+    },
+    {
+      "id": "d08adc2d-7349-40dd-819e-0b29cabaae2c",
+      "name": "Handcrafted Steel Fish",
+      "price": 874,
+      "shortDescription": "Ergonomic Chicken made with Metal for all-day wiggly support",
+      "image": "https://picsum.photos/seed/d08adc2d-7349-40dd-819e-0b29cabaae2c/800/800",
+      "category": "Music",
+      "stock": 81,
+      "rating": 4
+    },
+    {
+      "id": "42d6af6a-f510-4768-bbe4-08a912280eaf",
+      "name": "Ergonomic Frozen Pants",
+      "price": 110,
+      "shortDescription": "Professional-grade Chips perfect for smart training and recreational use",
+      "image": "https://picsum.photos/seed/42d6af6a-f510-4768-bbe4-08a912280eaf/800/800",
+      "category": "Electronics",
+      "stock": 25,
+      "rating": 1
+    },
+    {
+      "id": "50c8d92c-d771-4324-8eb0-6db04726b8a9",
+      "name": "Oriental Frozen Shoes",
+      "price": 352,
+      "shortDescription": "The Secured client-server project Gloves offers reliable performance and that design",
+      "image": "https://picsum.photos/seed/50c8d92c-d771-4324-8eb0-6db04726b8a9/800/800",
+      "category": "Movies",
+      "stock": 65,
+      "rating": 4
+    },
+    {
+      "id": "81ede689-394b-4b5e-a47d-bf3f72667346",
+      "name": "Small Cotton Pants",
+      "price": 394,
+      "shortDescription": "New orange Ball with ergonomic design for tepid comfort",
+      "image": "https://picsum.photos/seed/81ede689-394b-4b5e-a47d-bf3f72667346/800/800",
+      "category": "Home",
+      "stock": 88,
+      "rating": 2
+    },
+    {
+      "id": "7d91e9df-dac6-4e46-ab27-54c1b1456e13",
+      "name": "Awesome Cotton Pizza",
+      "price": 817,
+      "shortDescription": "Our golden-inspired Keyboard brings a taste of luxury to your shiny lifestyle",
+      "image": "https://picsum.photos/seed/7d91e9df-dac6-4e46-ab27-54c1b1456e13/800/800",
+      "category": "Beauty",
+      "stock": 56,
+      "rating": 5
+    },
+    {
+      "id": "24eb7a62-fa80-4623-ae78-8e3b128dd27e",
+      "name": "Incredible Soft Soap",
+      "price": 274,
+      "shortDescription": "The sleek and spotless Bacon comes with white LED lighting for smart functionality",
+      "image": "https://picsum.photos/seed/24eb7a62-fa80-4623-ae78-8e3b128dd27e/800/800",
+      "category": "Outdoors",
+      "stock": 3,
+      "rating": 3
+    },
+    {
+      "id": "295a0cb5-843c-4723-bdbe-6b69237e274e",
+      "name": "Small Steel Shoes",
+      "price": 338,
+      "shortDescription": "Handmade Chicken designed with Rubber for punctual performance",
+      "image": "https://picsum.photos/seed/295a0cb5-843c-4723-bdbe-6b69237e274e/800/800",
+      "category": "Garden",
+      "stock": 19,
+      "rating": 1
+    },
+    {
+      "id": "999133ce-331c-4236-90fc-036949bd82b6",
+      "name": "Awesome Steel Gloves",
+      "price": 339,
+      "shortDescription": "Professional-grade Fish perfect for rotten training and recreational use",
+      "image": "https://picsum.photos/seed/999133ce-331c-4236-90fc-036949bd82b6/800/800",
+      "category": "Beauty",
+      "stock": 62,
+      "rating": 4
+    },
+    {
+      "id": "658daabc-451a-4e57-bc36-936a6ad25ba9",
+      "name": "Intelligent Wooden Chair",
+      "price": 628,
+      "shortDescription": "Introducing the Turkmenistan-inspired Keyboard, blending portly style with local craftsmanship",
+      "image": "https://picsum.photos/seed/658daabc-451a-4e57-bc36-936a6ad25ba9/800/800",
+      "category": "Health",
+      "stock": 74,
+      "rating": 2
+    },
+    {
+      "id": "6258ab86-9d80-4797-948a-c06f230c13d1",
+      "name": "Refined Granite Keyboard",
+      "price": 977,
+      "shortDescription": "Introducing the Libyan Arab Jamahiriya-inspired Gloves, blending edible style with local craftsmanship",
+      "image": "https://picsum.photos/seed/6258ab86-9d80-4797-948a-c06f230c13d1/800/800",
+      "category": "Automotive",
+      "stock": 34,
+      "rating": 3
+    },
+    {
+      "id": "c02ed144-06e6-4093-94e7-422f315d91f4",
+      "name": "Small Fresh Bacon",
+      "price": 881,
+      "shortDescription": "Savor the savory essence in our Sausages, designed for meaty culinary adventures",
+      "image": "https://picsum.photos/seed/c02ed144-06e6-4093-94e7-422f315d91f4/800/800",
+      "category": "Automotive",
+      "stock": 13,
+      "rating": 5
+    },
+    {
+      "id": "19780166-f1cd-4b48-b43a-7a6d1e5f516e",
+      "name": "Gorgeous Soft Gloves",
+      "price": 471,
+      "shortDescription": "The maroon Bike combines Zimbabwe aesthetics with Beryllium-based durability",
+      "image": "https://picsum.photos/seed/19780166-f1cd-4b48-b43a-7a6d1e5f516e/800/800",
+      "category": "Books",
+      "stock": 45,
+      "rating": 3
+    },
+    {
+      "id": "719f32df-4c61-4b04-8fba-96b357cd9543",
+      "name": "Luxurious Steel Car",
+      "price": 818,
+      "shortDescription": "Professional-grade Soap perfect for scratchy training and recreational use",
+      "image": "https://picsum.photos/seed/719f32df-4c61-4b04-8fba-96b357cd9543/800/800",
+      "category": "Movies",
+      "stock": 39,
+      "rating": 1
+    },
+    {
+      "id": "d508ee8e-e98a-4d0a-b421-68ed7a66d7b6",
+      "name": "Awesome Metal Pants",
+      "price": 308,
+      "shortDescription": "The sleek and rotating Sausages comes with orchid LED lighting for smart functionality",
+      "image": "https://picsum.photos/seed/d508ee8e-e98a-4d0a-b421-68ed7a66d7b6/800/800",
+      "category": "Garden",
+      "stock": 62,
+      "rating": 2
+    },
+    {
+      "id": "f0fa5d80-732e-4005-b004-2ac8051b0f1e",
+      "name": "Tasty Metal Sausages",
+      "price": 693,
+      "shortDescription": "The Face to face mission-critical data-warehouse Salad offers reliable performance and unfortunate design",
+      "image": "https://picsum.photos/seed/f0fa5d80-732e-4005-b004-2ac8051b0f1e/800/800",
+      "category": "Sports",
+      "stock": 30,
+      "rating": 5
+    },
+    {
+      "id": "b8c0fb75-577a-4ce8-95ba-599c8fe19442",
+      "name": "Generic Wooden Bacon",
+      "price": 780,
+      "shortDescription": "Professional-grade Fish perfect for separate training and recreational use",
+      "image": "https://picsum.photos/seed/b8c0fb75-577a-4ce8-95ba-599c8fe19442/800/800",
+      "category": "Outdoors",
+      "stock": 72,
+      "rating": 3
+    },
+    {
+      "id": "399bf9ac-5093-4d07-a4f3-a0c20314f5ad",
+      "name": "Small Frozen Shirt",
+      "price": 386,
+      "shortDescription": "The sleek and concrete Chair comes with sky blue LED lighting for smart functionality",
+      "image": "https://picsum.photos/seed/399bf9ac-5093-4d07-a4f3-a0c20314f5ad/800/800",
+      "category": "Industrial",
+      "stock": 35,
+      "rating": 1
+    },
+    {
+      "id": "4328b173-c483-4177-b222-0ad787faf86a",
+      "name": "Intelligent Concrete Sausages",
+      "price": 519,
+      "shortDescription": "The sleek and unripe Tuna comes with cyan LED lighting for smart functionality",
+      "image": "https://picsum.photos/seed/4328b173-c483-4177-b222-0ad787faf86a/800/800",
+      "category": "Grocery",
+      "stock": 9,
+      "rating": 1
+    },
+    {
+      "id": "9c21b00c-6867-44c2-97e2-8c99c8b9adbe",
+      "name": "Fantastic Rubber Salad",
+      "price": 333,
+      "shortDescription": "Experience the mint green brilliance of our Shoes, perfect for untrue environments",
+      "image": "https://picsum.photos/seed/9c21b00c-6867-44c2-97e2-8c99c8b9adbe/800/800",
+      "category": "Movies",
+      "stock": 40,
+      "rating": 5
+    },
+    {
+      "id": "17cf424d-7784-45c1-974b-e09b2e978a92",
+      "name": "Fantastic Frozen Chicken",
+      "price": 777,
+      "shortDescription": "Introducing the Hungary-inspired Keyboard, blending rare style with local craftsmanship",
+      "image": "https://picsum.photos/seed/17cf424d-7784-45c1-974b-e09b2e978a92/800/800",
+      "category": "Tools",
+      "stock": 85,
+      "rating": 4
+    },
+    {
+      "id": "ca1dcb7b-6af3-4faa-bfd7-b450d4543d60",
+      "name": "Handmade Fresh Bike",
+      "price": 107,
+      "shortDescription": "Discover the radiant new Sausages with an exciting mix of Granite ingredients",
+      "image": "https://picsum.photos/seed/ca1dcb7b-6af3-4faa-bfd7-b450d4543d60/800/800",
+      "category": "Toys",
+      "stock": 97,
+      "rating": 1
+    },
+    {
+      "id": "8cd43907-871c-4ac1-941a-f24176ad7457",
+      "name": "Generic Rubber Towels",
+      "price": 903,
+      "shortDescription": "The sleek and unwritten Sausages comes with violet LED lighting for smart functionality",
+      "image": "https://picsum.photos/seed/8cd43907-871c-4ac1-941a-f24176ad7457/800/800",
+      "category": "Kids",
+      "stock": 72,
+      "rating": 3
+    },
+    {
+      "id": "04472905-0a11-44d9-970e-c1e98b87945c",
+      "name": "Gorgeous Rubber Tuna",
+      "price": 152,
+      "shortDescription": "Ergonomic Shoes made with Rubber for all-day excitable support",
+      "image": "https://picsum.photos/seed/04472905-0a11-44d9-970e-c1e98b87945c/800/800",
+      "category": "Jewelry",
+      "stock": 36,
+      "rating": 2
+    },
+    {
+      "id": "a32b5856-6c3a-4239-8f24-b9e3472190dc",
+      "name": "Recycled Plastic Cheese",
+      "price": 866,
+      "shortDescription": "Professional-grade Car perfect for juvenile training and recreational use",
+      "image": "https://picsum.photos/seed/a32b5856-6c3a-4239-8f24-b9e3472190dc/800/800",
+      "category": "Home",
+      "stock": 8,
+      "rating": 1
+    },
+    {
+      "id": "c842e078-65a0-4933-9973-a52cdfb259b6",
+      "name": "Unbranded Wooden Pants",
+      "price": 785,
+      "shortDescription": "Our sweet-inspired Bacon brings a taste of luxury to your subdued lifestyle",
+      "image": "https://picsum.photos/seed/c842e078-65a0-4933-9973-a52cdfb259b6/800/800",
+      "category": "Clothing",
+      "stock": 71,
+      "rating": 2
+    },
+    {
+      "id": "ba82b639-6fe0-4ab4-a928-0b0207279983",
+      "name": "Gorgeous Metal Computer",
+      "price": 143,
+      "shortDescription": "Discover the elephant-like agility of our Table, perfect for glass users",
+      "image": "https://picsum.photos/seed/ba82b639-6fe0-4ab4-a928-0b0207279983/800/800",
+      "category": "Baby",
+      "stock": 53,
+      "rating": 5
+    },
+    {
+      "id": "ae7c71da-d1bb-4518-991f-3396e8e0c55a",
+      "name": "Sleek Granite Mouse",
+      "price": 665,
+      "shortDescription": "The Front-line responsive local area network Pants offers reliable performance and roasted design",
+      "image": "https://picsum.photos/seed/ae7c71da-d1bb-4518-991f-3396e8e0c55a/800/800",
+      "category": "Health",
+      "stock": 24,
+      "rating": 4
+    },
+    {
+      "id": "7a25a124-663f-4c2f-9fb2-209af3c6709d",
+      "name": "Oriental Plastic Shirt",
+      "price": 868,
+      "shortDescription": "Gorgeous Bacon designed with Plastic for cute performance",
+      "image": "https://picsum.photos/seed/7a25a124-663f-4c2f-9fb2-209af3c6709d/800/800",
+      "category": "Automotive",
+      "stock": 20,
+      "rating": 3
+    },
+    {
+      "id": "4bedbbd8-b35a-4488-aa12-b0919260c4e7",
+      "name": "Modern Granite Tuna",
+      "price": 545,
+      "shortDescription": "Our creamy-inspired Bike brings a taste of luxury to your pure lifestyle",
+      "image": "https://picsum.photos/seed/4bedbbd8-b35a-4488-aa12-b0919260c4e7/800/800",
+      "category": "Toys",
+      "stock": 2,
+      "rating": 1
+    },
+    {
+      "id": "26091153-1d83-4eb9-9783-7b1943f027cd",
+      "name": "Electronic Plastic Computer",
+      "price": 916,
+      "shortDescription": "The Brent Pants is the latest in a series of faraway products from Bins, Cartwright and Daniel",
+      "image": "https://picsum.photos/seed/26091153-1d83-4eb9-9783-7b1943f027cd/800/800",
+      "category": "Baby",
+      "stock": 69,
+      "rating": 2
+    },
+    {
+      "id": "8ca04df8-5601-47fe-882a-f07a881103a6",
+      "name": "Practical Rubber Mouse",
+      "price": 795,
+      "shortDescription": "Featuring Lithium-enhanced technology, our Mouse offers unparalleled shrill performance",
+      "image": "https://picsum.photos/seed/8ca04df8-5601-47fe-882a-f07a881103a6/800/800",
+      "category": "Electronics",
+      "stock": 31,
+      "rating": 1
+    },
+    {
+      "id": "8404ad23-6aac-4e8f-b745-1a7d95498487",
+      "name": "Rustic Soft Ball",
+      "price": 709,
+      "shortDescription": "Our bee-friendly Ball ensures trusting comfort for your pets",
+      "image": "https://picsum.photos/seed/8404ad23-6aac-4e8f-b745-1a7d95498487/800/800",
+      "category": "Electronics",
+      "stock": 40,
+      "rating": 1
+    },
+    {
+      "id": "13730bb6-9b79-4865-a90b-c886015f9e96",
+      "name": "Licensed Metal Pizza",
+      "price": 880,
+      "shortDescription": "Awesome Chicken designed with Metal for impish performance",
+      "image": "https://picsum.photos/seed/13730bb6-9b79-4865-a90b-c886015f9e96/800/800",
+      "category": "Beauty",
+      "stock": 57,
+      "rating": 4
+    },
+    {
+      "id": "fc69b4f5-5a2d-4612-8a50-25b6b81dc97e",
+      "name": "Luxurious Bronze Shoes",
+      "price": 443,
+      "shortDescription": "Our fresh-inspired Ball brings a taste of luxury to your well-worn lifestyle",
+      "image": "https://picsum.photos/seed/fc69b4f5-5a2d-4612-8a50-25b6b81dc97e/800/800",
+      "category": "Computers",
+      "stock": 86,
+      "rating": 5
+    },
+    {
+      "id": "a9a4dd29-989f-478f-a37c-64ce5b6c0b57",
+      "name": "Handmade Frozen Hat",
+      "price": 633,
+      "shortDescription": "New Shoes model with 29 GB RAM, 46 GB storage, and rewarding features",
+      "image": "https://picsum.photos/seed/a9a4dd29-989f-478f-a37c-64ce5b6c0b57/800/800",
+      "category": "Industrial",
+      "stock": 8,
+      "rating": 1
+    },
+    {
+      "id": "d7b77715-def8-4181-b324-7e1fb6cda9d2",
+      "name": "Handcrafted Steel Chips",
+      "price": 136,
+      "shortDescription": "Our zesty-inspired Table brings a taste of luxury to your damp lifestyle",
+      "image": "https://picsum.photos/seed/d7b77715-def8-4181-b324-7e1fb6cda9d2/800/800",
+      "category": "Books",
+      "stock": 100,
+      "rating": 5
+    },
+    {
+      "id": "b5f798e0-59ff-4b0a-8c08-87a2db88f196",
+      "name": "Fantastic Wooden Pizza",
+      "price": 489,
+      "shortDescription": "Stylish Chips designed to make you stand out with blind looks",
+      "image": "https://picsum.photos/seed/b5f798e0-59ff-4b0a-8c08-87a2db88f196/800/800",
+      "category": "Music",
+      "stock": 93,
+      "rating": 2
+    },
+    {
+      "id": "a02f4703-7be4-40c0-9640-52be0df2b2bd",
+      "name": "Handcrafted Rubber Computer",
+      "price": 477,
+      "shortDescription": "Stylish Bacon designed to make you stand out with bright looks",
+      "image": "https://picsum.photos/seed/a02f4703-7be4-40c0-9640-52be0df2b2bd/800/800",
+      "category": "Baby",
+      "stock": 12,
+      "rating": 5
+    },
+    {
+      "id": "67285bdd-9df0-426b-b0e6-9c7a9d3a0d6b",
+      "name": "Luxurious Metal Gloves",
+      "price": 679,
+      "shortDescription": "Our moist-inspired Chair brings a taste of luxury to your respectful lifestyle",
+      "image": "https://picsum.photos/seed/67285bdd-9df0-426b-b0e6-9c7a9d3a0d6b/800/800",
+      "category": "Movies",
+      "stock": 59,
+      "rating": 2
+    },
+    {
+      "id": "65e6ab39-f203-41e2-8edb-70403ea9fd59",
+      "name": "Bespoke Granite Salad",
+      "price": 590,
+      "shortDescription": "Experience the cyan brilliance of our Soap, perfect for nautical environments",
+      "image": "https://picsum.photos/seed/65e6ab39-f203-41e2-8edb-70403ea9fd59/800/800",
+      "category": "Games",
+      "stock": 52,
+      "rating": 5
+    },
+    {
+      "id": "0b27a45d-8afa-42c6-9c1a-23871a37c46a",
+      "name": "Bespoke Metal Table",
+      "price": 355,
+      "shortDescription": "The indigo Towels combines Guam aesthetics with Terbium-based durability",
+      "image": "https://picsum.photos/seed/0b27a45d-8afa-42c6-9c1a-23871a37c46a/800/800",
+      "category": "Jewelry",
+      "stock": 15,
+      "rating": 5
+    },
+    {
+      "id": "99f56027-bbad-4577-8634-26f074401dd1",
+      "name": "Practical Concrete Bacon",
+      "price": 856,
+      "shortDescription": "Stylish Salad designed to make you stand out with strict looks",
+      "image": "https://picsum.photos/seed/99f56027-bbad-4577-8634-26f074401dd1/800/800",
+      "category": "Beauty",
+      "stock": 91,
+      "rating": 2
+    },
+    {
+      "id": "f9f178ab-da3a-4f0f-a50c-d59ac2cdc4ac",
+      "name": "Small Fresh Salad",
+      "price": 964,
+      "shortDescription": "Discover the worthy new Car with an exciting mix of Steel ingredients",
+      "image": "https://picsum.photos/seed/f9f178ab-da3a-4f0f-a50c-d59ac2cdc4ac/800/800",
+      "category": "Grocery",
+      "stock": 94,
+      "rating": 5
+    },
+    {
+      "id": "526c3406-dd90-41fc-b3f0-8daaf2e17280",
+      "name": "Handcrafted Granite Soap",
+      "price": 602,
+      "shortDescription": "The sleek and wrathful Salad comes with purple LED lighting for smart functionality",
+      "image": "https://picsum.photos/seed/526c3406-dd90-41fc-b3f0-8daaf2e17280/800/800",
+      "category": "Health",
+      "stock": 100,
+      "rating": 2
+    },
+    {
+      "id": "3f91b507-6b30-497f-86c7-7389fd690a32",
+      "name": "Sleek Cotton Chair",
+      "price": 508,
+      "shortDescription": "The Tyreek Pants is the latest in a series of private products from Schoen - Wilderman",
+      "image": "https://picsum.photos/seed/3f91b507-6b30-497f-86c7-7389fd690a32/800/800",
+      "category": "Outdoors",
+      "stock": 93,
+      "rating": 2
+    },
+    {
+      "id": "2e85db54-8f18-4b12-9f20-fe0d0bd42af3",
+      "name": "Unbranded Frozen Bike",
+      "price": 941,
+      "shortDescription": "The Stevie Chair is the latest in a series of moral products from Metz, Fritsch and Hilpert",
+      "image": "https://picsum.photos/seed/2e85db54-8f18-4b12-9f20-fe0d0bd42af3/800/800",
+      "category": "Games",
+      "stock": 9,
+      "rating": 4
+    },
+    {
+      "id": "bf721fbb-3777-403f-91e7-7720a8793b9a",
+      "name": "Electronic Bronze Shoes",
+      "price": 652,
+      "shortDescription": "The Exclusive 24 hour application Ball offers reliable performance and simple design",
+      "image": "https://picsum.photos/seed/bf721fbb-3777-403f-91e7-7720a8793b9a/800/800",
+      "category": "Clothing",
+      "stock": 62,
+      "rating": 1
+    },
+    {
+      "id": "efdc47b8-d2c1-4b45-b279-d9ed1a6943ee",
+      "name": "Handmade Frozen Bike",
+      "price": 741,
+      "shortDescription": "Professional-grade Chicken perfect for limited training and recreational use",
+      "image": "https://picsum.photos/seed/efdc47b8-d2c1-4b45-b279-d9ed1a6943ee/800/800",
+      "category": "Clothing",
+      "stock": 83,
+      "rating": 2
+    }
+  ]
+}
