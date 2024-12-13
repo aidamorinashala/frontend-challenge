@@ -1,4 +1,4 @@
-# Thoughprocess 
+# Thought process 
 
 ## Initial steps
 1. Reading through the instructions and go through tech stack and code.
@@ -28,11 +28,14 @@ Reviewing the new code and I see the improvments and I test that it toggles corr
 
 Upon checking the Image it is also missing the sizes property and using legacy properties. Updating it be with the new ones. At this stage I haven't decided if images should be lazy loaded as well. Have to see the effects of performance with the infinite scroll. 
 
+My next step is now to refactor the ProductGrid with the elements to be into reusable components and extract types and other things like hooks to be reusable. 
+
 
 ## Todo 
 - [ ] Check for root layout and query client provider for react query
 - [ ] Image lazy loading Next.js 
 - [ ] If time fix stars to be aligned at the bottom always to a fixed position.
+- [ ] If time fix the loading and error handling to be prettier. 
 
 
 ## Final thoughts and what where opted out 
