@@ -3,8 +3,9 @@
 import { SDK } from '@/utils/sdk';
 import { useState } from 'react';
 import { useQuery } from '@tanstack/react-query';
-import { Grid, List, Star } from 'lucide-react';
+import { Grid, List } from 'lucide-react';
 import Image from 'next/image';
+import { StarRating } from '@/components/Rating/StarRating';
 
 type ViewMode = 'grid' | 'list';
 
@@ -62,7 +63,6 @@ export function ProductGrid() {
                 sizes="(max-width: 640px) 100vw, (max-width: 768px) 50vw, 33vw"
               />
             </div>
-
             <div className="flex-1">
               <h3 className="text-lg font-semibold mb-2">{product.name}</h3>
               <span className="inline-block bg-blue-100 text-blue-600 text-sm px-3 py-1 mb-2 rounded-full">
@@ -70,16 +70,7 @@ export function ProductGrid() {
               </span>
               <p className="text-gray-500 mb-2">{product.shortDescription}</p>
               <p className="text-gray-700 font-medium mb-2">${product.price}</p>
-              <div className="flex items-center gap-1 mt-2">
-                {[...Array(5)].map((_, i) => (
-                  <Star
-                    key={i}
-                    size={16}
-                    fill={ i < product.rating ? "#eab308" : "#d1d5db" }
-                    className={i < product.rating ? 'text-yellow-500' : 'text-gray-300'}
-                  />
-                ))}
-              </div>
+              <StarRating productRating={product.rating}/>
             </div>
           </div>
         ))}
