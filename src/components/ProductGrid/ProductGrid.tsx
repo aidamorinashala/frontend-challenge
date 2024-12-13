@@ -6,11 +6,10 @@ import { useQuery } from '@tanstack/react-query';
 import { Grid, List } from 'lucide-react';
 import Image from 'next/image';
 import { StarRating } from '@/components/Rating/StarRating';
-
-type ViewMode = 'grid' | 'list';
+import { useViewMode } from '@/hooks/useViewMode';
 
 export function ProductGrid() {
-  const [viewMode, setViewMode] = useState<ViewMode>('grid');
+  const { viewMode, toggleViewMode } = useViewMode('grid');
 
   const { data: products = [], isLoading, isError } = useQuery({
     queryKey: ['products', { limit: 10, offset: 0 }],
@@ -30,7 +29,7 @@ export function ProductGrid() {
               ? 'bg-blue-500 text-white border-blue-500'
               : 'bg-white text-blue-500 border-blue-500'
           }`}
-          onClick={() => setViewMode((prev) => (prev === 'grid' ? 'list' : 'grid'))}
+          onClick={toggleViewMode}
         >
           {viewMode === 'grid' ? <List size={18} /> : <Grid size={18} />}
           Switch to {viewMode === 'grid' ? 'List' : 'Grid'} View
