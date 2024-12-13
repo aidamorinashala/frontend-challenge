@@ -1,12 +1,11 @@
 'use client';
 
 import { SDK } from '@/utils/sdk';
-import { useState } from 'react';
 import { useQuery } from '@tanstack/react-query';
-import { Grid, List } from 'lucide-react';
 import Image from 'next/image';
 import { StarRating } from '@/components/Rating/StarRating';
 import { useViewMode } from '@/hooks/useViewMode';
+import { ViewModeToggle } from '../Toggle/ViewModeToggle';
 
 export function ProductGrid() {
   const { viewMode, toggleViewMode } = useViewMode('grid');
@@ -23,17 +22,7 @@ export function ProductGrid() {
   return (
     <div className="container mx-auto px-4 py-6">
       <div className="flex justify-end mb-4">
-        <button
-          className={`flex items-center gap-2 px-4 py-2 border rounded-md font-medium ${
-            viewMode === 'grid'
-              ? 'bg-blue-500 text-white border-blue-500'
-              : 'bg-white text-blue-500 border-blue-500'
-          }`}
-          onClick={toggleViewMode}
-        >
-          {viewMode === 'grid' ? <List size={18} /> : <Grid size={18} />}
-          Switch to {viewMode === 'grid' ? 'List' : 'Grid'} View
-        </button>
+        <ViewModeToggle viewMode={viewMode} toggleViewMode={toggleViewMode}/> 
       </div>
       <div
         className={
