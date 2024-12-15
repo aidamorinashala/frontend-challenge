@@ -1,6 +1,7 @@
 # Thought process 
 
-## Initial steps
+## Challenge 1
+### Initial steps
 1. Reading through the instructions and go through tech stack and code.
 
 2.Chosing to use pnpm. Have worked with it before and I like the speed of it and
@@ -11,7 +12,7 @@
 
 5. Then using chatgpt to start with the challenge number one. I asked it like this: You are a frontend developer with modern technology experience in next.js, react 19 features, react-query and typescript. I need you to: Create a responsive grid/list view of products from the existing data, with a toggle button to switch between grid and list view. Current code at the moment that needs to be redone. (pasted in the code). 
 
-## Next steps 
+### Next steps 
 Reviewing the code and look and feel give from chatgp I also then prompted to include lucide icons since I didn't do that in the first prompt.  
 Here is the prompt:  You can also use lucide react for icon, so can you update the code including the icons from there that fits for list and grid.
 
@@ -34,8 +35,12 @@ After this I decided to tackle the infinite scroll. First I read about it and al
 Chatgpt changes to use the infinite solution from react query but also adds an Intersection observer. I learned something new here! How convenient is this!
 Reviewing and testing it. Not very smooth but that could be an area of improvement but out of scope and time.
 
+## Challenge 2 
+Continue to use the react-query for this and adding the plugin to use for persitent storage. Instead of adding a new library.
 
-## Todo 
+Then refactoring the query client provider to be in own file and import in root layout. 
+
+## Todos 
 - [ ] Check for root layout and query client provider for react query
 - [ ] Image lazy loading Next.js 
 - [ ] If time fix stars to be aligned at the bottom always to a fixed position.

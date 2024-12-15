@@ -1,5 +1,6 @@
 import { Instructions } from '@/components/Instructions'
 import { Header } from '@/components/Layout/Header/Header'
+import { ReactQueryProvider } from '@/providers/ReactQueryClientProvider';
 import type { Metadata } from 'next'
 import { Manrope } from 'next/font/google'
 import localFont from 'next/font/local'
@@ -32,15 +33,15 @@ export default async function RootLayout(
         <link rel="icon" href="/favicon.svg" sizes="any" />
       </head>
       <body className={[manrope.className, futuraPT.variable].join(' ')}>
+        <ReactQueryProvider>
         <Header />
-
         <div className="container mx-auto flex gap-8">
           <main className="py-8 flex-1">
             <div className="container mx-auto">{props.children}</div>
           </main>
-
           <Instructions />
         </div>
+        </ReactQueryProvider>
       </body>
     </html>
   )
