@@ -17,3 +17,7 @@ This is a Next.js application.
 ## Thought process of completing the challenges
 Read about them here: [Thought process documentation](thoughtprocess.md)
 
+
+## Challenge README
+
+Can be found here: [Challenge Instructions](challenge-readme.md)
