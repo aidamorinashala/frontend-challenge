@@ -45,6 +45,7 @@ Deciding to do a hook for useCart.
 Weighting in if I should do optimistic UI for adding to cart but lack of time and opting out.
 
 Using react-hot-toast because lighweight and not so much to config for this challenge. 
+Not adding much styling or focus to this. 
 
 ## Todos 
 - [x] Check for root layout and query client provider for react query
@@ -63,3 +64,5 @@ Using react-hot-toast because lighweight and not so much to config for this chal
 - Infinite scroll smootheness animation.
 - If I would have more time I would check more on accesibility on the solutions.
 - The cart has a delay to show the adding of the item the optimal would be a instant update and use optimistic ui. 
+- Use more styled toast to convey the success better of adding it. No error toast added if something fails. 
+- The rest of todos was also opted out due to time. 
