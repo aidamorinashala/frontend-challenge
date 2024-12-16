@@ -29,7 +29,7 @@ export default async function Challenge2() {
           </div>
 
           <div>
-            <AddToCartButton productId={product.id} />
+            <AddToCartButton productId={product.id} productTitle={product.name} />
           </div>
         </div>
       </div>

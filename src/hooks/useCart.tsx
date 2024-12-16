@@ -1,8 +1,10 @@
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
+import toast, { Toast } from 'react-hot-toast';
 
 interface CartItem {
   productId: string
-  quantity: number
+  quantity: number,
+  productTitle: string,
 }
 
 export const useCart = () => {
@@ -31,6 +33,7 @@ export const useCart = () => {
       if (!response.ok) {
         throw new Error('Failed to add to cart');
       }
+      toast(`${item.productTitle} added to cart!`);
       return response.json();
     },
     onSuccess: () => {

@@ -2,12 +2,11 @@
 
 import { useCart } from '@/hooks/useCart';
 
-export function AddToCartButton({ productId }: { productId: string }) {
+export function AddToCartButton({ productId, productTitle }: { productId: string, productTitle: string }) {
   const { addToCart } = useCart();
 
   const handleAddToCart = () => {
-    console.log('aadding to cart')
-    addToCart({ productId, quantity: 1 });
+    addToCart({ productId, quantity: 1, productTitle });
   };
 
   return (

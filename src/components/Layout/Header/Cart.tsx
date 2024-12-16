@@ -14,7 +14,7 @@ export function Cart() {
       {isCartLoading ? (
         <span>Loading</span>
       ) : (
-        <span>
+        <span aria-live='polite'>
           <b>{cartCount}</b> {cartCount === 1 ? 'item' : 'items'} in cart
         </span>
       )}
