@@ -40,8 +40,12 @@ Continue to use the react-query for this and adding the plugin to use for persit
 
 Then refactoring the query client provider to be in own file and import in root layout. 
 
+Deciding to do a hook for useCart. 
+
+Weighting in if I should do optimistic UI for adding to cart but lack of time. 
+
 ## Todos 
-- [ ] Check for root layout and query client provider for react query
+- [x] Check for root layout and query client provider for react query
 - [ ] Image lazy loading Next.js 
 - [ ] If time fix stars to be aligned at the bottom always to a fixed position.
 - [ ] If time fix the loading and error handling to be prettier. 
@@ -56,3 +60,4 @@ Then refactoring the query client provider to be in own file and import in root 
 - The star rating is now naivly taking as if the rating is 5 out 5. No checking if other rating system exist. I would have made such functionality then to check so right system would be used.
 - Infinite scroll smootheness animation.
 - If I would have more time I would check more on accesibility on the solutions.
+- The cart has a delay to show the adding of the item the optimal would be a instant update and use optimistic ui. 
