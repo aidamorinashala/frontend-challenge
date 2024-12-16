@@ -42,7 +42,9 @@ Then refactoring the query client provider to be in own file and import in root 
 
 Deciding to do a hook for useCart. 
 
-Weighting in if I should do optimistic UI for adding to cart but lack of time. 
+Weighting in if I should do optimistic UI for adding to cart but lack of time and opting out.
+
+Using react-hot-toast because lighweight and not so much to config for this challenge. 
 
 ## Todos 
 - [x] Check for root layout and query client provider for react query

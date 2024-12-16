@@ -4,6 +4,7 @@ import { ReactQueryProvider } from '@/providers/ReactQueryClientProvider';
 import type { Metadata } from 'next'
 import { Manrope } from 'next/font/google'
 import localFont from 'next/font/local'
+import { Toaster } from 'react-hot-toast';
 import './globals.css'
 
 const manrope = Manrope({
@@ -33,6 +34,7 @@ export default async function RootLayout(
         <link rel="icon" href="/favicon.svg" sizes="any" />
       </head>
       <body className={[manrope.className, futuraPT.variable].join(' ')}>
+        <Toaster />
         <ReactQueryProvider>
         <Header />
         <div className="container mx-auto flex gap-8">
